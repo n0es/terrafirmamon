@@ -55,6 +55,12 @@ once and every launch afterwards syncs whatever changed.
 Updating is just launching the game. There is no mod to install and nothing to re-download by
 hand.
 
+> **Four mods need installing once, by hand.** Three Adaptive Performance Tweaks modules and
+> Soulbinding have third-party distribution turned off by their authors, so nothing may fetch
+> them automatically. Grab them from CurseForge into `mods/` — see
+> [docs/curseforge-metadata-mods.md](docs/curseforge-metadata-mods.md). Everything else is
+> automatic.
+
 ## What is in this repository
 
 Configs, KubeJS scripts, resource packs and the packwiz index — everything that makes this pack

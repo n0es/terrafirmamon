@@ -1,0 +1,13 @@
+name = "simplystacked-1.20-1.2"
+filename = "simplystacked-1.20-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7657/445/simplystacked-1.20-1.2.jar"
+hash-format = "sha1"
+hash = "5a11949ef401ebdba1a9d4ba1f9fcece057146bd"
+
+[update]
+[update.curseforge]
+file-id = 7657445
+project-id = 523416

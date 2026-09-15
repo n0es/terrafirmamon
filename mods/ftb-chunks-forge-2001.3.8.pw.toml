@@ -1,0 +1,13 @@
+name = "ftb-chunks-forge-2001.3.8"
+filename = "ftb-chunks-forge-2001.3.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8216/874/ftb-chunks-forge-2001.3.8.jar"
+hash-format = "sha1"
+hash = "ee2d0cdac6d2ca31f43da30f76dff8c6bae9d687"
+
+[update]
+[update.curseforge]
+file-id = 8216874
+project-id = 314906

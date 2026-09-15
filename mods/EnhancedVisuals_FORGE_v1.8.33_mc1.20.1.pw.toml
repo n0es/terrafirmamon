@@ -1,0 +1,13 @@
+name = "EnhancedVisuals_FORGE_v1.8.33_mc1.20.1"
+filename = "EnhancedVisuals_FORGE_v1.8.33_mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8676/471/EnhancedVisuals_FORGE_v1.8.33_mc1.20.1.jar"
+hash-format = "sha1"
+hash = "c82aeb64e63b4b6adc627da337ece4f5021dbb24"
+
+[update]
+[update.curseforge]
+file-id = 8676471
+project-id = 255389

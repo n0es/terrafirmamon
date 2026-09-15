@@ -1,0 +1,13 @@
+name = "tfcscraping-1.0.2"
+filename = "tfcscraping-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6133/109/tfcscraping-1.0.2.jar"
+hash-format = "sha1"
+hash = "a28cf46a637287b308058abb678fbf382198f3fe"
+
+[update]
+[update.curseforge]
+file-id = 6133109
+project-id = 1172700

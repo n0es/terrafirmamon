@@ -1,0 +1,13 @@
+name = "domum_ornamentum-1.20.1-1.0.303-snapshot-universal"
+filename = "domum_ornamentum-1.20.1-1.0.303-snapshot-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8338/110/domum_ornamentum-1.20.1-1.0.303-snapshot-universal.jar"
+hash-format = "sha1"
+hash = "55e995964dfd5baa68a5e7ccd6997b3f77ae608e"
+
+[update]
+[update.curseforge]
+file-id = 8338110
+project-id = 527361

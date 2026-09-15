@@ -1,0 +1,13 @@
+name = "SmartBrainLib-forge-1.20.1-1.15"
+filename = "SmartBrainLib-forge-1.20.1-1.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5654/964/SmartBrainLib-forge-1.20.1-1.15.jar"
+hash-format = "sha1"
+hash = "d278b6ca36075c4d097677345a25751f9aeed3c1"
+
+[update]
+[update.curseforge]
+file-id = 5654964
+project-id = 661293

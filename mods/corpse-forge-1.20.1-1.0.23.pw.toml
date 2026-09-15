@@ -1,0 +1,13 @@
+name = "corpse-forge-1.20.1-1.0.23"
+filename = "corpse-forge-1.20.1-1.0.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7018/272/corpse-forge-1.20.1-1.0.23.jar"
+hash-format = "sha1"
+hash = "843b16ca88bc5c390bb22a2a84437e6bffdd43dd"
+
+[update]
+[update.curseforge]
+file-id = 7018272
+project-id = 316582

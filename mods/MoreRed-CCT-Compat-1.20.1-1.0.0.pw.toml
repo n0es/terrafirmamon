@@ -1,0 +1,13 @@
+name = "MoreRed-CCT-Compat-1.20.1-1.0.0"
+filename = "MoreRed-CCT-Compat-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4650/653/MoreRed-CCT-Compat-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "ed57300c9b6e335af2a6a386fc2d373b4b5daaf4"
+
+[update]
+[update.curseforge]
+file-id = 4650653
+project-id = 867286

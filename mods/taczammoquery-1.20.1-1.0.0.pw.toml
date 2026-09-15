@@ -1,0 +1,13 @@
+name = "taczammoquery-1.20.1-1.0.0"
+filename = "taczammoquery-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6318/890/taczammoquery-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "e3d20ecf37d57b2ce0541cd0b082355853566296"
+
+[update]
+[update.curseforge]
+file-id = 6318890
+project-id = 1223006

@@ -1,0 +1,13 @@
+name = "SoulBinding1.20.1-Forge-vs1.0.2"
+filename = "SoulBinding1.20.1(Forge)vs1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b794e39c75a28753900dfe81d97137bc1d7b50d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4928200
+project-id = 925229

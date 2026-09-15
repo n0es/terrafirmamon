@@ -1,0 +1,13 @@
+name = "alltheleaks-1.1.1-1.20.1-forge"
+filename = "alltheleaks-1.1.1+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7235/989/alltheleaks-1.1.1%2b1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "3c43c2e76093dc7ef5ad6e456d20da9674c653aa"
+
+[update]
+[update.curseforge]
+file-id = 7235989
+project-id = 1091339

@@ -1,0 +1,13 @@
+name = "tfcstructuremodc-0.0.4"
+filename = "tfcstructuremodc-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6019/462/tfcstructuremodc-0.0.4.jar"
+hash-format = "sha1"
+hash = "30cdc7fb5e39545feaeb5f09b6fb4ccaf09aec14"
+
+[update]
+[update.curseforge]
+file-id = 6019462
+project-id = 1129845

@@ -1,0 +1,13 @@
+name = "deafission-1.20.1-0.16.0"
+filename = "deafission-1.20.1-0.16.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7633/771/deafission-1.20.1-0.16.0.jar"
+hash-format = "sha1"
+hash = "80083ceeeeedd6c591ce63ee5c2c4891e431fe4a"
+
+[update]
+[update.curseforge]
+file-id = 7633771
+project-id = 1354541

@@ -1,0 +1,13 @@
+name = "sandworm_mod-1.2.0"
+filename = "sandworm_mod-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7840/625/sandworm_mod-1.2.0.jar"
+hash-format = "sha1"
+hash = "aead13ba60e0137eabbba8c05c42a50107977be9"
+
+[update]
+[update.curseforge]
+file-id = 7840625
+project-id = 1496185

@@ -1,0 +1,13 @@
+name = "serializer_debug-1.0.1"
+filename = "serializer_debug-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6028/801/serializer_debug-1.0.1.jar"
+hash-format = "sha1"
+hash = "2eb23fc7753d4c6e1621617501eea366fd1a0bed"
+
+[update]
+[update.curseforge]
+file-id = 6028801
+project-id = 1166778

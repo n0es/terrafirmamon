@@ -1,0 +1,13 @@
+name = "grapplingHookMod-Reforged-1.2"
+filename = "grapplingHookMod-Reforged-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7087/90/grapplingHookMod-Reforged-1.2.jar"
+hash-format = "sha1"
+hash = "aa53625ab5e145c6aa196645335b062b37ae82da"
+
+[update]
+[update.curseforge]
+file-id = 7087090
+project-id = 1166811

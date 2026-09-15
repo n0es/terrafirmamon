@@ -80939,17 +80939,17 @@ metafile = true
 
 [[files]]
 file = "mods/adaptive_performance_tweaks_gamerules_1.20.1-11.6.1.pw.toml"
-hash = "608860535347d2f0018cd5d82198603329627963080be4412b14f20cc6a43eeb"
+hash = "10078d3c405e254773eae882dc4f18266c812876b9d213ce6af25dddcc375048"
 metafile = true
 
 [[files]]
 file = "mods/adaptive_performance_tweaks_items_1.20.1-11.6.1.pw.toml"
-hash = "0bf012ebe15ad0148eba0fcc4b611411063fbb9205ab5830faf121f10ac9f6a0"
+hash = "285dd9828febef6fbd6d7de0415f40ed0572ea26400a9d946b0ff31ed0154370"
 metafile = true
 
 [[files]]
 file = "mods/adaptive_performance_tweaks_player_1.20.1-11.6.1.pw.toml"
-hash = "a54f6ba85bde9be471accc4497dfaedfcd40e16de5ff644f41220e456f1d0078"
+hash = "cbae7e1b492ef8eaab424f4e05917663d3316a588f3d6af27fa86929d18390d0"
 metafile = true
 
 [[files]]

@@ -1,4 +1,4 @@
-# The four mods that cannot be downloaded automatically
+# Mods CurseForge will not hand out a download URL for
 
 Four mods in this pack have **third-party distribution switched off by their authors**. They are
 on CurseForge and can be downloaded from the site by hand, but the CurseForge API returns no
@@ -13,7 +13,14 @@ Verified against `GET /v1/mods/{id}`, which is the authoritative field:
 | APTweaks: Player (11.x Classic) | [563963](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-player) | `false` |
 | Soulbinding | [925229](https://www.curseforge.com/minecraft/mc-mods/soulbinding) | `false` |
 
-Their metafiles therefore record CurseForge coordinates instead of a URL:
+## How each is handled
+
+The three APTweaks modules are **MIT licensed**, and MIT grants redistribution regardless of the
+CurseForge setting, so they are mirrored on this repository's releases and their metafiles point
+there. Attribution and the licence terms: [docs/licences/adaptive-performance-tweaks-MIT.md](licences/adaptive-performance-tweaks-MIT.md).
+
+Soulbinding is **"All rights reserved"** in its own `mods.toml`. That grants no right to
+redistribute it, so it is not mirrored and its metafile records CurseForge coordinates only:
 
 ```toml
 [download]

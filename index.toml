@@ -541,6 +541,10 @@ file = "config/defaultoptions-common.toml"
 hash = "d6a33eb606fd76b0329e8d0abc58da2eea803be7aa07aaf8885a5284d038dbca"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "77cb37c73a9fc78dbf2a9af1b848406bc848ba1c1ebcc62eefcb9877eff8f301"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "a952d3fc79d3db483a8bc342f192274f4a006e1496978bbfc5f94d1da34afdef"
 

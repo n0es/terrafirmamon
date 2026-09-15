@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:wattrel",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/crappie",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:razz_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

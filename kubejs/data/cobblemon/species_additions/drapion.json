@@ -1,0 +1,30 @@
+{
+  "target": "cobblemon:drapion",
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:glue",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone_meal",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:poison_barb",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:bluk_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

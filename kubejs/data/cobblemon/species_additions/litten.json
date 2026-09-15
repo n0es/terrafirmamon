@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:litten",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/gran_feline",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:charcoal_stick",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:expert_belt",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

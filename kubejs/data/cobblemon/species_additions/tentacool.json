@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:tentacool",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:poison_barb",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

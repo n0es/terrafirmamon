@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "tfg:block/crop/sitrus_berry_age_0"
+  }
+}

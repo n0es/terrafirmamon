@@ -1,0 +1,61 @@
+{
+  "target": "cobblemon:cubone",
+  "evolutions": [
+    {
+      "id": "cubone_marowak",
+      "variant": "level_up",
+      "result": "marowak",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 28
+        }
+      ]
+    },
+    {
+      "id": "cubone_marowak_alolan",
+      "variant": "level_up",
+      "result": "marowak alolan",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "shadowbone"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 28
+        },
+        {
+          "variant": "time_range",
+          "range": "night"
+        }
+      ]
+    }
+  ],
+  "baseScale": 0.7,
+  "hitbox": {
+    "width": 0.5,
+    "height": 0.8,
+    "fixed": false
+  },
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/fox",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:nanab_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

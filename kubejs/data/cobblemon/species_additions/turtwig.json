@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:turtwig",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/turtle",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

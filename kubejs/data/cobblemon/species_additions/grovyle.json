@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:grovyle",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

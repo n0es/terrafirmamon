@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:torterra",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/turtle",
+        "quantityRange": "6-10"
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 25.0
+      }
+    ]
+  }
+}

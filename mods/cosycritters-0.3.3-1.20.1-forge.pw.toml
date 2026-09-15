@@ -1,0 +1,13 @@
+name = "cosycritters-0.3.3-1.20.1-forge"
+filename = "cosycritters-0.3.3+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/61PI8Hzj/versions/FXIs1tHj/cosycritters-0.3.3%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "26db309a19862fd1923288392973f3a893afe1b3"
+
+[update]
+[update.modrinth]
+mod-id = "61PI8Hzj"
+version = "FXIs1tHj"

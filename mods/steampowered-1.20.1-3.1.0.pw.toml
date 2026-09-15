@@ -1,0 +1,13 @@
+name = "steampowered-1.20.1-3.1.0"
+filename = "steampowered-1.20.1-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J7eSzkL7/versions/JjQ6e6M5/steampowered-1.20.1-3.1.0.jar"
+hash-format = "sha1"
+hash = "5bab2cc52204eb1773d31675cb015c00224b923b"
+
+[update]
+[update.modrinth]
+mod-id = "J7eSzkL7"
+version = "JjQ6e6M5"

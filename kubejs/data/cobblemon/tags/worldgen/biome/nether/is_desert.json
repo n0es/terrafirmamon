@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:nether/basalt_deltas",
+    "tfg:nether/salt_caves",
+    "tfg:nether/tar_pools"
+  ]
+}

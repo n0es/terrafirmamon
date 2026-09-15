@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:anorith",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/largemouth_bass",
+        "quantityRange": "3-6"
+      }
+    ]
+  }
+}

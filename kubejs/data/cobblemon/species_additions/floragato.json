@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:floragato",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/gran_feline",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

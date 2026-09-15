@@ -1,0 +1,13 @@
+name = "arthropocolypse-1.0.6"
+filename = "arthropocolypse-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uiAP959w/versions/4WlOZtq0/arthropocolypse-1.0.6.jar"
+hash-format = "sha1"
+hash = "c43b2c1e8a9fa11d139a202e37054a01db8fd677"
+
+[update]
+[update.modrinth]
+mod-id = "uiAP959w"
+version = "4WlOZtq0"

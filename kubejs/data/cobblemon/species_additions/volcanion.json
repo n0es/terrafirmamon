@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:volcanion",
+  "enabled": "true",
+  "baseScale": 1,
+  "hitbox": {
+    "width": 3.8,
+    "height": 4,
+    "fixed": false
+  },
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

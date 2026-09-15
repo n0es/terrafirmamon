@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:mienshao",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:payapa_berry",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:expert_belt",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

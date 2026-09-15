@@ -1,0 +1,23 @@
+{
+  "target": "cobblemon:jumpluff",
+  "implemented": true,
+  "baseScale": 0.7,
+  "hitbox": {
+    "width": 1,
+    "height": 1,
+    "fixed": false
+  },
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

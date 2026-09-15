@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:salandit",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/fox",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:shuca_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:smoke_ball",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:aerodactyl",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/turkey",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:rocky_helmet",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

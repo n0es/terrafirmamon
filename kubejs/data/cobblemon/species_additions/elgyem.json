@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:elgyem",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:light_clay",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:colbur_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

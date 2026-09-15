@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:pyukumuku",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

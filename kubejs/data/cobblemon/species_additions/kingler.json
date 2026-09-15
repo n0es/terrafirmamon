@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:kingler",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:kings_rock",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:pinap_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

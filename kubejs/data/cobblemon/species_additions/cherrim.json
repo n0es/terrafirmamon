@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:cherrim",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:cheri_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

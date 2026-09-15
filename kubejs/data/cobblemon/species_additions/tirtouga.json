@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:tirtouga",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/turtle",
+        "quantityRange": "3-6"
+      }
+    ]
+  }
+}

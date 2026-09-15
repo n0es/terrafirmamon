@@ -1,0 +1,13 @@
+name = "kubejs-forge-2001.6.5-build.24"
+filename = "kubejs-forge-2001.6.5-build.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/399ST6Ti/kubejs-forge-2001.6.5-build.24.jar"
+hash-format = "sha1"
+hash = "95594c74234c653fe93554d21a3728c32a1eff5f"
+
+[update]
+[update.modrinth]
+mod-id = "umyGl7zF"
+version = "399ST6Ti"

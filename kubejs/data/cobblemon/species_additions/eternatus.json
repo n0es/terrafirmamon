@@ -1,0 +1,46 @@
+{
+  "target": "cobblemon:eternatus",
+  "baseScale": 1.0,
+  "hitbox": {
+    "width": 6,
+    "height": 5,
+    "fixed": false
+  },
+  "behaviour": {
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "walkSpeed": 0.4,
+        "canWalk": true,
+        "avoidsLand": false
+      },
+      "fly": {
+        "canFly": true
+      },
+      "swim": {
+        "swimSpeed": 0.2,
+        "canSwimInWater": false,
+        "canBreatheUnderwater": false
+      }
+    }
+  },
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/beef",
+        "quantityRange": "8-12"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "3-5",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

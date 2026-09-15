@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:roggenrola",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:hard_stone",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:everstone",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:black_augurite",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

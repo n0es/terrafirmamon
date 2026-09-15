@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/guano_island",
+    "tfg:earth/old_shield_volcano_shore",
+    "tfg:earth/sea_stacks",
+    "tfg:earth/shield_volcano_shore",
+    "tfg:earth/sunken_shield_volcano",
+    "tfg:earth/tower_karst_bay"
+  ]
+}

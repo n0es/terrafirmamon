@@ -1,0 +1,13 @@
+name = "waterflasks-3.0.10"
+filename = "waterflasks-3.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ONgsGaM9/versions/ohy689Kk/waterflasks-3.0.10.jar"
+hash-format = "sha1"
+hash = "d9e9fc125bd401601693de6d694bea43c3bf956e"
+
+[update]
+[update.modrinth]
+mod-id = "ONgsGaM9"
+version = "ohy689Kk"

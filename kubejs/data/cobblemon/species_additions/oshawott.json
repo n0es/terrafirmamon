@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:oshawott",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/chevon",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:mystic_water",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:shell_bell",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:cloyster",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:shell_bell",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "species": "cobblemon:regice",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:regice",
+            "model": "cobblemon:regice.geo",
+            "texture": "cobblemon:textures/pokemon/regice/regice.png",
+            "layers": []
+        },
+        {
+            "aspects": [ "shiny" ],
+            "texture": "cobblemon:textures/pokemon/regice/regice_shiny.png",
+            "layers": []
+        }
+    ]
+}

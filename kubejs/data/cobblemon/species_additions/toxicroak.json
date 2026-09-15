@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:toxicroak",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/frog_legs",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:black_sludge",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:payapa_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

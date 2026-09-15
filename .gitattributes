@@ -1,0 +1,4 @@
+# packwiz stores a sha256 of every file and friends fetch the raw blob from GitHub, so the blob
+# has to be byte-identical to what was hashed. Any end-of-line conversion on commit or checkout
+# would change the bytes and break the hash for every text file in the pack.
+* -text

@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:binacle",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:rindo_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

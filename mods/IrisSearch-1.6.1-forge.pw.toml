@@ -1,0 +1,13 @@
+name = "IrisSearch-1.6.1-forge"
+filename = "IrisSearch-1.6.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bkAgg84v/versions/X6jFhcC1/IrisSearch-1.6.1-forge.jar"
+hash-format = "sha1"
+hash = "78c72ec280aa7711ce5953d0b5d4df24bb308c61"
+
+[update]
+[update.modrinth]
+mod-id = "bkAgg84v"
+version = "X6jFhcC1"

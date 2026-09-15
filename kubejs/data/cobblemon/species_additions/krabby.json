@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:krabby",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:kings_rock",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:pinap_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:clodsire",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/salmon",
+        "quantityRange": "6-10"
+      },
+      {
+        "item": "cobblemon:pecha_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

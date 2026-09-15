@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:grimmsnarl",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:roseli_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

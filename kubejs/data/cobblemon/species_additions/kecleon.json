@@ -1,0 +1,26 @@
+{
+  "target": "cobblemon:kecleon",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/mutton",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:persim_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

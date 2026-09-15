@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:sprigatito",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/gran_feline",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

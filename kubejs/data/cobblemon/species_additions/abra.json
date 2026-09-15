@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:abra",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:twisted_spoon",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:kasib_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

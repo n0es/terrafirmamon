@@ -1,0 +1,13 @@
+name = "iris_shader_folder-1.4.0-forge"
+filename = "iris_shader_folder-1.4.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yv6sGJzN/versions/Rkn6BwcM/iris_shader_folder-1.4.0-forge.jar"
+hash-format = "sha1"
+hash = "b180c12f7dbdfdbd1bd16c9ed5026ad62f9b0ec8"
+
+[update]
+[update.modrinth]
+mod-id = "yv6sGJzN"
+version = "Rkn6BwcM"

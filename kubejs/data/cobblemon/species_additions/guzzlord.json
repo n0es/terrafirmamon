@@ -1,0 +1,22 @@
+{
+  "target": "cobblemon:guzzlord",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/beef",
+        "quantityRange": "8-12"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "3-5",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

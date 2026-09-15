@@ -1,0 +1,13 @@
+name = "TFCVesselTooltip-1.20.1-1.1"
+filename = "TFCVesselTooltip-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xve2AFV9/versions/3kdOHSCs/TFCVesselTooltip-1.20.1-1.1.jar"
+hash-format = "sha1"
+hash = "0ba5058d7a728119121acf09e0badb3c87d2f319"
+
+[update]
+[update.modrinth]
+mod-id = "Xve2AFV9"
+version = "3kdOHSCs"

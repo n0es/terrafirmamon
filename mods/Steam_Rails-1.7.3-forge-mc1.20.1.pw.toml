@@ -1,0 +1,13 @@
+name = "Steam_Rails-1.7.3-forge-mc1.20.1"
+filename = "Steam_Rails-1.7.3+forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/7Uk6lWkU/Steam_Rails-1.7.3%2Bforge-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "5f904126d942cdbd272a5254ec6145851e5e1e7a"
+
+[update]
+[update.modrinth]
+mod-id = "ZzjhlDgM"
+version = "7Uk6lWkU"

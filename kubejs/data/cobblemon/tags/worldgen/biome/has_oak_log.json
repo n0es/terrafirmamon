@@ -1,0 +1,7 @@
+{
+	"_comment": "Cobblemon gates PREHISTORIC_OAK_TREE on this tag. Its own copy lists vanilla biomes only, so the feature never generated here. Pointing it at the pack's own forest tag reconnects it, the same way the other 57 cobblemon biome tags in this folder already do.",
+	"replace": false,
+	"values": [
+		{ "id": "#cobblemon:is_forest", "required": false }
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/cenote_canyons",
+    "tfg:earth/doline_canyons",
+    "tfg:earth/extreme_doline_mountains",
+    "tfg:earth/extreme_doline_plateau",
+    "tfg:earth/shilin_canyons",
+    "tfg:earth/tower_karst_canyons"
+  ]
+}

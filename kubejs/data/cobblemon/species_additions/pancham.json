@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:pancham",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:mental_herb",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:roseli_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

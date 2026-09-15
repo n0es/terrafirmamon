@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:revavroom",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "cobblemon:black_sludge",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:shuca_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

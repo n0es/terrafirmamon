@@ -1,0 +1,22 @@
+{
+  "target": "cobblemon:kyogre",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/tropical_fish",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      },
+      {
+        "item": "tfc:blubber",
+        "quantityRange": "1-3",
+        "percentage": 40.0
+      }
+    ]
+  }
+}

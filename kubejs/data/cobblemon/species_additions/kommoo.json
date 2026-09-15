@@ -1,0 +1,34 @@
+{
+  "target": "cobblemon:kommoo",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:food/hyena",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:razor_claw",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:dragon_scale",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:roseli_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

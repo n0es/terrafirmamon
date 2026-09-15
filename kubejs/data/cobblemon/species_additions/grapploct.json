@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:grapploct",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:pinap_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

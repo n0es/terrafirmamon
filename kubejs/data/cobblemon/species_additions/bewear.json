@@ -1,0 +1,26 @@
+{
+  "target": "cobblemon:bewear",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/bear",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:chople_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

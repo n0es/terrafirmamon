@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:starmie",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/cod",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

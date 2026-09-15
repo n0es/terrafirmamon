@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:comfey",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:misty_seed",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:kebia_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

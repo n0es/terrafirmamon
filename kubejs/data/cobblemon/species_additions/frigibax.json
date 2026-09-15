@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:frigibax",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:haban_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

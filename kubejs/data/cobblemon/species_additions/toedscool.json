@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:toedscool",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

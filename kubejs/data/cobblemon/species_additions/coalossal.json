@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:coalossal",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "6-10"
+      },
+      {
+        "item": "cobblemon:black_augurite",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:passho_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "target": "cobblemon:heliolisk",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/wolf",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

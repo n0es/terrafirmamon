@@ -1,0 +1,8 @@
+{
+	"_comment": "See has_oak_log. Gates PREHISTORIC_SANDY_DEN.",
+	"replace": false,
+	"values": [
+		{ "id": "#cobblemon:is_beach", "required": false },
+		{ "id": "#cobblemon:is_desert", "required": false }
+	]
+}

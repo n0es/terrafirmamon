@@ -1,0 +1,13 @@
+name = "merequester-forge-1.20.1-1.2.1"
+filename = "merequester-forge-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6BFl96N/versions/69N8Y7WD/merequester-forge-1.20.1-1.2.1.jar"
+hash-format = "sha1"
+hash = "ae47625db6e72241a4a3791dfdd5bcd5cf2dc05c"
+
+[update]
+[update.modrinth]
+mod-id = "E6BFl96N"
+version = "69N8Y7WD"

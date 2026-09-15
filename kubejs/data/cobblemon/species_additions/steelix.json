@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:steelix",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "6-10"
+      },
+      {
+        "item": "cobblemon:metal_coat",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:passho_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

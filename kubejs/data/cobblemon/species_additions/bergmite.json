@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:bergmite",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "cobblemon:never_melt_ice",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

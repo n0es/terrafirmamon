@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:tympole",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/frog_legs",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:persim_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

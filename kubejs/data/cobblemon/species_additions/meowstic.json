@@ -1,0 +1,37 @@
+{
+  "implemented": true,
+  "target": "cobblemon:meowstic",
+  "baseScale": 0.6,
+  "hitbox": {
+    "width": 0.6,
+    "height": 1.4,
+    "fixed": false
+  },
+  "maleRatio": 0.5,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/gran_feline",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:colbur_berry",
+        "percentage": 5.0
+      }
+    ]
+  },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": true,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  }
+}

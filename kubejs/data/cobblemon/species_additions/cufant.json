@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:cufant",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "cobblemon:nanab_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

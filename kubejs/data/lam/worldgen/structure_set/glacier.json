@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "lam:glacier",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 420420,
+    "spread_type": "triangular",
+    "spacing": 200,
+    "separation": 100
+  }
+}

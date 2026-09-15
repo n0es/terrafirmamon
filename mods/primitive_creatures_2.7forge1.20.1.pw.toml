@@ -1,0 +1,13 @@
+name = "primitive_creatures_2.7forge1.20.1"
+filename = "primitive_creatures_2.7forge1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GfUwaZEm/versions/y7oCH4pT/primitive_creatures_2.7forge1.20.1.jar"
+hash-format = "sha1"
+hash = "f2fb38516941ac4193282af35bc2182ca98b17f5"
+
+[update]
+[update.modrinth]
+mod-id = "GfUwaZEm"
+version = "y7oCH4pT"

@@ -1,0 +1,13 @@
+name = "createthreadedtrains-forge-1.20.1-1.0.0"
+filename = "createthreadedtrains-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RYJzdkDr/versions/hW557Ykw/createthreadedtrains-forge-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "83e84cc50c85c94c187f9e2019ab43f2478fd4e0"
+
+[update]
+[update.modrinth]
+mod-id = "RYJzdkDr"
+version = "hW557Ykw"

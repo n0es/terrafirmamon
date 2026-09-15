@@ -1,0 +1,18 @@
+{
+    "species": "cobblemon:registeel",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:registeel",
+            "model": "cobblemon:registeel.geo",
+            "texture": "cobblemon:textures/pokemon/registeel/registeel.png",
+            "layers": []
+        },
+        {
+            "aspects": [ "shiny" ],
+            "texture": "cobblemon:textures/pokemon/registeel/registeel_shiny.png",
+            "layers": []
+        }
+    ]
+}

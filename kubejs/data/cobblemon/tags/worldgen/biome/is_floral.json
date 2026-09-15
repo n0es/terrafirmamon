@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/burren_plains",
+    "tfg:earth/cenote_highlands",
+    "tfg:earth/cenote_hills",
+    "tfg:earth/cenote_plains",
+    "tfg:earth/cenote_rolling_hills",
+    "tfg:earth/doline_highlands",
+    "tfg:earth/doline_hills",
+    "tfg:earth/doline_plains",
+    "tfg:earth/doline_rolling_hills",
+    "tfg:earth/drumlins",
+    "tfg:earth/grassy_dunes",
+    "tfg:earth/highlands",
+    "tfg:earth/hills",
+    "tfg:earth/knob_and_kettle",
+    "tfg:earth/lowlands",
+    "tfg:earth/plains",
+    "tfg:earth/rolling_hills",
+    "tfg:earth/shilin_highlands",
+    "tfg:earth/shilin_hills",
+    "tfg:earth/shilin_plains",
+    "tfg:earth/terrace_lower",
+    "tfg:earth/terrace_upper",
+    "tfg:earth/tower_karst_highlands",
+    "tfg:earth/tower_karst_hills",
+    "tfg:earth/tower_karst_plains"
+  ]
+}

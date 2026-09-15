@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:marshtomp",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/largemouth_bass",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:mystic_water",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

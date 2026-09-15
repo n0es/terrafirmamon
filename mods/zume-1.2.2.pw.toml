@@ -1,0 +1,13 @@
+name = "zume-1.2.2"
+filename = "zume-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o6qsdrrQ/versions/Rh2ImJ86/zume-1.2.2.jar"
+hash-format = "sha1"
+hash = "cbd353ee0e2a35d122a758b9cbb26b2f54145f3f"
+
+[update]
+[update.modrinth]
+mod-id = "o6qsdrrQ"
+version = "Rh2ImJ86"

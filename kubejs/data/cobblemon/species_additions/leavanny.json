@@ -1,0 +1,40 @@
+{
+  "target": "cobblemon:leavanny",
+  "implemented": true,
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 0.8,
+    "height": 2.3,
+    "fixed": false
+  },
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:glue",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:mental_herb",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:revival_herb",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:coba_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

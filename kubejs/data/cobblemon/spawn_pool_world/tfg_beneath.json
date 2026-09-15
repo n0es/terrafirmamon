@@ -1,0 +1,540 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "tfg-beneath-joltik-1",
+      "pokemon": "joltik",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/webbed_lair"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-galvantula-2",
+      "pokemon": "galvantula",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-50",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/webbed_lair"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-spinarak-3",
+      "pokemon": "spinarak",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/webbed_lair"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-ariados-4",
+      "pokemon": "ariados",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/webbed_lair"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-dewpider-5",
+      "pokemon": "dewpider",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/webbed_lair"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-grimer-6",
+      "pokemon": "grimer",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/tar_pools"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-muk-7",
+      "pokemon": "muk",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-50",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/tar_pools"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-gulpin-8",
+      "pokemon": "gulpin",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/tar_pools"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-swalot-9",
+      "pokemon": "swalot",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-50",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/tar_pools"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-slugma-10",
+      "pokemon": "slugma",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 14.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/geothermal_springs",
+          "tfg:nether/lava_floes"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-magcargo-11",
+      "pokemon": "magcargo",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/lava_floes"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-torkoal-12",
+      "pokemon": "torkoal",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/geothermal_springs"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-salandit-13",
+      "pokemon": "salandit",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/geothermal_springs",
+          "tfg:nether/basalt_deltas"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-salazzle-14",
+      "pokemon": "salazzle",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-50",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/basalt_deltas"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-turtonator-15",
+      "pokemon": "turtonator",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-50",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/lava_floes"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-carbink-16",
+      "pokemon": "carbink",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/salt_caves"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-sableye-17",
+      "pokemon": "sableye",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/salt_caves"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-roggenrola-18",
+      "pokemon": "roggenrola",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/salt_caves",
+          "tfg:nether/basalt_deltas"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-foongus-19",
+      "pokemon": "foongus",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/lush_hollow",
+          "tfg:nether/muggy_bog"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-amoonguss-20",
+      "pokemon": "amoonguss",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-50",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/lush_hollow"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-morelull-21",
+      "pokemon": "morelull",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/lush_hollow"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-shiinotic-22",
+      "pokemon": "shiinotic",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-50",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/lush_hollow"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-croagunk-23",
+      "pokemon": "croagunk",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/muggy_bog"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-gastly-24",
+      "pokemon": "gastly",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/decaying_caverns",
+          "tfg:nether/ash_forest"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-haunter-25",
+      "pokemon": "haunter",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/decaying_caverns"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-shuppet-26",
+      "pokemon": "shuppet",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/decaying_caverns"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-duskull-27",
+      "pokemon": "duskull",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/decaying_caverns"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-phantump-28",
+      "pokemon": "phantump",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/ash_forest"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-houndour-29",
+      "pokemon": "houndour",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-50",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/ash_forest",
+          "tfg:nether/thorny_brambles"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-houndoom-30",
+      "pokemon": "houndoom",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "25-50",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/ash_forest"
+        ]
+      }
+    },
+    {
+      "id": "tfg-beneath-maractus-31",
+      "pokemon": "maractus",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-50",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "minecraft:the_nether"
+        ],
+        "biomes": [
+          "tfg:nether/thorny_brambles"
+        ]
+      }
+    }
+  ]
+}

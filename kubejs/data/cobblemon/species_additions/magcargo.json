@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:magcargo",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:passho_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

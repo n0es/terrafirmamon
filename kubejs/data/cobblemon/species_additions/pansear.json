@@ -1,0 +1,34 @@
+{
+  "target": "cobblemon:pansear",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:food/mutton",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:fire_stone",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:charcoal_stick",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:passho_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

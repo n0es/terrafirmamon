@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:squirtle",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/turtle",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:mystic_water",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "target": "cobblemon:eelektrik",
+  "behaviour": {
+    "moving": {
+      "swim": {
+        "swimSpeed": 1,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  },
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/lake_trout",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

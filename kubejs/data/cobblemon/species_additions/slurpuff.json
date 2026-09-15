@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:slurpuff",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/chevon",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:babiri_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"_comment": "See has_oak_log. Gates PREHISTORIC_ERODED_PILLAR, PREHISTORIC_SUNSCORCHED_DEN and PREHISTORIC_SUNSCORCHED_REMAINS - three of the seven dead fossil features.",
+	"replace": false,
+	"values": [
+		{ "id": "#cobblemon:is_badlands", "required": false }
+	]
+}

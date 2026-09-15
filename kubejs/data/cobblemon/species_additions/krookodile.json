@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:krookodile",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/beef",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:black_glasses",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:tanga_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

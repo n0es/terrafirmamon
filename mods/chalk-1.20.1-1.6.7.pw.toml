@@ -1,0 +1,13 @@
+name = "chalk-1.20.1-1.6.7"
+filename = "chalk-1.20.1-1.6.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YWGP4Y1d/versions/egCIyHFr/chalk-1.20.1-1.6.7.jar"
+hash-format = "sha1"
+hash = "42f34947910ca428497fac0bf2566a45959a51a5"
+
+[update]
+[update.modrinth]
+mod-id = "YWGP4Y1d"
+version = "egCIyHFr"

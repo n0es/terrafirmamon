@@ -1,0 +1,13 @@
+name = "FastSuite-1.20.1-5.1.2"
+filename = "FastSuite-1.20.1-5.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/roccmqou/versions/nhk4VpGm/FastSuite-1.20.1-5.1.2.jar"
+hash-format = "sha1"
+hash = "32ea4495b0e646f8f060e4e97d17044dd9fdefbd"
+
+[update]
+[update.modrinth]
+mod-id = "roccmqou"
+version = "nhk4VpGm"

@@ -1,0 +1,6 @@
+{
+	"parent": "tfc:block/wild_crop/crop",
+	"textures": {
+		"crop": "tfg:block/crop/figy_berry_age_4"
+	}
+}

@@ -1,0 +1,13 @@
+name = "drippyloadingscreen_forge_3.1.0_MC_1.20.1"
+filename = "drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/68GEZSYA/drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar"
+hash-format = "sha1"
+hash = "5c5e9dd39881b9b65dba7d7124690c51430a3ff1"
+
+[update]
+[update.modrinth]
+mod-id = "v3CYg2V9"
+version = "68GEZSYA"

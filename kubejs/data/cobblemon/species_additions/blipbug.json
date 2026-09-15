@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:blipbug",
+  "baseScale": 0.5,
+  "hitbox": {
+    "width": 0.75,
+    "height": 1,
+    "fixed": false
+  },
+  "shoulderMountable": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:glue",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:razz_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

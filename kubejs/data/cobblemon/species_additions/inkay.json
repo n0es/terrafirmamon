@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:inkay",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:tanga_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

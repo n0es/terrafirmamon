@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/burren_plains",
+    "tfg:earth/cenote_plains",
+    "tfg:earth/doline_plains",
+    "tfg:earth/lowlands",
+    "tfg:earth/mud_flats",
+    "tfg:earth/salt_marsh",
+    "tfg:earth/shilin_plains",
+    "tfg:earth/tower_karst_plains"
+  ]
+}

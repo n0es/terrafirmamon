@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:glimmora",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:shuca_berry",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:float_stone",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

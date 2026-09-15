@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:smoliv",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:big_root",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:kebia_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

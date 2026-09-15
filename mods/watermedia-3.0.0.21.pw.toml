@@ -1,0 +1,13 @@
+name = "watermedia-3.0.0.21"
+filename = "watermedia-3.0.0.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G922NeHS/versions/OUchGva4/watermedia-3.0.0.21.jar"
+hash-format = "sha1"
+hash = "8807fbb93c97c482f58f935e809bebca3ffd1d6d"
+
+[update]
+[update.modrinth]
+mod-id = "G922NeHS"
+version = "OUchGva4"

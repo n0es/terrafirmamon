@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:nacli",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:passho_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

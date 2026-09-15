@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/burren_plateau",
+    "tfg:earth/cenote_plateau",
+    "tfg:earth/doline_plateau",
+    "tfg:earth/extreme_doline_plateau",
+    "tfg:earth/plateau",
+    "tfg:earth/plateau_lake",
+    "tfg:earth/plateau_wide",
+    "tfg:earth/rocky_plateau",
+    "tfg:earth/shilin_plateau"
+  ]
+}

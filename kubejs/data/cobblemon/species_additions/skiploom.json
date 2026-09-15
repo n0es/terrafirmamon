@@ -1,0 +1,23 @@
+{
+  "target": "cobblemon:skiploom",
+  "implemented": true,
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 1,
+    "height": 0.9,
+    "fixed": false
+  },
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

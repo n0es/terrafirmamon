@@ -1,0 +1,13 @@
+name = "create_connected-1.2.3-mc1.20.1-all"
+filename = "create_connected-1.2.3-mc1.20.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/6gnvaVkN/create_connected-1.2.3-mc1.20.1-all.jar"
+hash-format = "sha1"
+hash = "98b4a41c452476496713df16ce4d52fc9f476508"
+
+[update]
+[update.modrinth]
+mod-id = "Vg5TIO6d"
+version = "6gnvaVkN"

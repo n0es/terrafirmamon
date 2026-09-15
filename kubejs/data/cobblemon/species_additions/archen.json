@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:archen",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/lake_trout",
+        "quantityRange": "3-6"
+      }
+    ]
+  }
+}

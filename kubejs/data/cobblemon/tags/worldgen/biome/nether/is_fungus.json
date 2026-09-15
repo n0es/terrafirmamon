@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:nether/decaying_caverns",
+    "tfg:nether/lush_hollow",
+    "tfg:nether/muggy_bog"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:tinkaton",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/beef",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:razz_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

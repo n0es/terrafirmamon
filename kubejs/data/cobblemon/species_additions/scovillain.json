@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:scovillain",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:roasted_leek",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:rawst_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"_comment": "See has_oak_log. Gates PREHISTORIC_SPRUCE_TREE - conifers, so the cold tag rather than the general forest one.",
+	"replace": false,
+	"values": [
+		{ "id": "#cobblemon:is_cold", "required": false }
+	]
+}

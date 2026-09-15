@@ -1,0 +1,18 @@
+{
+    "species": "cobblemon:deoxys",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [ "attack" ],
+           "poser": "cobblemon:deoxys_attack",
+            "model": "cobblemon:deoxys_attack.geo",
+            "texture": "cobblemon:textures/pokemon/deoxys/deoxys_attack.png",
+            "layers": []
+        },
+        {
+            "aspects": [ "shiny" ],
+            "texture": "cobblemon:textures/pokemon/deoxys/deoxys_attack_shiny.png",
+            "layers": []
+        }
+    ]
+}

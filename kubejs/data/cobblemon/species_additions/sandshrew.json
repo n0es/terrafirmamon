@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:sandshrew",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/rabbit",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:quick_claw",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:soft_sand",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

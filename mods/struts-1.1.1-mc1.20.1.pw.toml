@@ -1,0 +1,13 @@
+name = "struts-1.1.1-mc1.20.1"
+filename = "struts-1.1.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sHO3MhQx/versions/wQHaD7LI/struts-1.1.1%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "681871d2f8f82de15bd09557a82775f94e6ac370"
+
+[update]
+[update.modrinth]
+mod-id = "sHO3MhQx"
+version = "wQHaD7LI"

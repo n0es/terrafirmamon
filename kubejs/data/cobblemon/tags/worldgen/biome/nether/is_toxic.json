@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:nether/decaying_caverns",
+    "tfg:nether/tar_pools",
+    "tfg:nether/webbed_lair"
+  ]
+}

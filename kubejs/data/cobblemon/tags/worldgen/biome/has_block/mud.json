@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/mud_flats",
+    "tfg:earth/salt_marsh",
+    "tfg:earth/tidal_flats"
+  ]
+}

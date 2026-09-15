@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/coastal_dunes",
+    "tfg:earth/guano_island",
+    "tfg:earth/ice_sheet_shore",
+    "tfg:earth/old_shield_volcano_shore",
+    "tfg:earth/rocky_shores",
+    "tfg:earth/sea_stacks",
+    "tfg:earth/shield_volcano_shore",
+    "tfg:earth/shore",
+    "tfg:earth/sunken_shield_volcano",
+    "tfg:earth/tidal_flats",
+    "tfg:earth/tower_karst_bay"
+  ]
+}

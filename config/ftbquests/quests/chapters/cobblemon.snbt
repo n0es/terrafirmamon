@@ -1,0 +1,390 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cobblemon"
+	group: "3C4612A920658A7E"
+	icon: "cobblemon:poke_ball"
+	id: "0A3E89F4EF58A48D"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Apricorn trees generate across most of the world. Their fruit is the core of every ball you will ever throw, and unlike almost everything else here, you can gather one on your first day."]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"tfc:food": {
+						creationDate: -2L
+						traits: [ ]
+					}
+					"tfc:item_heat": {
+						heat: 0.0f
+						ticks: 0L
+					}
+				}
+				id: "cobblemon:red_apricorn"
+			}
+			id: "087FE4349CFA85D9"
+			rewards: [{
+				count: 2
+				id: "749DCF3FD69A331D"
+				item: "cobblemon:red_apricorn_seed"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "The seed of every Poke Ball"
+			tasks: [{
+				id: "6D0652F026D95D50"
+				item: "cobblemon:red_apricorn"
+				type: "item"
+			}]
+			title: "Apricorns"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["Clay wrapped around an apricorn makes a soft shell. It is useless until it has been through a fire."]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"tfc:item_heat": {
+						heat: 0.0f
+						ticks: 0L
+					}
+				}
+				id: "tfg:unfired_poke_ball"
+			}
+			id: "224759C70D0E89BF"
+			rewards: [{
+				count: 8
+				id: "06458D51A719629C"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Three clay and an apricorn"
+			tasks: [{
+				id: "1A77E33421CC3035"
+				item: "tfg:unfired_poke_ball"
+				type: "item"
+			}]
+			title: "An Unfired Shell"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["Fire the shell at the same heat you would use for any other pottery. What comes out will hold a Pokemon.\n\nNo metal. No anvil. This is a first-week job."]
+			icon: "cobblemon:poke_ball"
+			id: "49829CE4BAC4669F"
+			rewards: [{
+				count: 3
+				id: "77DF812774666EC3"
+				item: "cobblemon:poke_ball"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Fired in a pit kiln"
+			tasks: [{
+				id: "0108D39887CB4889"
+				item: "cobblemon:poke_ball"
+				type: "item"
+			}]
+			title: "Your First Poke Ball"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			description: ["Berries here are ordinary crops. They want the right temperature and the right water, they draw nutrients out of your soil, and they rot if you leave them lying about.\n\nThe healing berries grow nearly anywhere. The stranger ones will make you travel."]
+			icon: "tfg:cheri_berry_seeds"
+			id: "597BC7F8B2F64512"
+			rewards: [
+				{
+					count: 2
+					id: "60BDEC31E8FD116D"
+					item: "tfg:oran_berry_seeds"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "08BA73FFA5EEB7C2"
+					item: "cobblemon:oran_berry"
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "Fruit that obeys the seasons"
+			tasks: [{
+				id: "384210377E01727B"
+				item: "tfg:cheri_berry_seeds"
+				type: "item"
+			}]
+			title: "Berry Farming"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["597BC7F8B2F64512"]
+			description: ["Ground-up berries will patch up a Pokemon anywhere in the world. You do not need a machine to keep a team alive, and you should not have to wait for one."]
+			icon: "cobblemon:medicinal_brew"
+			id: "7FBA1B5493E8AC99"
+			rewards: [{
+				count: 4
+				id: "4F2249DF912A8C7B"
+				item: "cobblemon:potion"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "No electricity required"
+			tasks: [{
+				id: "3E0366DFB007FB0E"
+				item: "cobblemon:medicinal_brew"
+				type: "item"
+			}]
+			title: "Field Medicine"
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["597BC7F8B2F64512"]
+			description: ["The staples grow almost anywhere. The rest are pinned to climates you will have to go and find - which is the point."]
+			icon: "tfg:lum_berry_seeds"
+			id: "44D0E0EA1F802FE4"
+			rewards: [{
+				id: "7EE8B1BD524448F0"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Worth the walk"
+			tasks: [{
+				id: "6EAFA9AAB55DB061"
+				item: "tfg:lum_berry_seeds"
+				type: "item"
+			}]
+			title: "Exotic Berries"
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			description: ["A copper shell holds a Pokemon better than fired clay does. Beat out a double sheet and fit it around a blue apricorn."]
+			icon: "cobblemon:great_ball"
+			id: "7A5EFCADDE37A9D4"
+			rewards: [{
+				count: 2
+				id: "16CF9587DEB6BBC4"
+				item: "cobblemon:great_ball"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Copper, and a blue apricorn"
+			tasks: [{
+				id: "0B10BC88DAA5995E"
+				item: "cobblemon:great_ball"
+				type: "item"
+			}]
+			title: "Great Ball"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A5EFCADDE37A9D4"]
+			description: ["Each apricorn colour makes its own ball, and each ball is better at catching something particular. None of them are hard - they are all a plate of copper and the right fruit."]
+			icon: "cobblemon:azure_ball"
+			id: "2BF310DD515533A0"
+			rewards: [{
+				count: 2
+				id: "67F6DF7502C0A766"
+				item: "cobblemon:citrine_ball"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "One per apricorn"
+			tasks: [{
+				id: "4CBB63BDD2A99174"
+				item: "cobblemon:azure_ball"
+				type: "item"
+			}]
+			title: "The Coloured Balls"
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7A5EFCADDE37A9D4"]
+			description: ["Iron, and a black apricorn. This is as far as the anvil will take you."]
+			icon: "cobblemon:ultra_ball"
+			id: "2E489C76DE03B207"
+			rewards: [{
+				count: 2
+				id: "307159559FA1858F"
+				item: "cobblemon:ultra_ball"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Wrought iron"
+			tasks: [{
+				id: "431BA6B253C87FD6"
+				item: "cobblemon:ultra_ball"
+				type: "item"
+			}]
+			title: "Ultra Ball"
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2E489C76DE03B207"]
+			description: ["Once you have electricity, a Great Ball and the right odd ingredient become something specialised - a ball for deep water, for the dark, for the very fast."]
+			icon: "cobblemon:quick_ball"
+			id: "1685F21580789962"
+			rewards: [
+				{
+					count: 2
+					id: "55AE815DA6A8B88C"
+					item: "cobblemon:dusk_ball"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6C04749C556A4886"
+					item: "cobblemon:dive_ball"
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "Assembler work"
+			tasks: [{
+				id: "2F3973DE78D17BEA"
+				item: "cobblemon:quick_ball"
+				type: "item"
+			}]
+			title: "Specialty Balls"
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			description: ["The stones that force an evolution are cut from gems you already turn up while mining. A ruby burns, a sapphire runs cold, an emerald grows."]
+			icon: "cobblemon:fire_stone"
+			id: "307C7192D7C3C9A7"
+			rewards: [{
+				id: "472265B1E0970D90"
+				item: "cobblemon:thunder_stone"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Cut gems, not ore"
+			tasks: [{
+				id: "47C7B6B4774228CC"
+				item: "cobblemon:fire_stone"
+				type: "item"
+			}]
+			title: "Evolution Stones"
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			description: ["Nine stones come straight from cut gems. The tenth needs ice as well, so you will have to go somewhere cold to finish the set."]
+			icon: "cobblemon:ice_stone"
+			id: "48DB46C781BCFE61"
+			rewards: [{
+				id: "7334B4CA602F2CC3"
+				item: "cobblemon:moon_stone"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Sapphire and real ice"
+			tasks: [{
+				id: "46918D2189E9D7DF"
+				item: "cobblemon:ice_stone"
+				type: "item"
+			}]
+			title: "The Cold One"
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2E489C76DE03B207"]
+			description: ["Berries will patch up a Pokemon anywhere. This does it faster, and it never runs out, once you can supply it."]
+			icon: "cobblemon:healing_machine"
+			id: "0E251061CF95377A"
+			rewards: [{
+				count: 4
+				id: "564070C601120CAB"
+				item: "cobblemon:potion"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Low voltage"
+			tasks: [{
+				id: "092CB115DA282E0A"
+				item: "cobblemon:healing_machine"
+				type: "item"
+			}]
+			title: "Healing Machine"
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2E489C76DE03B207"]
+			description: ["Six on your belt is not many. Build somewhere to keep the rest."]
+			icon: "cobblemon:pc"
+			id: "08A8284B07CFE77B"
+			rewards: [{
+				id: "049B31E6E50BC755"
+				item: "cobblemon:link_cable"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Low voltage"
+			tasks: [{
+				id: "07B9519D04F9813E"
+				item: "cobblemon:pc"
+				type: "item"
+			}]
+			title: "A Place To Put Them"
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			description: ["A few Pokemon will not evolve for any stone. They evolve because they changed hands - or because something was clipped to them when they did."]
+			icon: "cobblemon:link_cable"
+			id: "11753E9AC90D0CF5"
+			rewards: [{
+				count: 2
+				id: "74D87C3AAED6D161"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Some evolve only by trading"
+			tasks: [{
+				id: "2580D1204AC9AB65"
+				item: "cobblemon:link_cable"
+				type: "item"
+			}]
+			title: "Trade Goods"
+			x: 12.0d
+			y: -3.0d
+		}
+		{
+			description: ["A white apricorn, stainless steel, and a circuit good enough to never miss. It catches anything, and it should cost you something."]
+			icon: "cobblemon:master_ball"
+			id: "1B72D2F646842805"
+			rewards: [{
+				count: 3
+				id: "01574ADE07B60BE8"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Medium voltage"
+			tasks: [{
+				id: "46495F0C1BEFADCF"
+				item: "cobblemon:master_ball"
+				type: "item"
+			}]
+			title: "Master Ball"
+			x: 12.0d
+			y: 0.0d
+		}
+	]
+	title: "Cobblemon"
+}

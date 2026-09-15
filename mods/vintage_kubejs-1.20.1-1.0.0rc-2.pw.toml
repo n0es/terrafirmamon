@@ -1,0 +1,13 @@
+name = "vintage_kubejs-1.20.1-1.0.0rc-2"
+filename = "vintage_kubejs-1.20.1-1.0.0rc-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u2r2GYRW/versions/TUKYnKui/vintage_kubejs-1.20.1-1.0.0rc-2.jar"
+hash-format = "sha1"
+hash = "ca49a4163794cc0f94a31a17f6956be11979db53"
+
+[update]
+[update.modrinth]
+mod-id = "u2r2GYRW"
+version = "TUKYnKui"

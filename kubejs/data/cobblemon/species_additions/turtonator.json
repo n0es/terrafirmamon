@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:turtonator",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/turtle",
+        "quantityRange": "6-10"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:haban_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+name = "lithostitched-forge-1.20.1-1.4.11"
+filename = "lithostitched-forge-1.20.1-1.4.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/srPoHKt8/lithostitched-forge-1.20.1-1.4.11.jar"
+hash-format = "sha1"
+hash = "d1a755de84ee5d8910ff1e65e815473056e93ece"
+
+[update]
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "srPoHKt8"

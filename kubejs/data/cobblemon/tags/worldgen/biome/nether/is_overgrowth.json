@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:nether/lush_hollow",
+    "tfg:nether/muggy_bog",
+    "tfg:nether/thorny_brambles"
+  ]
+}

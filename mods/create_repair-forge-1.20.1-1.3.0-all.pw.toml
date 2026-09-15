@@ -1,0 +1,13 @@
+name = "create_repair-forge-1.20.1-1.3.0-all"
+filename = "create_repair-forge-1.20.1-1.3.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G3K7UdxY/versions/Cu8CVRG9/create_repair-forge-1.20.1-1.3.0-all.jar"
+hash-format = "sha1"
+hash = "7ac132f658abcffb6c1047610fc3139c33d17ee1"
+
+[update]
+[update.modrinth]
+mod-id = "G3K7UdxY"
+version = "Cu8CVRG9"

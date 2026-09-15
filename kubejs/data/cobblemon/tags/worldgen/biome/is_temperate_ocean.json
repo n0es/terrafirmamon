@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/deep_ocean",
+    "tfg:earth/deep_ocean_trench",
+    "tfg:earth/ocean",
+    "tfg:earth/ocean_reef"
+  ]
+}

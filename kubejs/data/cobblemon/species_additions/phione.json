@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:phione",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/crappie",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:mystic_water"
+      }
+    ]
+  }
+}

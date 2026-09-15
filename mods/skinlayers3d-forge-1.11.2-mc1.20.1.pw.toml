@@ -1,0 +1,13 @@
+name = "skinlayers3d-forge-1.11.2-mc1.20.1"
+filename = "skinlayers3d-forge-1.11.2-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/4oWvC9eo/skinlayers3d-forge-1.11.2-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "473b49e775f4c9dd746929f20c33f8132b86f235"
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "4oWvC9eo"

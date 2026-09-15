@@ -1,0 +1,365 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "tfg-mars-baltoy-1",
+      "pokemon": "baltoy",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "45-75",
+      "weight": 14.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-claydol-2",
+      "pokemon": "claydol",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-75",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-sandygast-3",
+      "pokemon": "sandygast",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "45-75",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_dunes",
+          "tfg:mars/martian_deep_desert",
+          "tfg:mars/martian_dune_edge"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-palossand-4",
+      "pokemon": "palossand",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-75",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_deep_desert"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-sigilyph-5",
+      "pokemon": "sigilyph",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "45-75",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-trapinch-6",
+      "pokemon": "trapinch",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "45-75",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_dunes",
+          "tfg:mars/martian_deep_desert"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-vibrava-7",
+      "pokemon": "vibrava",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "45-75",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_dunes"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-flygon-8",
+      "pokemon": "flygon",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "45-75",
+      "weight": 1.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_deep_desert"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-silicobra-9",
+      "pokemon": "silicobra",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "45-75",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_dune_edge",
+          "tfg:mars/martian_dunes"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-sandaconda-10",
+      "pokemon": "sandaconda",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-75",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_dunes"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-larvitar-11",
+      "pokemon": "larvitar",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "45-75",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_mountains",
+          "tfg:mars/sangnum_hills"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-pupitar-12",
+      "pokemon": "pupitar",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-75",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_mountains"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-aron-13",
+      "pokemon": "aron",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "45-75",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/sangnum_plains",
+          "tfg:mars/sangnum_hills",
+          "tfg:mars/sangnum_edge"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-lairon-14",
+      "pokemon": "lairon",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "45-75",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/sangnum_hills"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-gible-15",
+      "pokemon": "gible",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "45-75",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/amber_hills",
+          "tfg:mars/amber_plains"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-gabite-16",
+      "pokemon": "gabite",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-75",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/amber_hills"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-aerodactyl-17",
+      "pokemon": "aerodactyl",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "45-75",
+      "weight": 1.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_mountains"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-nacli-18",
+      "pokemon": "nacli",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "45-75",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/rusticus_plains",
+          "tfg:mars/rusticus_hills",
+          "tfg:mars/rusticus_edge"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-naclstack-19",
+      "pokemon": "naclstack",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-75",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/rusticus_hills"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-barboach-20",
+      "pokemon": "barboach",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "45-75",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_river"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mars-hippopotas-21",
+      "pokemon": "hippopotas",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "45-75",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mars"
+        ],
+        "biomes": [
+          "tfg:mars/martian_deep_desert"
+        ]
+      }
+    }
+  ]
+}

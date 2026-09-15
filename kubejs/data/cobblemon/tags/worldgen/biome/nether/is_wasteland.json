@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:nether/basalt_deltas",
+    "tfg:nether/decaying_caverns",
+    "tfg:nether/lava_floes",
+    "tfg:nether/tar_pools"
+  ]
+}

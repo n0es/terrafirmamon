@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "lam:sword_mountain",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 696969,
+    "spread_type": "triangular",
+    "spacing": 200,
+    "separation": 100
+  }
+}

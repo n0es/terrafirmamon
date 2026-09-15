@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:omastar",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "3-6"
+      }
+    ]
+  }
+}

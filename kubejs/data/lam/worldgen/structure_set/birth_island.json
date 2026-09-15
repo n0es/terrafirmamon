@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "lam:birth_island",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 6969,
+    "spread_type": "triangular",
+    "spacing": 200,
+    "separation": 100
+  }
+}

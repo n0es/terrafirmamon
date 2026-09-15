@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:cobalion",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "cobblemon:metal_coat"
+      }
+    ]
+  }
+}

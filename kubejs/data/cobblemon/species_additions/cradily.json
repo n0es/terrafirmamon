@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:cradily",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:big_root",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

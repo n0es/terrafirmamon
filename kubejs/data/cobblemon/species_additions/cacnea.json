@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:cacnea",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:poison_barb",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:tanga_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:sticky_barb",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

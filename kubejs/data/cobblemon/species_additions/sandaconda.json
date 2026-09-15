@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:sandaconda",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/pork",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:soft_sand",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

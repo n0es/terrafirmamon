@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:mrrime",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

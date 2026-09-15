@@ -1,0 +1,13 @@
+name = "createpickywheels-forge-1.20.1-6.0.8-6"
+filename = "createpickywheels-forge-1.20.1-6.0.8-6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zotbxaw6/versions/OeOr8feV/createpickywheels-forge-1.20.1-6.0.8-6.jar"
+hash-format = "sha1"
+hash = "e863d29bc576114d3517c8ae2f6ffdb47d68a547"
+
+[update]
+[update.modrinth]
+mod-id = "Zotbxaw6"
+version = "OeOr8feV"

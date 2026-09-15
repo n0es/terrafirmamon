@@ -1,0 +1,7 @@
+{
+	"_comment": "See has_oak_log. Gates PREHISTORIC_BIRCH_TREE.",
+	"replace": false,
+	"values": [
+		{ "id": "#cobblemon:is_forest", "required": false }
+	]
+}

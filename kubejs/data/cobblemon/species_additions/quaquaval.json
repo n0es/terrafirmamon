@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:quaquaval",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/cod",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:mystic_water",
+        "percentage": 25.0
+      }
+    ]
+  }
+}

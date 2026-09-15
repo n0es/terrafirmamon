@@ -1,0 +1,13 @@
+name = "wakes-1.20.1-Forge-1.4.1"
+filename = "wakes-1.20.1-Forge-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E0SdeAoH/versions/a4XWF1p5/wakes-1.20.1-Forge-1.4.1.jar"
+hash-format = "sha1"
+hash = "31689c3576201d806842f59c2c8dc381c7fc3cad"
+
+[update]
+[update.modrinth]
+mod-id = "E0SdeAoH"
+version = "a4XWF1p5"

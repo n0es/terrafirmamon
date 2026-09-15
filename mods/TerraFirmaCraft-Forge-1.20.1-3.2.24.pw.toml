@@ -1,0 +1,13 @@
+name = "TerraFirmaCraft-Forge-1.20.1-3.2.24"
+filename = "TerraFirmaCraft-Forge-1.20.1-3.2.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JaCEZUhg/versions/JO61EQSi/TerraFirmaCraft-Forge-1.20.1-3.2.24.jar"
+hash-format = "sha1"
+hash = "e1b65ace1199044a982377d27438c63a4418a744"
+
+[update]
+[update.modrinth]
+mod-id = "JaCEZUhg"
+version = "JO61EQSi"

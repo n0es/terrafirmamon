@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/badlands",
+    "tfg:earth/burren_badlands",
+    "tfg:earth/burren_badlands_tall",
+    "tfg:earth/buttes",
+    "tfg:earth/coastal_dunes",
+    "tfg:earth/dune_sea",
+    "tfg:earth/grassy_dunes",
+    "tfg:earth/hoodoos",
+    "tfg:earth/mesas",
+    "tfg:earth/salt_flats",
+    "tfg:earth/salt_marsh"
+  ]
+}

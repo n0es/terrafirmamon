@@ -1,0 +1,13 @@
+name = "showcaser-forge-1.7.4"
+filename = "showcaser-forge-1.7.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/30nNcI5E/versions/UHa1C89Q/showcaser-forge-1.7.4.jar"
+hash-format = "sha1"
+hash = "018979f9764ea8210e66b20b235f0e53bcda846e"
+
+[update]
+[update.modrinth]
+mod-id = "30nNcI5E"
+version = "UHa1C89Q"

@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:shroodle",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/rabbit",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:nanab_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:corphish",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "3-6"
+      }
+    ]
+  }
+}

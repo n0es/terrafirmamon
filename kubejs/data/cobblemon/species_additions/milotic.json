@@ -1,0 +1,52 @@
+{
+  "target": "cobblemon:milotic",
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.2,
+        "avoidsLand": true
+      },
+      "swim": {
+        "swimSpeed": 1,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  },
+  "evolutions": [
+    {
+      "id": "milotic_megamilotic",
+      "variant": "item_interact",
+      "result": "megamilotic",
+      "consumeHeldItem": true,
+      "requirements": [],
+      "requiredContext": "lackingmegas:key_stone"
+    },
+    {
+      "id": "milotic_megamilotic1",
+      "variant": "item_interact",
+      "result": "megamilotic",
+      "consumeHeldItem": false,
+      "requirements": [],
+      "requiredContext": "lackingmegas:mega_ring"
+    }
+  ],
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/salmon",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:prism_scale",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

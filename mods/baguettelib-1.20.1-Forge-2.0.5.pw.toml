@@ -1,0 +1,13 @@
+name = "baguettelib-1.20.1-Forge-2.0.5"
+filename = "baguettelib-1.20.1-Forge-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OfKzpbRU/versions/xI0K5Zke/baguettelib-1.20.1-Forge-2.0.5.jar"
+hash-format = "sha1"
+hash = "1e9e700ac26d6c6e2070a2ae64aacbdc19cd0fd0"
+
+[update]
+[update.modrinth]
+mod-id = "OfKzpbRU"
+version = "xI0K5Zke"

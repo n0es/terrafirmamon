@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:infernape",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:charcoal_stick",
+        "percentage": 25.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:minior",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

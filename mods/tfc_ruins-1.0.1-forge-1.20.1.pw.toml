@@ -1,0 +1,13 @@
+name = "tfc_ruins-1.0.1-forge-1.20.1"
+filename = "tfc_ruins-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JRpLCvK/versions/upy38bFL/tfc_ruins-1.0.1-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "a3759bcb6545195e680121c145608eeefc70a18a"
+
+[update]
+[update.modrinth]
+mod-id = "2JRpLCvK"
+version = "upy38bFL"

@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:snivy",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

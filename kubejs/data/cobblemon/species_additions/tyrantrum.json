@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:tyrantrum",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/gran_feline",
+        "quantityRange": "6-10"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:razor_fang",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

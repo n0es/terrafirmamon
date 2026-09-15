@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:palpitoad",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/frog_legs",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:persim_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

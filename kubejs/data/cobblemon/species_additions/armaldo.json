@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:armaldo",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/cod",
+        "quantityRange": "3-6"
+      }
+    ]
+  }
+}

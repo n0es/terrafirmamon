@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:pikipek",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/quail",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      }
+    ]
+  }
+}

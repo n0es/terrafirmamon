@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:wailmer",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/salmon",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:chesto_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

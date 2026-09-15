@@ -1,0 +1,369 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "tfg-venus-salandit-1",
+      "pokemon": "salandit",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 14.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/scorching_volcanoes",
+          "tfg:venus/fumaroles"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-salazzle-2",
+      "pokemon": "salazzle",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "55-85",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/scorching_volcanoes"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-koffing-3",
+      "pokemon": "koffing",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 14.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/sulfuric_ravine",
+          "tfg:venus/fumaroles"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-weezing-4",
+      "pokemon": "weezing",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/sulfuric_ravine"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-slugma-5",
+      "pokemon": "slugma",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/scorching_volcanoes",
+          "tfg:venus/fractured_pools"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-magcargo-6",
+      "pokemon": "magcargo",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/scorching_volcanoes"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-torkoal-7",
+      "pokemon": "torkoal",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/fumaroles",
+          "tfg:venus/geysers"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-camerupt-8",
+      "pokemon": "camerupt",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "55-85",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/scorching_volcanoes"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-heatmor-9",
+      "pokemon": "heatmor",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/jagged_tablelands"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-turtonator-10",
+      "pokemon": "turtonator",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "55-85",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/fractured_pools"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-skarmory-11",
+      "pokemon": "skarmory",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/jagged_tablelands",
+          "tfg:venus/sulfuric_ravine"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-trubbish-12",
+      "pokemon": "trubbish",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/sulfuric_ravine"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-garbodor-13",
+      "pokemon": "garbodor",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "55-85",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/sulfuric_ravine"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-araquanid-14",
+      "pokemon": "araquanid",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/arachnoids"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-dewpider-15",
+      "pokemon": "dewpider",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/arachnoids"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-galvantula-16",
+      "pokemon": "galvantula",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "55-85",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/arachnoids"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-joltik-17",
+      "pokemon": "joltik",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/arachnoids"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-omanyte-18",
+      "pokemon": "omanyte",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/stromatolite_beach"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-kabuto-19",
+      "pokemon": "kabuto",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/stromatolite_beach"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-nacli-20",
+      "pokemon": "nacli",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/salt_flats"
+        ]
+      }
+    },
+    {
+      "id": "tfg-venus-gligar-21",
+      "pokemon": "gligar",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:venus"
+        ],
+        "biomes": [
+          "tfg:venus/jagged_tablelands"
+        ]
+      }
+    }
+  ]
+}

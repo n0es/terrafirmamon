@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:beldum",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "cobblemon:metal_coat",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "tfg-mercury-solrock-1",
+      "pokemon": "solrock",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 14.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-geodude-2",
+      "pokemon": "geodude",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 14.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-graveler-3",
+      "pokemon": "graveler",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-golem-4",
+      "pokemon": "golem",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "55-85",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-roggenrola-5",
+      "pokemon": "roggenrola",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-boldore-6",
+      "pokemon": "boldore",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-gigalith-7",
+      "pokemon": "gigalith",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "55-85",
+      "weight": 1.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-minior-8",
+      "pokemon": "minior",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "55-85",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-charcadet-9",
+      "pokemon": "charcadet",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-torkoal-10",
+      "pokemon": "torkoal",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-magmar-11",
+      "pokemon": "magmar",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "55-85",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-rolycoly-12",
+      "pokemon": "rolycoly",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "55-85",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    },
+    {
+      "id": "tfg-mercury-carkol-13",
+      "pokemon": "carkol",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "55-85",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:mercury"
+        ]
+      }
+    }
+  ]
+}

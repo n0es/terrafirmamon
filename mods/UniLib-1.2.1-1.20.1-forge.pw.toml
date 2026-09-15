@@ -1,0 +1,13 @@
+name = "UniLib-1.2.1-1.20.1-forge"
+filename = "UniLib-1.2.1+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/VhGMPy6D/UniLib-1.2.1%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "bf4bd0346650ad95dcd13867793da99a639f31fa"
+
+[update]
+[update.modrinth]
+mod-id = "nT86WUER"
+version = "VhGMPy6D"

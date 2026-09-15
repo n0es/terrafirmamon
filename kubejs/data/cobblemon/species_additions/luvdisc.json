@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:luvdisc",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/lake_trout",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:deep_sea_scale",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

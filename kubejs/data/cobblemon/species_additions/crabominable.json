@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:crabominable",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

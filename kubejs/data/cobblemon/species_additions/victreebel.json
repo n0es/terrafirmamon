@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:victreebel",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:big_root",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:pinap_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

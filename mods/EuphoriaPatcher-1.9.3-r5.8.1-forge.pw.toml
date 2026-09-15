@@ -1,0 +1,13 @@
+name = "EuphoriaPatcher-1.9.3-r5.8.1-forge"
+filename = "EuphoriaPatcher-1.9.3-r5.8.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/KKafXzLW/EuphoriaPatcher-1.9.3-r5.8.1-forge.jar"
+hash-format = "sha1"
+hash = "baec867a0e2ca1273e33df944cc39d759d516f55"
+
+[update]
+[update.modrinth]
+mod-id = "4H6sumDB"
+version = "KKafXzLW"

@@ -1,0 +1,34 @@
+{
+  "target": "cobblemon:togekiss",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:food/duck",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:lucky_egg",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:shiny_stone",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:fairy_feather",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

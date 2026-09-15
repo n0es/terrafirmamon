@@ -1,0 +1,34 @@
+{
+  "target": "cobblemon:raichu",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:food/rabbit",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:light_ball",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:thunder_stone",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:oran_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

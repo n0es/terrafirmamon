@@ -1,0 +1,29 @@
+{
+  "target": "cobblemon:feebas",
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.2,
+        "avoidsLand": true
+      },
+      "swim": {
+        "swimSpeed": 1,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  },
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/lake_trout",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:prism_scale",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

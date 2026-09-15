@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:weezing",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:black_sludge",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

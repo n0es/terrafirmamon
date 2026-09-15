@@ -1,0 +1,308 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "tfg-moon-cleffa-1",
+      "pokemon": "cleffa",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-60",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-clefairy-2",
+      "pokemon": "clefairy",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-60",
+      "weight": 14.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-clefable-3",
+      "pokemon": "clefable",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-60",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-lunatone-4",
+      "pokemon": "lunatone",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-60",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-munna-5",
+      "pokemon": "munna",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-60",
+      "weight": 7.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-musharna-6",
+      "pokemon": "musharna",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-60",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-beldum-7",
+      "pokemon": "beldum",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-60",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_asurine_dense",
+          "tfg:moon/lunar_asurine_sparse"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-metang-8",
+      "pokemon": "metang",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-60",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_asurine_dense"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-bronzor-9",
+      "pokemon": "bronzor",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-60",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-bronzong-10",
+      "pokemon": "bronzong",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-60",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-golett-11",
+      "pokemon": "golett",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-60",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_plains",
+          "tfg:moon/lunar_sands"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-golurk-12",
+      "pokemon": "golurk",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-60",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_plains"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-minior-13",
+      "pokemon": "minior",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "30-60",
+      "weight": 1.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-elgyem-14",
+      "pokemon": "elgyem",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-60",
+      "weight": 7.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_lights_dense",
+          "tfg:moon/lunar_lights_sparse"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-beheeyem-15",
+      "pokemon": "beheeyem",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-60",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_lights_dense"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-solosis-16",
+      "pokemon": "solosis",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-60",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_corals_dense",
+          "tfg:moon/lunar_corals_sparse"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-duosion-17",
+      "pokemon": "duosion",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-60",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_corals_dense"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-baltoy-18",
+      "pokemon": "baltoy",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-60",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_sands"
+        ]
+      }
+    },
+    {
+      "id": "tfg-moon-staryu-19",
+      "pokemon": "staryu",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-60",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:moon"
+        ],
+        "biomes": [
+          "tfg:moon/lunar_chorus_dense",
+          "tfg:moon/lunar_chorus_sparse"
+        ]
+      }
+    }
+  ]
+}

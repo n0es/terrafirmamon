@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"mature=true": {
+			"model": "tfg:block/crop/chesto_berry_wild"
+		},
+		"mature=false": {
+			"model": "tfg:block/crop/chesto_berry_wild_dead"
+		}
+	}
+}

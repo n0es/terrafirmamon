@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/extreme_doline_mountains",
+    "tfg:earth/glacially_carved_mountains",
+    "tfg:earth/glacially_carved_oceanic_mountains",
+    "tfg:earth/glaciated_mountains",
+    "tfg:earth/glaciated_oceanic_mountains",
+    "tfg:earth/ice_sheet_mountains",
+    "tfg:earth/ice_sheet_oceanic_mountains",
+    "tfg:earth/mountains",
+    "tfg:earth/oceanic_mountains",
+    "tfg:earth/old_mountains",
+    "tfg:earth/volcanic_mountains",
+    "tfg:earth/volcanic_oceanic_mountains"
+  ]
+}

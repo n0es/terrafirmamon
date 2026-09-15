@@ -1,0 +1,13 @@
+name = "Jellies-1.20.1-0.1.6"
+filename = "Jellies-1.20.1-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9uLmCnkY/versions/VeEpZE6E/Jellies-1.20.1-0.1.6.jar"
+hash-format = "sha1"
+hash = "c7b726f18b65c1b11eb45245e6fcf83d83ee3c20"
+
+[update]
+[update.modrinth]
+mod-id = "9uLmCnkY"
+version = "VeEpZE6E"

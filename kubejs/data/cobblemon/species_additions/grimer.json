@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:grimer",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:black_sludge",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:toxic_orb",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

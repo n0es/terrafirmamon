@@ -1,0 +1,13 @@
+name = "particle_core-0.3.3-1.20.1-forge"
+filename = "particle_core-0.3.3+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RSeLon5O/versions/cFafZfyr/particle_core-0.3.3%2B1.20.1%2Bforge.jar"
+hash-format = "sha1"
+hash = "1da5744853d17979033d5ee3cd4251b8340ea7be"
+
+[update]
+[update.modrinth]
+mod-id = "RSeLon5O"
+version = "cFafZfyr"

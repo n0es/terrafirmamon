@@ -1,0 +1,13 @@
+name = "gtceu-1.20.1-7.5.3"
+filename = "gtceu-1.20.1-7.5.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tG215v7/versions/yLwvjuvy/gtceu-1.20.1-7.5.3.jar"
+hash-format = "sha1"
+hash = "2e9de016b74826d43f0d4e619a755e8ec0253784"
+
+[update]
+[update.modrinth]
+mod-id = "7tG215v7"
+version = "yLwvjuvy"

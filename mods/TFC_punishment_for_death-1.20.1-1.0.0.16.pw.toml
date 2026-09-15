@@ -1,0 +1,13 @@
+name = "TFC_punishment_for_death-1.20.1-1.0.0.16"
+filename = "TFC_punishment_for_death-1.20.1-1.0.0.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hupCZlMO/versions/ObwY3jwZ/TFC_punishment_for_death-1.20.1-1.0.0.16.jar"
+hash-format = "sha1"
+hash = "e411976151d0f9d318839de2a3b5205af1d7b3bd"
+
+[update]
+[update.modrinth]
+mod-id = "hupCZlMO"
+version = "ObwY3jwZ"

@@ -1,0 +1,13 @@
+name = "TFCHotOrNot-1.20.1-1.0.13"
+filename = "TFCHotOrNot-1.20.1-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6fOyWxrE/versions/5c1Fc17J/TFCHotOrNot-1.20.1-1.0.13.jar"
+hash-format = "sha1"
+hash = "383507ce61eaa1fe9368915536de8b3685517728"
+
+[update]
+[update.modrinth]
+mod-id = "6fOyWxrE"
+version = "5c1Fc17J"

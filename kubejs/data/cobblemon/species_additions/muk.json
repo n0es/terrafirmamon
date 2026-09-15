@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:muk",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:black_sludge",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:toxic_orb",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

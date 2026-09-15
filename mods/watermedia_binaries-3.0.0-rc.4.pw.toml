@@ -1,0 +1,13 @@
+name = "watermedia_binaries-3.0.0-rc.4"
+filename = "watermedia_binaries-3.0.0-rc.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4997XcoK/versions/AvQh3tTO/watermedia_binaries-3.0.0-rc.4.jar"
+hash-format = "sha1"
+hash = "a84499e127c09e96f2a97843fc5d53602a333400"
+
+[update]
+[update.modrinth]
+mod-id = "4997XcoK"
+version = "AvQh3tTO"

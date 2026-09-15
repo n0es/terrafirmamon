@@ -1,0 +1,30 @@
+{
+  "target": "cobblemon:tyrogue",
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:food/mutton",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:black_belt",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:payapa_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

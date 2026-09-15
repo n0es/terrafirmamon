@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:politoed",
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:food/frog_legs",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:verdant_froglight"
+      },
+      {
+        "item": "cobblemon:kings_rock",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:chesto_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

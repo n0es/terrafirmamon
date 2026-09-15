@@ -1,0 +1,13 @@
+name = "lootjs-forge-1.20.1-2.13.1"
+filename = "lootjs-forge-1.20.1-2.13.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJFETWDN/versions/wltVDhRB/lootjs-forge-1.20.1-2.13.1.jar"
+hash-format = "sha1"
+hash = "804deb0bd34d69cad873170642b9d7e47fa0d6ad"
+
+[update]
+[update.modrinth]
+mod-id = "fJFETWDN"
+version = "wltVDhRB"

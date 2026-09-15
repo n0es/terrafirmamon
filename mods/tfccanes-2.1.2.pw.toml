@@ -1,0 +1,13 @@
+name = "tfccanes-2.1.2"
+filename = "tfccanes-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZELi9Nbx/versions/VTGPKRxl/tfccanes-2.1.2.jar"
+hash-format = "sha1"
+hash = "0c362ed60edfe797f020cc253cade2c732551522"
+
+[update]
+[update.modrinth]
+mod-id = "ZELi9Nbx"
+version = "VTGPKRxl"

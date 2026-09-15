@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:gallade",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "cobblemon:dawn_stone",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:twisted_spoon",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:kasib_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

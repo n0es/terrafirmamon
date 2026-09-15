@@ -1,0 +1,13 @@
+name = "TFCBetterBlastFurnace-1.20.1-1.0.2"
+filename = "TFCBetterBlastFurnace-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tr715LZ4/versions/vdRmPxPV/TFCBetterBlastFurnace-1.20.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "e40bc10f114bce20b9c003a7d42a97834d5a1bcc"
+
+[update]
+[update.modrinth]
+mod-id = "tr715LZ4"
+version = "vdRmPxPV"

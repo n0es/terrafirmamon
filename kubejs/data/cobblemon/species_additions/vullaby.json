@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:vullaby",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/pheasant",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:bluk_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

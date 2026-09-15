@@ -1,0 +1,13 @@
+name = "tacz-tweaks-2.14.2-all"
+filename = "tacz-tweaks-2.14.2-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H8peNuJG/versions/PVCsSn4e/tacz-tweaks-2.14.2-all.jar"
+hash-format = "sha1"
+hash = "f7393848203a31a3b9ab592c51e1a2e59dce7a2a"
+
+[update]
+[update.modrinth]
+mod-id = "H8peNuJG"
+version = "PVCsSn4e"

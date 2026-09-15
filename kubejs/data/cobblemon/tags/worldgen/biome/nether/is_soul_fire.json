@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:nether/decaying_caverns",
+    "tfg:nether/geothermal_springs"
+  ]
+}

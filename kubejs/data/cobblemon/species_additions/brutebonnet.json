@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:brutebonnet",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "2-3"
+      },
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

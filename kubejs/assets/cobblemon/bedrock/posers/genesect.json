@@ -1,0 +1,58 @@
+{
+ "portraitScale": 2,
+ "portraitTranslation": [-0.1, 1, 0],
+ "profileScale": 0.55,
+ "profileTranslation": [0, 1, 0],
+ "animations": {
+   "faint": "q.bedrock_primary('genesect', 'faint', q.curve('one'))",
+   "cry": "q.bedrock_stateful('genesect', 'cry')",
+   "physical": "q.bedrock_primary('genesect', 'physical', q.curve('symmetrical_wide'))",
+   "special": "q.bedrock_primary('genesect', 'special', q.curve('symmetrical_wide'))"
+ },
+ "poses": {
+   "battle-standing": {
+     "poseTypes": ["STAND"],
+     "isBattle": true,
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('genesect', 'battle_idle')"
+     ],
+     "quirks": ["q.bedrock_quirk('genesect', 'blink')"]
+   },
+   "standing": {
+     "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+     "isBattle": false,
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('genesect', 'ground_idle')"
+     ],
+     "quirks": [
+       "q.bedrock_quirk('genesect', 'blink')"
+     ]
+   },
+   "walking": {
+     "poseTypes": ["WALK"],
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('genesect', 'ground_walk')"
+     ],
+     "quirks": ["q.bedrock_quirk('genesect', 'blink')"]
+   },
+   "hover": {
+     "poseTypes": ["HOVER"],
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('genesect', 'air_idle')"
+     ],
+     "quirks": ["q.bedrock_quirk('genesect', 'blink')"]
+   },
+   "fly": {
+     "poseTypes": ["FLY"],
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('genesect', 'air_fly')"
+     ],
+     "quirks": ["q.bedrock_quirk('genesect', 'blink')"]
+   }
+ }
+}

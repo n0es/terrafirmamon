@@ -1,0 +1,58 @@
+{
+ "portraitScale": 2.3,
+ "portraitTranslation": [-0.1, 2.3, 0],
+ "profileScale": 0.55,
+ "profileTranslation": [0, 1, 0],
+ "animations": {
+   "faint": "q.bedrock_primary('deoxys_speed', 'faint', q.curve('one'))",
+   "cry": "q.bedrock_stateful('deoxys_speed', 'cry')",
+   "physical": "q.bedrock_primary('deoxys_speed', 'physical', q.curve('symmetrical_wide'))",
+   "special": "q.bedrock_primary('deoxys_speed', 'special', q.curve('symmetrical_wide'))"
+ },
+ "poses": {
+   "battle-standing": {
+     "poseTypes": ["STAND"],
+     "isBattle": true,
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('deoxys_speed', 'battle_idle')"
+     ],
+     "quirks": ["q.bedrock_quirk('deoxys_speed', 'blink')"]
+   },
+   "standing": {
+     "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+     "isBattle": false,
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('deoxys_speed', 'ground_idle')"
+     ],
+     "quirks": [
+       "q.bedrock_quirk('deoxys_speed', 'blink')"
+     ]
+   },
+   "walking": {
+     "poseTypes": ["WALK"],
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('deoxys_speed', 'air_fly')"
+     ],
+     "quirks": ["q.bedrock_quirk('deoxys_speed', 'blink')"]
+   },
+   "hover": {
+     "poseTypes": ["HOVER"],
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('deoxys_speed', 'air_idle')"
+     ],
+     "quirks": ["q.bedrock_quirk('deoxys_speed', 'blink')"]
+   },
+   "fly": {
+     "poseTypes": ["FLY"],
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('deoxys_speed', 'air_fly')"
+     ],
+     "quirks": ["q.bedrock_quirk('deoxys_speed', 'blink')"]
+   }
+ }
+}

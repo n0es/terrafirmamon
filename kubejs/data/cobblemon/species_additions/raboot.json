@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:raboot",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:charcoal_stick",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

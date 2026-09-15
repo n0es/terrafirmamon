@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:terrakion",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "cobblemon:hard_stone"
+      }
+    ]
+  }
+}

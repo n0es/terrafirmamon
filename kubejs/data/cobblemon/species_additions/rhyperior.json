@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:rhyperior",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/horse_meat",
+        "quantityRange": "6-10"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:protector",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:passho_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

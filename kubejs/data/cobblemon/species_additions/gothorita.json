@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:gothorita",
+  "implemented": true,
+  "baseScale": 0.55,
+  "hitbox": {
+    "width": 1,
+    "height": 2.15,
+    "fixed": false
+  },
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:twisted_spoon",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:persim_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

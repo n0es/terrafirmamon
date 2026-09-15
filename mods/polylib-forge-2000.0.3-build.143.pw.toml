@@ -1,0 +1,13 @@
+name = "polylib-forge-2000.0.3-build.143"
+filename = "polylib-forge-2000.0.3-build.143.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6lvkzFFj/versions/boXcy1fH/polylib-forge-2000.0.3-build.143.jar"
+hash-format = "sha1"
+hash = "bf49919adc9e9109196762ff20030f823790e2db"
+
+[update]
+[update.modrinth]
+mod-id = "6lvkzFFj"
+version = "boXcy1fH"

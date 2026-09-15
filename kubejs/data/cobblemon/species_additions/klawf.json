@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:klawf",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/cod",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "cobblemon:pinap_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

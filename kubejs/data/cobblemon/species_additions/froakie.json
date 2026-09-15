@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:froakie",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/frog_legs",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:mystic_water",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

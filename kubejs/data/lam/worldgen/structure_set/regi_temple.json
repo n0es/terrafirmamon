@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "lam:regi_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 42069420,
+    "spread_type": "triangular",
+    "spacing": 200,
+    "separation": 100
+  }
+}

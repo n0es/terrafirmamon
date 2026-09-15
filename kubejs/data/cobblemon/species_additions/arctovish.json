@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:arctovish",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

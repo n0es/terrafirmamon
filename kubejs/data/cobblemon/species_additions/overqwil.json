@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:overqwil",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/crappie",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:poison_barb",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

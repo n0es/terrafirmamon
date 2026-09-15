@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:bruxish",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/largemouth_bass",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:razor_fang",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

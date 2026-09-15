@@ -1,0 +1,6 @@
+{
+  "keys": ["defense"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

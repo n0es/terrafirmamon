@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:mewtwo",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/beef",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:twisted_spoon"
+      }
+    ]
+  }
+}

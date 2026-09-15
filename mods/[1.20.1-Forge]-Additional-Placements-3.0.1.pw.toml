@@ -1,0 +1,13 @@
+name = "[1.20.1-Forge]-Additional-Placements-3.0.1"
+filename = "[1.20.1 Forge] Additional Placements 3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f5TwOKkb/versions/jVlJI0bV/%5B1.20.1%20Forge%5D%20Additional%20Placements%203.0.1.jar"
+hash-format = "sha1"
+hash = "9f5d85cce1ba38a7a874254c5e2efd0a7e5e05ea"
+
+[update]
+[update.modrinth]
+mod-id = "f5TwOKkb"
+version = "jVlJI0bV"

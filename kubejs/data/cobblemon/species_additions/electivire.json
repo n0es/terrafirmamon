@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:electivire",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:electirizer",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:cheri_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

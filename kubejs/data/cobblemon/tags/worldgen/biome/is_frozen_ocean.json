@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/ice_sheet_oceanic",
+    "tfg:earth/ice_sheet_oceanic_mountains",
+    "tfg:earth/ice_sheet_oceanic_mountains_edge"
+  ]
+}

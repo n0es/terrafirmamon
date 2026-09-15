@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:shellder",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:shell_bell",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

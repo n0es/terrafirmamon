@@ -1,0 +1,13 @@
+name = "firmacivplus-1.0.1-1.20.1"
+filename = "firmacivplus-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h1WsEaNH/versions/tamQr4CM/firmacivplus-1.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "5d21f85a95332dc002cd26ce085934a0d3605e08"
+
+[update]
+[update.modrinth]
+mod-id = "h1WsEaNH"
+version = "tamQr4CM"

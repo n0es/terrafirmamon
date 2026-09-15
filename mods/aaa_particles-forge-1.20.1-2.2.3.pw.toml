@@ -1,0 +1,13 @@
+name = "aaa_particles-forge-1.20.1-2.2.3"
+filename = "aaa_particles-forge-1.20.1-2.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/En8uHTOK/versions/9cBh3Vh8/aaa_particles-forge-1.20.1-2.2.3.jar"
+hash-format = "sha1"
+hash = "cc77d1217cb53644240b8778a9e40b977f8a29cb"
+
+[update]
+[update.modrinth]
+mod-id = "En8uHTOK"
+version = "9cBh3Vh8"

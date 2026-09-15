@@ -1,0 +1,112 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.wattrel.ground_idle": {
+			"loop": true,
+			"bones": {
+				"wattrel": {
+					"scale": 1
+				},
+				"leg_right": {
+					"rotation": [0, 15, 0]
+				},
+				"leg_left": {
+					"rotation": [0, -15, 0]
+				},
+				"wing_closed_right2": {
+					"rotation": [7.5, 12.5, 0]
+				},
+				"wing_closed_left2": {
+					"rotation": [7.5, -12.5, 0]
+				},
+				"wing_open_right": {
+					"scale": 0
+				},
+				"wing_open_left": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.wattrel.ground_walk": {
+			"loop": true,
+			"bones": {
+				"wattrel": {
+					"scale": 1
+				},
+				"leg_right": {
+					"rotation": [0, 15, 0]
+				},
+				"leg_left": {
+					"rotation": [0, -15, 0]
+				},
+				"wing_closed_right2": {
+					"rotation": [7.5, 12.5, 0]
+				},
+				"wing_closed_left2": {
+					"rotation": [7.5, -12.5, 0]
+				},
+				"wing_open_right": {
+					"scale": 0
+				},
+				"wing_open_left": {
+					"scale": 0
+				}
+			}
+		},
+		"animation.wattrel.sad": {
+			"loop": true,
+			"bones": {
+				"eyelid_right_side": {
+					"position": [-0.1, 0, -0.1]
+				},
+				"eyelid_left_side": {
+					"position": [0.1, 0, -0.1]
+				}
+			}
+		},
+		"animation.wattrel.happy": {
+			"loop": true,
+			"bones": {
+				"jaw": {
+					"rotation": [32.5, 0, 0]
+				},
+				"eyelid_right_happy": {
+					"position": [-0.1, 0, -0.1]
+				},
+				"eyelid_left_happy": {
+					"position": [0.1, 0, -0.1]
+				}
+			}
+		},
+		"animation.wattrel.mad": {
+			"loop": true,
+			"bones": {
+				"eyelid_small_right": {
+					"position": [0, 0, -0.1]
+				},
+				"eyelid_small_left": {
+					"position": [0, 0, -0.1]
+				}
+			}
+		},
+		"animation.wattrel.blink": {
+			"animation_length": 0.1667,
+			"bones": {
+				"eyelid_right": {
+					"position": {
+						"0.0": [-0.1, 0, -0.1],
+						"0.125": [-0.1, 0, -0.1],
+						"0.1667": [0, 0, 0]
+					}
+				},
+				"eyelid_left": {
+					"position": {
+						"0.0": [0.1, 0, -0.1],
+						"0.125": [0.1, 0, -0.1],
+						"0.1667": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

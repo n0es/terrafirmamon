@@ -1,0 +1,18 @@
+{
+    "species": "cobblemon:regieleki",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:regieleki",
+            "model": "cobblemon:regieleki.geo",
+            "texture": "cobblemon:textures/pokemon/regieleki/regieleki.png",
+            "layers": []
+        },
+        {
+            "aspects": [ "shiny" ],
+            "texture": "cobblemon:textures/pokemon/regieleki/regieleki_shiny.png",
+            "layers": []
+        }
+    ]
+}

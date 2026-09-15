@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:suicune",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "2-3",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:mystic_water"
+      }
+    ]
+  }
+}

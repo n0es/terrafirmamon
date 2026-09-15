@@ -1,0 +1,13 @@
+name = "toofast-1.20-0.4.3.5"
+filename = "toofast-1.20-0.4.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w6JSkKSH/versions/2pix3xrW/toofast-1.20-0.4.3.5.jar"
+hash-format = "sha1"
+hash = "a6163b39827b483fb2976c916d99fce6cbf247a9"
+
+[update]
+[update.modrinth]
+mod-id = "w6JSkKSH"
+version = "2pix3xrW"

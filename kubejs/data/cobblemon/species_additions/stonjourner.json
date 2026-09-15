@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:stonjourner",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "6-10"
+      }
+    ]
+  }
+}

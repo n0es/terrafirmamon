@@ -1,0 +1,34 @@
+{
+  "target": "cobblemon:shelgon",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:food/hyena",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:dragon_fang",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:dragon_scale",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

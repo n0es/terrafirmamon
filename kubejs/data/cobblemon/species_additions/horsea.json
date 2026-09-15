@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:horsea",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/lake_trout",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:dragon_scale",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

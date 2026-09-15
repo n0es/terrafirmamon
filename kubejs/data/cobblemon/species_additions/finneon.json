@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:finneon",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/lake_trout",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:rindo_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:prism_scale",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

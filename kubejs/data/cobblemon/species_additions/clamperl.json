@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:clamperl",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:shell_bell",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

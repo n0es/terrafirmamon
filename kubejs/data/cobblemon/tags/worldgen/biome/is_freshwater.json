@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/lake",
+    "tfg:earth/meltwater_lake",
+    "tfg:earth/mountain_lake",
+    "tfg:earth/oceanic_mountain_lake",
+    "tfg:earth/old_mountain_lake",
+    "tfg:earth/plateau_lake",
+    "tfg:earth/river",
+    "tfg:earth/subglacial_lake",
+    "tfg:earth/tower_karst_lake",
+    "tfg:earth/volcanic_mountain_lake",
+    "tfg:earth/volcanic_oceanic_mountain_lake"
+  ]
+}

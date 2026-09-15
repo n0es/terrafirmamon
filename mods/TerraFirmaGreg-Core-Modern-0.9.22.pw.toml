@@ -1,0 +1,13 @@
+name = "TerraFirmaGreg-Core-Modern-0.9.22"
+filename = "TerraFirmaGreg-Core-Modern-0.9.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lNttW2Xl/versions/u3ntHqTc/TerraFirmaGreg-Core-Modern-0.9.22.jar"
+hash-format = "sha1"
+hash = "d240bc38ae168d126c9e6275e5b5038a6497f14d"
+
+[update]
+[update.modrinth]
+mod-id = "lNttW2Xl"
+version = "u3ntHqTc"

@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:ludicolo",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:mental_herb",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:kebia_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

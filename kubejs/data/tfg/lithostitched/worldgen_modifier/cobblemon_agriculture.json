@@ -1,0 +1,25 @@
+{
+	"_comment": [
+		"Restores the Cobblemon worldgen features that silently never generated in this pack.",
+		"",
+		"Cobblemon injects its features in CODE (data/cobblemon/forge/biome_modifier/coded.json is",
+		"just 'cobblemon:inject_coded'), and CobblemonPlacedFeatures gates each one on a biome tag.",
+		"Most pass null - every biome - which is why apricorn trees, saccharine trees, mints and",
+		"medicinal leek all work here. But berry groves and big root are gated on",
+		"minecraft:is_overworld, and TerraFirmaGreg's 109 overworld biomes are deliberately NOT in",
+		"that tag: keeping them out is what stops every other mod's overworld worldgen leaking into",
+		"the pack. The result was that not one berry generated anywhere in the world.",
+		"",
+		"Adding the TFG biomes to minecraft:is_overworld would fix berries and drag in everything",
+		"else at the same time, so instead the two features are added directly to TFG's own biome",
+		"tag. Same generation step Cobblemon uses (VEGETAL_DECORATION), so density and placement are",
+		"unchanged - this only reconnects features that were already configured."
+	],
+	"type": "lithostitched:add_features",
+	"biomes": "#tfg:overworld_biomes",
+	"step": "vegetal_decoration",
+	"features": [
+		"cobblemon:berry_groves",
+		"cobblemon:big_root"
+	]
+}

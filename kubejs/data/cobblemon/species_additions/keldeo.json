@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:keldeo",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

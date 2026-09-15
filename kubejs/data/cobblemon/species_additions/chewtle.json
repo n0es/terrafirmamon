@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:chewtle",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/turtle",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:rindo_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

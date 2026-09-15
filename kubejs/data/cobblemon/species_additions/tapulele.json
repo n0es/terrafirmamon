@@ -1,0 +1,22 @@
+{
+  "target": "cobblemon:tapulele",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/mutton",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

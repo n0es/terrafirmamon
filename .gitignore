@@ -1,0 +1,13 @@
+# Mod jars are never committed: they belong to their authors and the installer fetches
+# each one from the source they publish to. mods/ holds only .pw.toml metadata.
+*.jar
+
+# Local packwiz/installer state
+.packwizignore
+packwiz.json
+packwiz-installer*.jar
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.swp

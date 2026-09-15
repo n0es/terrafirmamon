@@ -1,0 +1,13 @@
+name = "barrels_2012-2.1"
+filename = "barrels_2012-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hnvFIZaX/versions/moK5fhSI/barrels_2012-2.1.jar"
+hash-format = "sha1"
+hash = "98ef976a9b356dce459fdd249ff19ad14fd375dd"
+
+[update]
+[update.modrinth]
+mod-id = "hnvFIZaX"
+version = "moK5fhSI"

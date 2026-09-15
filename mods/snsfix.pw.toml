@@ -1,0 +1,8 @@
+name = "snsfix"
+filename = "snsfix-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/n0es/terrafirmamon/releases/download/v1.0.0/snsfix-1.0.2.jar"
+hash-format = "sha1"
+hash = "fa839507136e06bec8646dd2ed74f3a1068584f5"

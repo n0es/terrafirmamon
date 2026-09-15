@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/cenote_highlands",
+    "tfg:earth/doline_highlands",
+    "tfg:earth/highlands",
+    "tfg:earth/shilin_highlands",
+    "tfg:earth/terrace_lower",
+    "tfg:earth/terrace_upper",
+    "tfg:earth/tower_karst_highlands"
+  ]
+}

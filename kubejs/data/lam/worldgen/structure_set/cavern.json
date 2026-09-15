@@ -1,0 +1,23 @@
+{
+  "structures": [
+    {
+      "structure": "lam:ice_cavern",
+      "weight": 1
+    },
+    {
+      "structure": "lam:iron_cavern",
+      "weight": 1
+    },
+    {
+      "structure": "lam:mesa_cavern",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 69420,
+    "spread_type": "triangular",
+    "spacing": 200,
+    "separation": 100
+  }
+}

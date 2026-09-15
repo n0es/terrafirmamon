@@ -1,0 +1,13 @@
+name = "everycomp-1.20-2.9.24-forge"
+filename = "everycomp-1.20-2.9.24-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/XjlFVoB7/everycomp-1.20-2.9.24-forge.jar"
+hash-format = "sha1"
+hash = "5a058a363e1d907a08e210fd0739b7268e45b339"
+
+[update]
+[update.modrinth]
+mod-id = "eiktJyw1"
+version = "XjlFVoB7"

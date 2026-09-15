@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:omanyte",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

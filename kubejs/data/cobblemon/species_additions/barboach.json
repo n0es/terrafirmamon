@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:barboach",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/crappie",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:rindo_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

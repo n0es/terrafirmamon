@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfg:earth/badlands",
+    "tfg:earth/burren_badlands",
+    "tfg:earth/burren_badlands_tall",
+    "tfg:earth/buttes",
+    "tfg:earth/hoodoos",
+    "tfg:earth/mesas"
+  ]
+}

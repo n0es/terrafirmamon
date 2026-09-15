@@ -1,0 +1,13 @@
+name = "seasonhud-forge-1.20.1-2.0.8"
+filename = "seasonhud-forge-1.20.1-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VNjUn3NA/versions/ocbnwoWo/seasonhud-forge-1.20.1-2.0.8.jar"
+hash-format = "sha1"
+hash = "23a2f09cc006dc3b04cc5f4360f596a9a423bd58"
+
+[update]
+[update.modrinth]
+mod-id = "VNjUn3NA"
+version = "ocbnwoWo"

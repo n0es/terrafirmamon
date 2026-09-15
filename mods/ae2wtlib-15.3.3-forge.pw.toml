@@ -1,0 +1,13 @@
+name = "ae2wtlib-15.3.3-forge"
+filename = "ae2wtlib-15.3.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pNabrMMw/versions/z8QXeyI0/ae2wtlib-15.3.3-forge.jar"
+hash-format = "sha1"
+hash = "1a546af04844677542b6914191783c7de15364fc"
+
+[update]
+[update.modrinth]
+mod-id = "pNabrMMw"
+version = "z8QXeyI0"

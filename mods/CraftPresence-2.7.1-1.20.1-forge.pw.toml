@@ -1,0 +1,13 @@
+name = "CraftPresence-2.7.1-1.20.1-forge"
+filename = "CraftPresence-2.7.1+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/GN126FvZ/CraftPresence-2.7.1%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "c354216e78b6688c9bcbe67043b8f5e2156a4dde"
+
+[update]
+[update.modrinth]
+mod-id = "DFqQfIBR"
+version = "GN126FvZ"

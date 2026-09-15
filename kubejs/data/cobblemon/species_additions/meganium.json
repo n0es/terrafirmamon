@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:meganium",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 25.0
+      }
+    ]
+  }
+}

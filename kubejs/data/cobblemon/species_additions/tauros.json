@@ -1,0 +1,27 @@
+{
+  "target": "cobblemon:tauros",
+  "features": [
+    "paldean-breed-combat",
+    "paldean-breed-blaze",
+    "paldean-breed-aqua"
+  ],
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/beef",
+        "quantityRange": "5-8"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

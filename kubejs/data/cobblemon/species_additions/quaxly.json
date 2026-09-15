@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:quaxly",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/lake_trout",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:mystic_water",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

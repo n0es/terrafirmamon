@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:tapufini",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

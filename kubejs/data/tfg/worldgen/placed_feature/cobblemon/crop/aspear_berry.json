@@ -1,0 +1,24 @@
+{
+	"feature": "tfg:cobblemon/crop/aspear_berry",
+	"placement": [
+		{
+			"type": "minecraft:heightmap",
+			"heightmap": "WORLD_SURFACE_WG"
+		},
+		{
+			"type": "block_predicate_filter",
+			"predicate": {
+				"type": "tfc:replaceable"
+			}
+		},
+		{
+			"type": "block_predicate_filter",
+			"predicate": {
+				"type": "would_survive",
+				"state": {
+					"Name": "tfg:aspear_berry_wild"
+				}
+			}
+		}
+	]
+}

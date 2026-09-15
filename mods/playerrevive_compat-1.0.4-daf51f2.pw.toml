@@ -1,0 +1,13 @@
+name = "playerrevive_compat-1.0.4-daf51f2"
+filename = "playerrevive_compat-1.0.4-daf51f2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2ehC7vF4/versions/Gqkdgwuu/playerrevive_compat-1.0.4-daf51f2.jar"
+hash-format = "sha1"
+hash = "bd7596d7a225dd4d1cc10a020431b51cc1e21de4"
+
+[update]
+[update.modrinth]
+mod-id = "2ehC7vF4"
+version = "Gqkdgwuu"

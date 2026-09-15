@@ -1,0 +1,301 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "tfg-glacio-snorunt-1",
+      "pokemon": "snorunt",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "50-80",
+      "weight": 14.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-glalie-2",
+      "pokemon": "glalie",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-80",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-froslass-3",
+      "pokemon": "froslass",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-80",
+      "weight": 1.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-cryogonal-4",
+      "pokemon": "cryogonal",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "50-80",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-vanillite-5",
+      "pokemon": "vanillite",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "50-80",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-vanillish-6",
+      "pokemon": "vanillish",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "50-80",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-vanilluxe-7",
+      "pokemon": "vanilluxe",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-80",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-bergmite-8",
+      "pokemon": "bergmite",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "50-80",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-avalugg-9",
+      "pokemon": "avalugg",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-80",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-cubchoo-10",
+      "pokemon": "cubchoo",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "50-80",
+      "weight": 12.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-beartic-11",
+      "pokemon": "beartic",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-80",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-eiscue-12",
+      "pokemon": "eiscue",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-80",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-snover-13",
+      "pokemon": "snover",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "50-80",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-abomasnow-14",
+      "pokemon": "abomasnow",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-80",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-frigibax-15",
+      "pokemon": "frigibax",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "50-80",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-arctibax-16",
+      "pokemon": "arctibax",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-80",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-cetoddle-17",
+      "pokemon": "cetoddle",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "50-80",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-swinub-18",
+      "pokemon": "swinub",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "50-80",
+      "weight": 10.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-piloswine-19",
+      "pokemon": "piloswine",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "50-80",
+      "weight": 5.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-delibird-20",
+      "pokemon": "delibird",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "50-80",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    },
+    {
+      "id": "tfg-glacio-sneasel-21",
+      "pokemon": "sneasel",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "50-80",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:glacio"
+        ]
+      }
+    }
+  ]
+}

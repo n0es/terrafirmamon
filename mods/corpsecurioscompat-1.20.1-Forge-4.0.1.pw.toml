@@ -1,0 +1,13 @@
+name = "corpsecurioscompat-1.20.1-Forge-4.0.1"
+filename = "corpsecurioscompat-1.20.1-Forge-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pJGcKPh1/versions/gC9IUqZM/corpsecurioscompat-1.20.1-Forge-4.0.1.jar"
+hash-format = "sha1"
+hash = "1320497f252c57bf2ac0149e7b499a9f9db74650"
+
+[update]
+[update.modrinth]
+mod-id = "pJGcKPh1"
+version = "gC9IUqZM"

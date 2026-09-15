@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:calyrex",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

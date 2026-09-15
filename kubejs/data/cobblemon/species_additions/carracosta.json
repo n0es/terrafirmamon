@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:carracosta",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/turtle",
+        "quantityRange": "5-8"
+      }
+    ]
+  }
+}

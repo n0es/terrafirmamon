@@ -1,0 +1,13 @@
+name = "FastWorkbench-1.20.1-8.0.4"
+filename = "FastWorkbench-1.20.1-8.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5NYPwQRn/versions/ymC5ORfn/FastWorkbench-1.20.1-8.0.4.jar"
+hash-format = "sha1"
+hash = "1a322a85e7c7024b8a0715c12d27b5ed0930d729"
+
+[update]
+[update.modrinth]
+mod-id = "5NYPwQRn"
+version = "ymC5ORfn"

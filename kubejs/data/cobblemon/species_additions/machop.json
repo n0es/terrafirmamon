@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:machop",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      },
+      {
+        "item": "cobblemon:focus_band",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:muscle_band",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:wepear_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

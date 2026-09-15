@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:marowak",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/wolf",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:nanab_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

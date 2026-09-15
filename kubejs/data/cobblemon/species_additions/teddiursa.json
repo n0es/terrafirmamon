@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:teddiursa",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/bear",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:peat_block",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:oran_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:petilil",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:straw",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:revival_herb",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:persim_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:absorb_bulb",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

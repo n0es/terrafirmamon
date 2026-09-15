@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:nickit",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/mutton",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:roseli_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:barraskewda",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/largemouth_bass",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1",
+        "percentage": 35.0
+      }
+    ]
+  }
+}

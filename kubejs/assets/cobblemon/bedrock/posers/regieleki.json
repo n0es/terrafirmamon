@@ -1,0 +1,68 @@
+{
+   "portraitScale":2,
+   "portraitTranslation":[
+      -0.5,
+      1,
+      0
+   ],
+   "profileScale":0.55,
+   "profileTranslation":[
+      0,
+      1,
+      0
+   ],
+ "faint": "bedrock(regieleki, faint, true)",
+ "cry": "bedrock(regieleki, cry)",
+   "poses":{
+   "battle-idle": {
+     "poseName": "battle-idle",
+     "transformTicks": 10,
+     "poseTypes": ["STAND"],
+     "isBattle": true,
+     "animations": ["bedrock(regieleki, battle_idle)"]
+   },
+      "standing":{
+         "poseName":"standing",
+         "transformTicks":10,
+         "poseTypes":[
+            "STAND",
+            "NONE",
+            "PORTRAIT",
+            "PROFILE"
+         ],
+         "animations":[
+            "bedrock(regieleki, ground_idle)"
+         ]
+      },
+      "walking":{
+         "poseName":"walking",
+         "transformTicks":10,
+         "poseTypes":[
+            "WALK"
+         ],
+         "animations":[
+            "bedrock(regieleki, ground_walk)"
+         ]
+      },
+   "hovering": {
+     "poseName": "hovering",
+     "transformTicks": 10,
+     "poseTypes": [
+       "HOVER"
+     ],
+     "animations": [
+       "bedrock(regieleki, ground_idle)"
+     ]
+   },
+   "flying": {
+     "poseName": "flying",
+     "transformTicks": 10,
+     "poseTypes": [
+       "FLY"
+     ],
+     "animations": [
+       "bedrock(regieleki, air_fly)"
+     ]
+   }
+   }
+}

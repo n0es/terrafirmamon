@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:klink",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "3-6"
+      }
+    ]
+  }
+}

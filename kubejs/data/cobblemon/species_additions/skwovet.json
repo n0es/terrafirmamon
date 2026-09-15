@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:skwovet",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/rabbit",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:oran_berry",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

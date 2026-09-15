@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:swinub",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/mutton",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:never_melt_ice",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:tynamo",
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.2,
+        "avoidsLand": true
+      },
+      "swim": {
+        "swimSpeed": 1,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  },
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/lake_trout",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

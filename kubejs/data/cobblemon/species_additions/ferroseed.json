@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:ferroseed",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "cobblemon:occa_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:sticky_barb",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

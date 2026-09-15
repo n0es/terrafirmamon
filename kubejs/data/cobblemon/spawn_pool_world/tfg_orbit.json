@@ -1,0 +1,197 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "tfg-orbit-minior-1",
+      "pokemon": "minior",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "60-90",
+      "weight": 8.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    },
+    {
+      "id": "tfg-orbit-elgyem-2",
+      "pokemon": "elgyem",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "60-90",
+      "weight": 8.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    },
+    {
+      "id": "tfg-orbit-beheeyem-3",
+      "pokemon": "beheeyem",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "60-90",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    },
+    {
+      "id": "tfg-orbit-bronzor-4",
+      "pokemon": "bronzor",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "60-90",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    },
+    {
+      "id": "tfg-orbit-solosis-5",
+      "pokemon": "solosis",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "60-90",
+      "weight": 6.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    },
+    {
+      "id": "tfg-orbit-porygon-6",
+      "pokemon": "porygon",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-90",
+      "weight": 1.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    },
+    {
+      "id": "tfg-orbit-beldum-7",
+      "pokemon": "beldum",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "60-90",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    },
+    {
+      "id": "tfg-orbit-clefairy-8",
+      "pokemon": "clefairy",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "60-90",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    },
+    {
+      "id": "tfg-orbit-lunatone-9",
+      "pokemon": "lunatone",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "60-90",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    },
+    {
+      "id": "tfg-orbit-solrock-10",
+      "pokemon": "solrock",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "60-90",
+      "weight": 3.0,
+      "condition": {
+        "dimensions": [
+          "ad_astra:earth_orbit",
+          "ad_astra:moon_orbit",
+          "ad_astra:mars_orbit",
+          "ad_astra:venus_orbit",
+          "ad_astra:mercury_orbit",
+          "ad_astra:glacio_orbit"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:arrokuda",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/bluegill",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

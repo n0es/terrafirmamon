@@ -1,0 +1,13 @@
+name = "rnr-0.2.5-1.20.1"
+filename = "rnr-0.2.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ca9X1Phr/versions/Y0yuTr8v/rnr-0.2.5-1.20.1.jar"
+hash-format = "sha1"
+hash = "0df8fbeed3bdbaed69e422d18f83f8ec2a0d0b47"
+
+[update]
+[update.modrinth]
+mod-id = "ca9X1Phr"
+version = "Y0yuTr8v"

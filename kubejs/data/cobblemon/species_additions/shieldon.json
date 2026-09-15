@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:shieldon",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/wolf",
+        "quantityRange": "3-6"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1",
+        "percentage": 40.0
+      }
+    ]
+  }
+}

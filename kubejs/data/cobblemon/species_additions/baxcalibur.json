@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:baxcalibur",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "6-10"
+      },
+      {
+        "item": "cobblemon:haban_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

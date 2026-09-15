@@ -81098,11 +81098,6 @@ hash = "a41a383916e992576566d1f9a538f78d15f5584abdf638aacfd18692fd2b1c06"
 metafile = true
 
 [[files]]
-file = "mods/cobbreeding-tfm.pw.toml"
-hash = "f3f70b7b90754dd0ab57442544b673322287e3d28fb800e7472b410040fea303"
-metafile = true
-
-[[files]]
 file = "mods/colorwheel-forge-1.2.9-mc1.20.1.pw.toml"
 hash = "79cfa06de6e4e73ed118822d46a3286596f02a3ab0ec5fdd2abd13ebf63a2eea"
 metafile = true

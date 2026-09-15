@@ -55,12 +55,6 @@ once and every launch afterwards syncs whatever changed.
 Updating is just launching the game. There is no mod to install and nothing to re-download by
 hand.
 
-> **One mod needs installing by hand:**
-> [Soulbinding](https://www.curseforge.com/minecraft/mc-mods/soulbinding). Its author has
-> third-party distribution switched off and the mod is all-rights-reserved, so nothing here may
-> fetch or mirror it for you. Drop it into `mods/` once. Everything else is automatic — see
-> [docs/curseforge-metadata-mods.md](docs/curseforge-metadata-mods.md).
-
 ## What is in this repository
 
 Configs, KubeJS scripts, resource packs and the packwiz index — everything that makes this pack

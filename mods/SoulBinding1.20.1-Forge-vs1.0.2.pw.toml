@@ -3,11 +3,6 @@ filename = "SoulBinding1.20.1(Forge)vs1.0.2.jar"
 side = "both"
 
 [download]
+url = "https://github.com/n0es/terrafirmamon/releases/download/v1.0.0/SoulBinding1.20.1.Forge.vs1.0.2.jar"
 hash-format = "sha1"
 hash = "b794e39c75a28753900dfe81d97137bc1d7b50d7"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4928200
-project-id = 925229

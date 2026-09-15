@@ -1,0 +1,8 @@
+name = "cobbreeding-tfm"
+filename = "Cobbreeding-forge-1.7.4-tfm1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/n0es/terrafirmamon/releases/download/v1.0.0/Cobbreeding-forge-1.7.4-tfm1.jar"
+hash-format = "sha1"
+hash = "f89afaa7727b701c8cf440c3fe699c6dd791eb3d"

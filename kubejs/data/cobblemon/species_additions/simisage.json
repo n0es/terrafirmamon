@@ -4,7 +4,7 @@
     "amount": 5,
     "entries": [
       {
-        "item": "tfc:straw",
+        "item": "firmalife:fruit_leaf",
         "quantityRange": "3-6"
       },
       {

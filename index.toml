@@ -9617,10 +9617,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/tornadus/tornadus.ani
 hash = "275b8694ddcfab76e1f75bf0d3904312e77776687a2149c78862ffe7f8c52614"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/toxicroak/toxicroak.animation.json"
-hash = "b9b4a77d16f96469464c7ba51d004b40cf7cf8023438442c72330508d8e99d95"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/tynamo/tynamo.animation.json"
 hash = "0b06137336b37973bfc5e5be246ce6f64edc23055dac2f1c2642dd2c15c8c561"
 
@@ -10663,10 +10659,6 @@ hash = "8c4fd9f81b810d26dc400939c72e5cdf558712f6b2744d0bbd4d6e61a868f167"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/toxel/toxel.geo.json"
 hash = "45622c43630e73a75170db03c4d769a2e7ae10b90608e8604f5a37bbe9dbc52c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/toxicroak/toxicroak.geo.json"
-hash = "e85a8d665903f11de4bb22f9dd46a9d18180ecffda7e300764baa630eceaeb92"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/toxtricity/toxtricitya.geo.json"
@@ -11737,10 +11729,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/toxel.json"
 hash = "7406a73e0bc06291c8c741bfff40baf73a0733ac6cf685593c68b5c4b6175687"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/toxicroak.json"
-hash = "b2846da76133288c8aab8bc07d334fa5f472bc36ba574029d7ae4468ab04257c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/toxtricitya.json"
 hash = "c7d760cfc682e7282fa85020dd6d557dfe80617fe4136f83af1feb4527841905"
 
@@ -12515,10 +12503,6 @@ hash = "163a8dda52bc9df793694c48909969730a06fa0e230fa8374661dab8bb7fe782"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_tornadus_base.json"
 hash = "74dada7fe27c11b66da4bac9536ebb90783274fb6761c486eecba8eedb2fbcc8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_toxicroak_base.json"
-hash = "9e8e012d47496d9bb6f3681b183c69ea257265f7c38e22862f5b1bcc5076037c"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_tynamo_base.json"
@@ -15383,14 +15367,6 @@ hash = "17558e1a330d28627e5b0dc8452c19b3f3a5f8e66cf2eef347d11cc7bdf3a87a"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/toxel/toxel_shiny.png"
 hash = "81874f9fa7276f3a0d1d6adbc95bb739dc8743e1a5cdbb2e26dcaa24fc0899ff"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/toxicroak/toxicroak.png"
-hash = "77dbcdbc168cc9b281eb3696d8dfcd02ab565600d35b4f7d2291e76d677d5e3c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/toxicroak/toxicroak_shiny.png"
-hash = "3d63110b3be8318a80320e83e198e22c4e2e906522ec5c8cf696bbed33350450"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/toxtricity/toxtricitya.png"
@@ -61563,10 +61539,6 @@ hash = "75fff3668b27f1bb0ae7df782a85112e8e2e7648763e03964ae860887da87411"
 [[files]]
 file = "kubejs/data/cobblemon/species/generation4/stunky.json"
 hash = "50ac0bf89ddef41f6721ec918c6f63ea00e2a7c04db983b90cbf8d89b22ea513"
-
-[[files]]
-file = "kubejs/data/cobblemon/species/generation4/toxicroak.json"
-hash = "d2e1e379d5f50ab01af1a6225751f72d29ccebda153ef57f54d11c00fc26e61e"
 
 [[files]]
 file = "kubejs/data/cobblemon/species/generation5/amoonguss.json"

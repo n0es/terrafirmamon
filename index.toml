@@ -310,11 +310,11 @@ hash = "5835e2ad731cb5bb261644bf25a54a71f788b4200e5e7030bbbea4a454f2eb6e"
 
 [[files]]
 file = "config/blur-client.toml"
-hash = "f17ebacbda7e442d393fc44b60da4c95d4cd737cfbdf4ada588ff593d39874d9"
+hash = "4bd20a337f4a82a8ece1d50f4784c9efd7e26d9c5e14984c7f92c803426ad22c"
 
 [[files]]
 file = "config/blur.json"
-hash = "9574c3ed2fa4bb1629400e7af5a461c49a04d720f0dcc24f3c9b37afe6e7ce96"
+hash = "cb8cff075b1a949e53ebcf0303982a2cee2e15c41de712b9d55dba349d3b18cc"
 
 [[files]]
 file = "config/buildinggadgets2-common.toml"

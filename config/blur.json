@@ -6,7 +6,8 @@
     "net.optifine.gui.GuiChatOF",
     "io.github.darkkronicle.advancedchatcore.chat.AdvancedChatScreen",
     "net.coderbot.iris.gui.screen.ShaderPackScreen",
-    "com.tacz.guns.client.gui.GunRefitScreen"
+    "com.tacz.guns.client.gui.GunRefitScreen",
+    "com.cobblemon.mod.common.client.gui.battle."
   ],
   "fadeTimeMillis": 200,
   "ease": true,

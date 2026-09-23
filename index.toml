@@ -8929,6 +8929,10 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/hoopa_unbound/hoopa_u
 hash = "a8c530a486a531d4431fc0029c13befa2428eaba34265ad0139cbe68613714fb"
 
 [[files]]
+file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/indeedee/indeedee_m.animation.json"
+hash = "9a28fb14a343281f8a904454b8d5858c5bdbf35aae11bf83aec14f1a3bf727f0"
+
+[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/ironbundle/ironbundle.animation.json"
 hash = "d9a7c18122d2f6ea9d2933bbd5fb3d80ce0073be66a952398194e474a46bb796"
 
@@ -9009,6 +9013,10 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/meltan/meltan.animati
 hash = "0a3f6fe450565eda7d9f438ce05f1ac5e1eb8f0ead85e705b9a5ce47308c559b"
 
 [[files]]
+file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/meowstic/meowstic_m.animation.json"
+hash = "5e3b967d56f40c7d1d9fb1e9227d28eb896d8c07b1a3e788fda32ef7775040f3"
+
+[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/mewtwo2/mewtwo2.animation.json"
 hash = "f0c4d607230c0a485df71995208903e0e530d5e9dc223011b98f83b5f169a697"
 
@@ -9083,6 +9091,10 @@ hash = "8afb29546f54e28869283b61c0d3b812e647d1bf04950dfba192dc0e7468fe12"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/polteageist/polteageist.animation.json"
 hash = "582e0935685b98e15756c8492216515b553c4da2ecba5e7e5f1522b31b8343b4"
+
+[[files]]
+file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/pyroar/pyroar_m.animation.json"
+hash = "99c7a964746da5db951f3310f1d0794eec8c846aaf1e4fec60b8a63f4a1388d6"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/ragingbolt.animation.json"

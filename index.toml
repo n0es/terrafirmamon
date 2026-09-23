@@ -8789,32 +8789,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/absol/absol.animation
 hash = "c9c15889a82e124d538374fbf30cb73953d8700702227744f36855232cb467a1"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/altaria/altaria.animation.json"
-hash = "697cc518fc4f3ef1f19a8eac3febb4db757d06d65bec2c647cac4006d934eb3a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/amoonguss/amoonguss.animation.json"
-hash = "f44ed9691df30dbeac344055357710fe927e0e1336e442bb93a18fd4e5b0a543"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/appletun/appletun.animation.json"
-hash = "5a1dfd0e6b404a368302a55a32b08818f5638ad020e3ff92305fbed92117e131"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/applin/applin.animation.json"
-hash = "2fefe3f984aa003433bbb5afeb3d815ac1cc0678e972da15cae41f2ef8b55c50"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/araquanid/araquanid.animation.json"
-hash = "e2ffc815934a09d80034dd0d587cb483b183e9708a5ab6650606ebcf22847e05"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/arcanine_hisuian/arcanine_hisuian.animation.json"
 hash = "e70ebe37c342d31082511be0baa405aec97f2be0adb70295214cfd5a35afee5c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/archaludon/archaludon.animation.json"
-hash = "7f2224fd18ccc7344bec2edc4f8457048f28120c25df93e4a7987d4f22ef65e2"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/arctibax/arctibax.animation.json"
@@ -8829,44 +8805,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/articuno_galar/articu
 hash = "f1b4d4b9732208e5552f6c126b58a31136807a4dcff97467186e7cda30f97856"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/avalugg/avalugg.animation.json"
-hash = "71f5b67a38530d1403329edd1ab0524826b7915d1e6cd595e9873c6ca30397e7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/axew/axew.animation.json"
-hash = "d452757fb565a54bb25c0b581b974958d6463375b1487243670ba15e33df185a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/azumarill/azumarill.animation.json"
-hash = "bd4a62d61f05504496b94bc0fc0537932e4d6baf61109f7ed9cec94ed6a4d4e8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/azurill/azurill.animation.json"
-hash = "f7cb9c2d7dc91d17978ace5774327f1b4823aa6ecfe3eb7c3252856e5b03b958"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/banette/banette.animation.json"
-hash = "abca1d377c821e0e29d9eef1da9a69a5ff0f3b32e89dfce238168879cf7ff334"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/barbaracle/barbaracle.animation.json"
-hash = "451f5b2946fd0ab8a91f9d52d7664811b1be223006da314209142dd7fd0b4fd5"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/baxcalibur/baxcalibur.animation.json"
 hash = "9b4c46bc12dd6a036280ed0b3155ca72619af049cd4d393fdd134f51dec99f30"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/bellibolt/bellibolt.animation.json"
-hash = "0453518332aaadb5e2ff020c3d458a35e1979a8e1d032c7fcaf4ac4b399b7325"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/binacle/binacle.animation.json"
-hash = "bbc0a9390ea6f04dcb2f2c9c425f2f266d86f2199635999594fb4e3251e8f129"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/bisharp/bisharp.animation.json"
-hash = "8cc80f0b24e0c38cfea59a45b3e2dba3609bb088d922bac79badb0ff2b91ffdb"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/blacephalon/blacephalon.animation.json"
@@ -8881,10 +8821,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/brutebonnet/brutebonn
 hash = "6cf88d576080ee2ccd203754c57b482212a37fdb64779cf3a0ca964a9d12d4c7"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/capsakid/capsakid.animation.json"
-hash = "623e2be80c0cd1a15adc154cc75a4957249f501e01b0bd2e4bce22902cea95d4"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/celebi/celebi.animation.json"
 hash = "39e9c23cfd3ba681c66219f93dca6e7154036adf4780a77a05b4f3fa210727f8"
 
@@ -8897,10 +8833,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/chiyu/chiyu.animation
 hash = "b581fa8356ba6dd0452c1c74bb0666ec761663f2f485b3f0af1d8f072fe9e8f8"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/cinccino/cinccino.animation.json"
-hash = "69881719ae04d17213440f1c23ccb38f26a0a5a8a38c03215d1ff6fcde35df31"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/corsola_galarian/corsola_galar.animation.json"
 hash = "edbf05590016acf90f7fedf363808ae44cbfd8b18abd7936eb82eba4e4983248"
 
@@ -8909,36 +8841,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/corsolar/corsola.anim
 hash = "1dc8bd2cd9c47882737f24be3097c3badc2cb3c824ce8904c216fbeeaa75ce6a"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/cramorant/cramorant.animation.json"
-hash = "d33873ed4fcee1777878f70e5ebb20ad54b7a898496c3990635ccd074e8f02fc"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/cresselia/cresselia.animation.json"
 hash = "981c0e7d1c8e356b40eebb53fc94623456f2e74a48f7d874ecca2780cd39c6fb"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/croagunk/croagunk.animation.json"
-hash = "76b7eff8122ce0efed3c97a39e7c752fefe1953f8fb6b984936b2ebcc87fa4ce"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/cursola/cursola.animation.json"
-hash = "697326bb932c7ceb8ab1b9815f548690f3c1fbd2dd6986c5c0264a33afa4c205"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/cyclizar.animation.json"
-hash = "ddd7fe6b225fcf2ba820cf7352e66ce0ec651af62d1f37ad7a89a2068ffce173"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/darkrai/darkrai.animation.json"
 hash = "f8fafa449bc9401b482bf9560ba971da9b7e6ed9d89447312c035df6e1780a48"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/delcatty/delcatty.animation.json"
-hash = "77480831cf184f5057b89cafb755058a20b596820f3821c262b10dee97c92801"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/delibird/delibird.animation.json"
-hash = "58917eea6d81102a9d17863f0f6de5e0ce07a720249ef6e7bb47c9cdfc86eada"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/deoxys/deoxys.animation.json"
@@ -8957,100 +8865,20 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/deoxysspeed/deoxysspe
 hash = "bb4c3a54290db8eb5754082ce2e296ba8e70ae6e15027c6c2d059b6af41d7679"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/dewpider/dewpider.animation.json"
-hash = "b8831d2773eb9c6b4c4ee77263ac5f50d4f87cb03fe9b867f7798e3e1ec14af8"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/diancie/diancie.animation.json"
 hash = "bc3f46dc1e3f94b6ead238d10dcc09bc45cb22a8aa3720f0acd6f048a419be14"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/dipplin/dipplin.animation.json"
-hash = "2d1f4cef270c1b0820393c6085d6f925e1dd8c0bc45553cb7d9b8b111019a160"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/dottler/dottler.animation.json"
 hash = "737b73524b2afd5e30fcfb8630e5e3af9686368035a12e92c2203984dcf605f2"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/drapion/drapion.animation.json"
-hash = "ec77137df18a71bbc2345fecf8ba254226e3aa7ef4202fd130584de114ada077"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/drilbur/drilbur.animation.json"
-hash = "06a968c2f8c524e5d8dcef4c2f3fb7d7903d9e2e485d495987b21c5ab69d6877"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/druddigon/druddigon.animation.json"
-hash = "892342ba825ee6bee7d40ebf5b7ea7062f8e5737bb7420f1ae7fb7931a1a2142"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/dudunsparce/dudunsparce.animation.json"
-hash = "ed5913d83079bf6e319e57b5ef9dbb35edddea575cb0375a2f164c2599606908"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/dudunsparce/dudunsparce_three_segment.animation.json"
-hash = "4d31c12e96bda4ee7e6f2da609045d634538d93df4465daddc554b1ae358d817"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/dunsparce/dunsparce.animation.json"
-hash = "ddf7a1a403f94748ad5519e43c005d8d21f19e7df87309c6327ea048f2e5ea15"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/duosion/duosion.animation.json"
-hash = "2dc6de04419d831cdf41846f482718771a411f0ccee71998512ecc52227af2d1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/duraludon/duraludon.animation.json"
-hash = "abf66590fc5a87477367a0158ba4db578867bf0bce1ab9e877a24ae555ec217f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/eelektrik/eelektrik.animation.json"
-hash = "38949a10c2977d82805648cb5c7515646249d1c46ca68a44d3b2d6682aa5e414"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/eelektross/eelektross.animation.json"
-hash = "e22fbfaf621160f601147dc4c71d4c22f425b43ef0370a39f3268f1f2b191ba5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/espurr/espurr.animation.json"
-hash = "4bd4626fe9ecb277c5e969710e656dc155f0cb194f1ef5aea8cfb7c7e7919064"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/eternatus/eternatus.animation.json"
 hash = "17b8e24e48f552067651baed95c11abfef1c894afe67f5cbe5c1e89e18e321dc"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/excadrill/excadrill.animation.json"
-hash = "d6345057e2051d07970f35a8589c53032d9c164c9361a96ecd17ce3f2d0d62bb"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/feebas/feebas.animation.json"
-hash = "fd559a69a35a72c7371e672eaedd592cb0991b16f680df67d25e66a4ec6f8a60"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/finizen/finizen.animation.json"
-hash = "2753f1638e7de31d6214d4677716a90535419e06f05f560e7c30614bcefed943"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/flapple/flapple.animation.json"
-hash = "ba07d1dbe99a3e5d29963e3823cc26fce1ca37a1a5e1a81ed0a2f49bad28430b"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/fluttermane/fluttermane.animation.json"
 hash = "6ac15a497c9aa35f94e55125d91941cdf803a9dacb2d39ee556bf06a6a14f3d6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/fomantis/fomantis.animation.json"
-hash = "8fc9537ec0c2bf93fa88c2c01e4fe14b68ee435f5d2e5df9f7452acd2f058519"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/foongus/foongus.animation.json"
-hash = "9c9abdea1de70ef948c92af3239609d7e0942f872c1ecda4d20f43d04b59eb11"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/fraxure/fraxure.animation.json"
-hash = "1448192c098f59fd7244de11bacf1bf0c95534774ec8c266420f445a25472bc1"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/frigibax/frigibax.animation.json"
@@ -9059,10 +8887,6 @@ hash = "f06d9da957ae9a4d02e2a7272e9e4a56f271ca350ef1e523d692e02c53ba7759"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/froslass/froslass.animation.json"
 hash = "052cc72828fe59ec668b12919018d9dcc8e7cf9ffdd7a31545ff13e52502f77b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/frosmoth/frosmoth.animation.json"
-hash = "87f66784f1d372c6099d3ad084282851c0379a1a43e97ea39a68e84de455fe03"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/gastrodon/gastrodon.animation.json"
@@ -9077,36 +8901,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/glalie/glalie.animati
 hash = "2f16558568b02e7ed7e6256c9aadcf274fe258cf8899704a54d9d43a53a721c4"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/glameow/glameow.animation.json"
-hash = "094a6224dfcfbe9b08f1e04749fd677e612cfe5c69314201b2f0a5e20beb34a4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/gogoat/gogoat.animation.json"
-hash = "d5b57d094ee5b5fe4ee921420f24de46ded14cb60cafe186251fdff2160236a4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/golem/golem_alolan.animation.json"
-hash = "44cfdea8ed53606c57e7333e158cecd9fa55d8a56e58955c8d1510df1ebb8572"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/gothita/gothita.animation.json"
-hash = "008b0599aa87bc04f5cbef5d968b3be7a594387f7dee799e26261510106835fe"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/gothitelle/gothitelle.animation.json"
-hash = "2714e14976e629125f86b62770f1b24f509f20674cbb2336ef7ca9639f1c1fbf"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/gothorita/gothorita.animation.json"
-hash = "ab90f9c691cd3cd185b54e9ea7e9b390ced3de4970ff02a1ca6bd6ce19931b96"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/greattusk/greattusk.animation.json"
 hash = "052118c3c1244f45e2550878dc5a2741a9c763484455442dca2dace2d3d1a983"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/grimer/grimer_alolan.animation.json"
-hash = "a28c7d558c72f60fc001e9637171446c3830ae608fddaa1cf5d38db20820b72a"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/groudon/groudon.animation.json"
@@ -9125,36 +8921,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/guzzlord/guzzlord.ani
 hash = "be40de606a0fb38472be2b1ac259b98125f3fc79e657491728572618110b6a51"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/hawlucha/hawlucha.animation.json"
-hash = "4c387a7129f80c680df9695bc391bee9738ecfee05bfe7f741202215ddcf1a11"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/haxorus/haxorus.animation.json"
-hash = "244b41205444acc0fb1637b860df969f2c5c4855f1677db1102c5cc5678027e1"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/hoopa/hoopa.animation.json"
 hash = "46e4a0ea0a35f5380550d5a34621976b95a18b67e79dfae173f07cea92c7dfef"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/hoopa_unbound/hoopa_unbound.animation.json"
 hash = "a8c530a486a531d4431fc0029c13befa2428eaba34265ad0139cbe68613714fb"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/hoppip/hoppip.animation.json"
-hash = "a579db54ad512434dd2dae319ba343518c70a0f6218897a1a8410a08b930997b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/hydrapple/hydrapple.animation.json"
-hash = "241acda3dfb8d1dd03cb5cde3d7efcc82a03b0e725671b551fab40a18588a607"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/indeedee/indeedee_f.animation.json"
-hash = "cf2d8269112bd375923941612cf48f4da99e1600369c17e2c5ceba8380b42c2e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/indeedee/indeedee_m.animation.json"
-hash = "9a28fb14a343281f8a904454b8d5858c5bdbf35aae11bf83aec14f1a3bf727f0"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/ironbundle/ironbundle.animation.json"
@@ -9169,20 +8941,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/ironvaliant/ironvalia
 hash = "e18641b92f6b01b6e1af1abc3b5e98381baf872c28b3608622881e49c3e3c141"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/jumpluff/jumpluff.animation.json"
-hash = "61108118e0956198daefc87f0e577f1b4dc312b4b2d6f44fe3303ad0258ed400"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/kartana/kartana.animation.json"
 hash = "d8a1aa235ce2d5faad88fe7870ff826c8ffea911aa0081acbf7bee531392d910"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/kilowattrel/kilowattrel.animation.json"
-hash = "f24650ec3ef0ba5f66475c9641897b701eafe60a442586108e773a441edaa3e0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/kingambit/kingambit.animation.json"
-hash = "6dc70563ea89bc2f26e0e416db05ed3b53d12d073da5dfe5a00cddff3d564872"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/kubfu/kubfu.animation.json"
@@ -9213,46 +8973,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/landorus/landorus.ani
 hash = "5aed7e7267fa5b7547214b496cd333d0d032095d7ad1a0d0dd6f9ed573713c2d"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/latias/latias.animation.json"
-hash = "9316d1879d12464e76fa71a4134103ad021bb4ec1a615521c5e367160806359f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/latios/latios.animation.json"
-hash = "6fa1dbef72c3b6e9c47e7a705d7b6b82f96dcb76979430a4fa219af8b2668c86"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/leavanny/leavanny.animation.json"
-hash = "bc50acb922e9601d3ad31e4bb439471cd8c365dc578358b29d6bf44ba81bc7d3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/ledian/ledian.animation.json"
-hash = "cd58653451c7fc60f98418d52abaf9509a0f0c70b93b216adffe79404fb84cee"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/ledyba/ledyba.animation.json"
-hash = "2b7c40252b8395f819d72ede436d8dc85537b940116e8f4d95377d01e3edc361"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/liepard/liepard.animation.json"
-hash = "c0f4fb27931d6a50be87260d6b3d09caae849daf2aade2af4338262edcf64658"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/litleo/litleo.animation.json"
-hash = "a853ff8b01a8183911aeb184107a31c689ac1d4ef37e632ed84788582b7e9bda"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/lokix/lokix.animation.json"
-hash = "3938ca172e80ad4f905c65aace0d1aba0bdbf9b44cd60b42bc3c56e2a66f943d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/lurantis/lurantis.animation.json"
-hash = "4481127a9885883e21564ce09e197e56d711563f181be5ff274a555541d82684"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/lycanroc/lycanroc_midday.animation.json"
-hash = "0f4d0a0447e4450bb4f30f23dbaf5565faab8865c8c5ea262a7e65c6cb4d95b0"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/lycanroc_dusk/lycanroc_dusk.animation.json"
 hash = "50459855b83bc55496fe60ec4d5ba86b768258d6b968121a939a3c84f09eab63"
 
@@ -9269,24 +8989,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/mandibuzz/mandibuzz.a
 hash = "07cb5f66f7942cfcd252a7e4c52b77323d2a7815d83219f1e258ad0e6ffa5542"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/marill/marill.animation.json"
-hash = "9086de36c90546c3af55203b95217f7676361f9d833e16a52dadaa4fdeab48f5"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/marowak_alolan/marowak_alolan.animation.json"
 hash = "a418bdf0700504b9a0192ad8594b0b1172719753bf6f9b37aa7adabdbf925398"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/marshadow/marshadow.animation.json"
 hash = "37403621635dee7ecf9254818c184078389baf1ebbd75a187773b99364e953fd"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/medicham/medicham.animation.json"
-hash = "ac4e26fedd6274db5ccbf3d56a1e3035208e8ec13fdd11b56a6dc3ec79ee8bf6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/meditite/meditite.animation.json"
-hash = "1573951b7cb9a0122f203fdf186bde934d79c5425a82e7c8d6b8023c5583ca0a"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/megarayquaza/megarayquaza.animation.json"
@@ -9301,24 +9009,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/meltan/meltan.animati
 hash = "0a3f6fe450565eda7d9f438ce05f1ac5e1eb8f0ead85e705b9a5ce47308c559b"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/meowstic/meowstic_f.animation.json"
-hash = "ec867a23a9b1081eebfb1a288aa96a751f7f85e161221b0d23e111d03843076d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/meowstic/meowstic_m.animation.json"
-hash = "5e3b967d56f40c7d1d9fb1e9227d28eb896d8c07b1a3e788fda32ef7775040f3"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/mewtwo2/mewtwo2.animation.json"
 hash = "f0c4d607230c0a485df71995208903e0e530d5e9dc223011b98f83b5f169a697"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/milotic/milotic.animation.json"
-hash = "d9fd22c42cc4e2fb8ee66168f053fd92d47b7287a8c7f9e30acc2480b4d25c8b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/minccino/minccino.animation.json"
-hash = "44aaa4f1b13e19a92932f25657d1d9207aa25a0eef1ff1efe2025a31bce0054a"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/minior/minior.animation.json"
@@ -9333,48 +9025,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/moltres_galar/moltres
 hash = "376827fab25ac2b06d84fe57b421df8f5a0a557d43419143aaa478b5edcf46d7"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/morpeko/morpeko.animation.json"
-hash = "678f9003ec98ff42e9ab908585ddd313d2eeef1ee91a22d5d5c9cf073af91861"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/mrrime/mrrime.animation.json"
-hash = "71999d7d9634b089c4c36d903061bb8e5d0c7666ec5b9bd9757ec123d3489712"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/muk/muk_alolan.animation.json"
-hash = "fb4d943937ca20f86cf5dc4e0d72cac124aa14f687ae76b1259ebe3dc6587662"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/munna/munna.animation.json"
-hash = "97c0160ad325bae2ae4b3f7d51fb84260eba50c00c35e5e84f7e287865aede3c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/musharna/musharna.animation.json"
-hash = "ff6492d2341ab6776b91e98a02ef54d3a084c0f01594394c68351c7277f12c36"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/naganadel/naganadel.animation.json"
-hash = "1328722031ea7a433b8189837f1748216647039f6f3bcdb43b9cf87dce79a773"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/necrozma/necrozma.animation.json"
 hash = "809519597da913fadb52e1ab67bd4edeb6d005dc2c28b93de98e26985d908510"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/nihilego/nihilego.animation.json"
 hash = "e408e259c872acd86ae26a7253f67577b94a43e7b7c30e6b4d8f2f41913f6e8f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/noibat/noibat.animation.json"
-hash = "b7a242ebaaa34345ab38994575cfc203da59c776c83578035c5feaf4b586ebb4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/noivern/noivern.animation.json"
-hash = "81d9e16b0030aa745d644b0e0a01f31353ccf7aad54380d08a5de9c82b22a50a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/nymble/nymble.animation.json"
-hash = "400283c7378d510be9f1865d63f8e879d6e14ba0d8242bebbb3cdd874334098b"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/ogerpon/ogerpon.animation.json"
@@ -9401,14 +9057,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/orbeetle/orbeetle.ani
 hash = "79709af394b9c76ebac9437529ea0c3e73494d830e7414e5e6a8be33c2c7e1fa"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/orthworm/orthworm.animation.json"
-hash = "654ad3758d27ec8590b996d92be1c01a2256c92ae29b47e724ca40f89a22e0aa"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/palafin/palafin.animation.json"
-hash = "2753f1638e7de31d6214d4677716a90535419e06f05f560e7c30614bcefed943"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/palossand/palossand.animation.json"
 hash = "c75a3913047e3712cb1a819d7bfe77051e22601e44473b7a0015e9b15aa2b5ce"
 
@@ -9425,10 +9073,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/pawmot/pawmot.animati
 hash = "b840440503807c1db730be6e89c473c04759683b815f4167be17c3b1577cc8f3"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/pawniard/pawniard.animation.json"
-hash = "1dc0e38b51f5fd8561036e955f892e7ece26000864ed467e8d4409a577a6a7f7"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/pecharunt/pecharunt.animation.json"
 hash = "772464987d11cf8aa689d6f69eba9bb54d249479c1b6a34189057e966e677bcb"
 
@@ -9437,76 +9081,28 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/phione.animation.json
 hash = "8afb29546f54e28869283b61c0d3b812e647d1bf04950dfba192dc0e7468fe12"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/poipole/poipole.animation.json"
-hash = "dbd65f87e5589ae098379133969a0fbf1a2cab996eb679e19c1ab87481585890"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/poltchageist/poltchageist.animation.json"
-hash = "e9b22995a20a9327c375ecfc5e83325e4605e887988193a59516482bc4abe25b"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/polteageist/polteageist.animation.json"
 hash = "582e0935685b98e15756c8492216515b553c4da2ecba5e7e5f1522b31b8343b4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/purrloin/purrloin.animation.json"
-hash = "85126816f64c9f2084aa0267e116f89527493bd1b46f8b24913afaf50156ef12"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/purugly/purugly.animation.json"
-hash = "91fe03eaaa75e3c2b70072212e92c111b4801821aa823a28d0c071357c1d2816"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/pyroar/pyroar_f.animation.json"
-hash = "5e505587dbdf704f184c7fd4cfc479eca4736119a26cec044243eccb1d66859a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/pyroar/pyroar_m.animation.json"
-hash = "99c7a964746da5db951f3310f1d0794eec8c846aaf1e4fec60b8a63f4a1388d6"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/ragingbolt.animation.json"
 hash = "353c72d95d74fe6c301cc8dc0a07536dda5edb64bf6944a854a5d04389632af6"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/rayquaza/rayquaza.animation.json"
-hash = "8dc0b1249be7e58b9990115ac6f82f02dff8f1b8620a98203b46a19107222c84"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/reshiram/reshiram.animation.json"
 hash = "083f2c6c411d900fb6c6aa15ea17ddfea550556f547e52cca4f31a6cc342fe67"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/reuniclus/reuniclus.animation.json"
-hash = "ce391125770a12feed8eeb0163c3aacbbeb06cd8bfbd5b8325a9b5552e837d06"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/roaringmoon/roaringmoon.animation.json"
 hash = "e6d528d2c7d4fd06e5f7cf91843fc5cc8a8bb5b9a15ec1ad439939f3967f91db"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/rockruff/rockruff.animation.json"
-hash = "2166e1aae84de1e95fe5b1f345cf3f42b3f5d91d1edd33b0af62f5e460d18e76"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/runerigus/runerigus.animation.json"
-hash = "6a266968129f9aca26c745ca937a3322abe6ed93439a55f02e095438f640453f"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/sandygast/sandygast.animation.json"
 hash = "6bb5731620dc2f5a1dddfe177a07c897bd0e30b0110cca500d1d6ccb623e22bf"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/scovillain/scovillain.animation.json"
-hash = "e1c8cd11b6b855b739a94c5b679a58c65ed53570189433846c81a37933851956"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/screamtail/screamtail.animation.json"
 hash = "faec01cd367f7a2c16981b863b7a09d2424cf7f985610696ba14425870aec550"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/sewaddle/sewaddle.animation.json"
-hash = "7d0bdb26768f9feee90edeadb0fc22245e77510c8fb5ade3c9aaf90ba7f64b0b"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/shaymin/shaymin.animation.json"
@@ -9521,68 +9117,16 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/shellos/shellos.anima
 hash = "a39c78d61eafd71cc603fc1e9a4e51c7df5c0cb916e8feb4512cda9dfde184ad"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/shuppet/shuppet.animation.json"
-hash = "b27deae1a6ae833c1b2659b8b883cc684e27dcb8f555dc55bb97c917bced1613"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/sinistcha/sinistcha.animation.json"
-hash = "577fe329495dc4edeaae596a45a4e3a3294fee58521bc232e164b5a141e76d1d"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/sinistea/sinistea.animation.json"
 hash = "314f3914572b5802d37ac2a6e2976bc512c824efa92117ac9a28ece7b03cbdb4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/skiddo/skiddo.animation.json"
-hash = "a1d2da14d070ff1f527f27fef8ec4a80bf3aa45be2713e66de41f0ef7bdac4fe"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/skiploom/skiploom.animation.json"
-hash = "2a585d75e762f031ec04bd023c38673a6ed8c47d6fa34bed19fcfd1d14f06101"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/skitty/skitty.animation.json"
-hash = "9b7534af7da30a910f32cfadf885f4cfe51ecf884f1cdc1781685507fa7ee1c3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/skorupi/skorupi.animation.json"
-hash = "a2059c9982d73dc97057709910d5d29e071d86d11da2328912d421be2d03c8ef"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/skuntank/skuntank.animation.json"
-hash = "f8647c316221c624e1b35e16b65f39c3aa019af4e06a88a67eeda9405a52bdfb"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/slitherwing/slitherwing.animation.json"
 hash = "8bc1a4f3a13cdf62038b31197e2765925ad8b7e1322022f15fff73dace1bfdd4"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/snom/snom.animation.json"
-hash = "fd34e4409e68e1aeae934df30b1ec1dc13330dc2d9f4f2b6585c9913ef1edd7f"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/snorunt/snorunt.animation.json"
 hash = "0dd5d5266ede1f2f12758b39c8f197516aa25d3d01cc606fc96a843f9cc723f4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/solosis/solosis.animation.json"
-hash = "f73d8e4ed57f32c864d9cdabbc75328fae105ad497a4b7cea0d7e2382a9a6320"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/stunky/stunky.animation.json"
-hash = "42b04acd22cafd38a4a8bc8ffd727aa21f1e4d6125296cab8e47c147eb687cd7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/swablu/swablu.animation.json"
-hash = "6b8f42a116365ccb715409b715750e3a1e8b52be8df2e61d5b1affac74f56a70"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/swadloon/swadloon.animation.json"
-hash = "feac7a9233a50ac299ce2346e73bd7fe5d17201489cb140d38d6eb900e1481fd"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/tadbulb/tadbulb.animation.json"
-hash = "79d78babde00e8db2549ec59a7df404bcdb365fd54a520d3079747919238c021"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/tauros/tauros_aqua.animation.json"
@@ -9601,28 +9145,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/thundurus/thundurus.a
 hash = "dc08e2aa97fb59eb7ba2289022dad3c4f01cd37e382c75030905f6f6f8d59476"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/toedscool/toedscool.animation.json"
-hash = "2bf2f14488d825fe97c3e6fa5e5233d287c7270abeb5ddd04f9b5f70c04a15d7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/toedscruel/toedscruel.animation.json"
-hash = "4712f739824767d4b7001c29f4c7e112b49628df59b02ea41324fad040b847ad"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/togedemaru/togedemaru.animation.json"
-hash = "56a0b937376450fda01c9d5ba6aadedfa6de46d0df1a12b94f105437d0b33c33"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/tornadus/tornadus.animation.json"
 hash = "275b8694ddcfab76e1f75bf0d3904312e77776687a2149c78862ffe7f8c52614"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/tynamo/tynamo.animation.json"
-hash = "0b06137336b37973bfc5e5be246ce6f64edc23055dac2f1c2642dd2c15c8c561"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/unown/unown.animation.json"
-hash = "0aa66eb613f0c47923a1ad6ca6b5469ae242d6ddfab62645f25d2db3fa329dfb"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/ursaluna_bloodmoon/ursaluna_bloodmoon.animation.json"
@@ -9637,10 +9161,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/urshifurs/urshifurs.a
 hash = "19ce8170d3c4e7238fdddd8ff66aa176913ae8586c97a40f47f182dc073be83f"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/veluza/veluza.animation.json"
-hash = "d268e133ba12af1b8205cd7759fb23f729d87bea0435c51ce5b39f9a2bcef9bc"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/volcanion/volcanion.animation.json"
 hash = "346bf8d2bb4940752f55b90eb40ca0eaef10a2d80f37e122fc6e5d08f532c1ad"
 
@@ -9649,24 +9169,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/vullaby/vullaby.anima
 hash = "939be31b6acc1da4e367d42b01ee05f710a97df6fb6b08515ea74db4b6dfd3a5"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/wattrel/wattrel.animation.json"
-hash = "179f94f7e254aa64d284805630e007c4e8b539269b40263578d51d1b8ae7ce7c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/wiglett/wiglett.animation.json"
-hash = "598dd99f477caf28f5fa02f02c6e9c1fdb58de446c257cabb37e36275b2cf4a9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/wugtrio/wugtrio.animation.json"
-hash = "6627659b92cc0c41498a817583a7f5178733a367e4d3276f134f780afa8f24e1"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/xurkitree/xurkitree.animation.json"
 hash = "3d2cd4712f4c26348177064088eb837dccb55e4882db00d7466123892e17ddc7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/yamask/yamask_galarian.animation.json"
-hash = "3a0ee2396917c1225c594fe16c400519e8e8ea1fd1c47363e2bb88becc288b87"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/zapdos2/zapdos2.animation.json"
@@ -9701,10 +9205,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/absol/absol.geo.json"
 hash = "68cf990c537e773cd2b36a1da5846d4085b3d0dbb730e44eb1b9e6cda270dd4c"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/altaria/altaria.geo.json"
-hash = "3f5b6ee1afacc989b93fb457deec73374d2e7dac75fad88ba94a664f23626cfe"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/amoonguss/amoonguss.geo.json"
 hash = "82c95fa6dfbcebf6f6529da9c31fa283d799adae69079e3e4c4b1aefc705becc"
 
@@ -9715,10 +9215,6 @@ hash = "71231a052c1e8e2562de00d4d6bb1fab0a07398fc44ef265a4db0110a556e7d1"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/applin/applin.geo.json"
 hash = "db4422e3f4ae9608f77e3e2874a2a04130cfffcfed53390710a6b5bbc6b5fb7b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/araquanid/araquanid.geo.json"
-hash = "e41c70dad890707c2e70bd83a6fff079e9f9abef30466b51dae05c80fd78366d"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/arcanine_hisuian.geo.json"
@@ -9749,36 +9245,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/axew/axew.geo.json"
 hash = "67255cb74ac5014b63db3a93fca1bad6a0d797c0031d4bfbe05cdf21097b20da"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/azumarill/azumarill.geo.json"
-hash = "815460500b6a8425e439abbc8835b38161d9481bcc4410c5111c7c13c79afa70"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/azurill/azurill.geo.json"
-hash = "6aaff8657ca65ee6b73c526fb199242f51d7e1446ad5b7499919d095765aadb5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/banette/banette.geo.json"
-hash = "2cb8eb4ce54ec3ddeea0710bd2d045c79cec70a521a97c49af7916b1fd8aa049"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/barbaracle/barbaracle.geo.json"
-hash = "504b7572a1c5795639784bbed1cf64ff4b9ccc6289be68a6c3c1fe79d1a44a2e"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/baxcalibur.geo.json"
 hash = "c05c4700794b86eb73adaddc86942253ac3ef5f796b9abbd9020cb96c1d88738"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/bellibolt/bellibolt.geo.json"
 hash = "5f01f0629d2a95808df05bc3b3f3abc8e5525a723db0c1fa2d517c41883ab4a5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/binacle/binacle.geo.json"
-hash = "f970de65a87ff6a8e81baec4a27d6e81ad60aa6e5e8ad9156d177f7a50595fdb"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/bisharp/bisharp.geo.json"
-hash = "6b0d8fd4ab6c8afc39d4de90afa9be20eb9a1c3a45ce4331c2146c87dfcede8f"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/blacephalon/blacephalon.geo.json"
@@ -9791,10 +9263,6 @@ hash = "a25c91b4f85ddeac2d13696c869fe90f89c605be25df0351f7af8799cc73b336"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/brutebonnet/brutebonnet.geo.json"
 hash = "98a5684670f2903995772f8c97a9df8bd09f15d1bc6e82b827d2f29c929dee3d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/capsakid/capsakid.geo.json"
-hash = "1e3c863401807b993a27109c1ac3987b1ea0f93794c0b93613de2a6db87057a5"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/celebi/celebi.geo.json"
@@ -9813,24 +9281,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/cinccino/cinccino.geo.jso
 hash = "0f1deeaf2dda0781cae40fbfc645f49c135703fe0f7190e3c9c0c11c6e92c87d"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/corsola/corsola.geo.json"
-hash = "8795e33f950584a54299b1a7fae874b00df4bcd9cba0106a752d78bd5c555e88"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/corsola_galarian/corsola_galar.geo.json"
-hash = "d4ccd28fb886757cef961a2d55e54328d776c9b144348022cd6c297aed096222"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/cramorant/cramorant.geo.json"
 hash = "d752e106271812c6aae6f14d80ecbdf69b1ad40d05c171e108b9aa7a4b8c6da2"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/cresselia.geo.json"
 hash = "b1b66c593a712101b4eae4308be975becc60d498f2818daedbe789e5207941d3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/croagunk/croagunk.geo.json"
-hash = "09d17203a866e038cf6ee3520867e97e32a5120c1a0efc47aeb71ac596f35024"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/cursola/cursola.geo.json"
@@ -9843,10 +9299,6 @@ hash = "214c2e4e3dc2f1765f1b6f45c79f95eab87f0648b7005f7553befc04b1b5b650"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/darkrai.geo.json"
 hash = "99ea88bdfc87c93bc575973777fc6fcd1240480b41bac74ed63a6d025691775e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/delcatty.geo.json"
-hash = "479659cb7446e0e2069ee23ace92b0b8207a2cfb8601b202b2cda57472ed0e03"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/delibird.geo.json"
@@ -9873,10 +9325,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/deoxysspeed/deoxysspeed.g
 hash = "e2a3a55b211a37c29767a3350643f39e79fa7476837ea882894dfd3cc50c0b42"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/dewpider/dewpider.geo.json"
-hash = "f87ec482a1148208a45fe82436499cbb3b4e38441c958de6c45eb4485beac2e1"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/diancie.geo.json"
 hash = "bd013ae9fe04976ecf11dfe1d774ced1d1f19fced6f0f3ec4693edcef48ddcac"
 
@@ -9889,68 +9337,20 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/dottler/dottler.geo.json"
 hash = "11b22a705ce8f7170e4cbb8c6fd396c38e3b2cc0ea91179c70238c0d2c435c55"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/drapion/drapion.geo.json"
-hash = "f6aea6471c786c03358c5444122b5774d1b18092b7c6b68d8a74b3ae0560d93e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/drilbur/drilbur.geo.json"
-hash = "d1bbb4a230aee7798ed7e51a160196fd513f87052eafc146c73d45f7671914ef"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/druddigon/druddigon.geo.json"
-hash = "af9d10064dfbe91f23f7de3fa70ad972aea79df922bee5bd6c35b00151d02bb1"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/ducklett/ducklett.geo.json"
 hash = "3145c80888450c0f0e540866d6d53ab034aacbd025e6027d282ecda45204a04d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/dudunsparce/dudunsparce.geo.json"
-hash = "ac22520e601422895bc8ffcc3229117a5d4bae1fa55db5318f620c0a454acd5d"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/dudunsparce/dudunsparce_three-segment.geo.json"
 hash = "efc288f80c05fe8f1237d47b79b3132b669bf56ff30cbf1276784e181da5663c"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/dunsparce/dunsparce.geo.json"
-hash = "2e24c943b004754ac5cf06269188ef2a67b7cce5b3819d0982d77bd7d3967978"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/duosion/duosion.geo.json"
-hash = "dfcb6fc4d90b8bc1048149c9fe5716561b16768caaf368e90e6108ea4906cb14"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/duraludon/duraludon.geo.json"
 hash = "42c3dd1d432c63fca361e6cd5f2326922bc177bd4e127c942b9ca9778fd25e62"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/eelektrik.geo.json"
-hash = "232af486e81454ec2e0367bf27404ab75b93a77d42a83302906346113188f370"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/eelektross.geo.json"
-hash = "5893ae2a641f05d08041320c26714f8842b17a662d6c70a054fadd0927a46ff7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/espurr.geo.json"
-hash = "caaa392db8f23e275424350c00abc17ddc52b0bee22e41edaf44b95a56b19dc1"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/eternatus/eternatus.geo.json"
 hash = "0698342cfa417440038ba184b3ba4532b7e4222c905e57f3a40d3c8d43ff500f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/excadrill/excadrill.geo.json"
-hash = "981a8fbde5cffa8683645b7b1219353990e292bee8f4cebee90e144a4c3c5c20"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/feebas.geo.json"
-hash = "1c8e2e670bb60e50388e3bb8407715f39abcd08b94c363b646d257da16c987af"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/finizen/finizen.geo.json"
-hash = "1fbeb467b78b917fc4456ba6cd4c37ee357ab863a03b849b6c0c41fb586bf88d"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/flapple/flapple.geo.json"
@@ -9981,10 +9381,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/froslass/froslass.geo.jso
 hash = "fd3a3b6ebf1db2cb792b40b61dcc31984e82f1412ee8f7c6ee842cae86d878fb"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/frosmoth/frosmoth.geo.json"
-hash = "5080b632406aa20c6e49f0bb48957b1244fba1719631a83fd4e0306e0fcef041"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/galardarmanitanzen.geo.json"
 hash = "00fc003bf30f089c1f3924537eca85ea08841bbd3a0ae8bc4249f371375fccd1"
 
@@ -10001,40 +9397,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/genesect/genesect.geo.jso
 hash = "36d86743a556d1e467f24e92c9da874678712d1f93c7d4b532694b2a1d04b027"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/geodude_alolan.geo.json"
-hash = "940ca723b09052493ee77815be0fc9164054dc1b1b7201bcd1d7601944dfcae1"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/glalie/glalie.geo.json"
 hash = "2bdf89b4988ff8fab67924ba20dc5f0c1e7e34ce836433e28419fa7a3e7411f9"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/glameow.geo.json"
-hash = "d24ae078d1a6d55e1ca0892e28f9ea541c6e94b2580fa6283bc72e156d6ee7f2"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/gogoat/gogoat.geo.json"
 hash = "29d9472746ba27e1d0e6e6822ec78445d4a47e103d843ff4e9bdfd007fbb875d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/golem_alolan.geo.json"
-hash = "a7e71d5a5fbf72619478d282ae7c838bd6b453f8965c8ac751393dfd156babc3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/gothita/gothita.geo.json"
-hash = "2b87cfd1b8baf35dfa2a20c1509cdbc07c44dec02c90aca70850466beceaaa9f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/gothitelle/gothitelle.geo.json"
-hash = "cd8864f190bbaf4d826f608a6227c1241151fda7241eeb1a12b70aac0f35f6c8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/gothorita/gothorita.geo.json"
-hash = "cc0a79f2b2ef5b2f22e61ec9a79529c033dcffc93479831ea21d62ce474f34d8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/graveler_alolan.geo.json"
-hash = "22e782475bd27f494bdd0f4c98f202d9708a142fa912e36f10800959533343d8"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/greattusk/greattusk.geo.json"
@@ -10081,10 +9449,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/hoopa_unbound/hoopa_unbou
 hash = "0c25d00fb36fa2006b828422aa3cc4ad78e66f76c7b5c5a2f4767efbb4534283"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/hoppip/hoppip.geo.json"
-hash = "41f76da6ea29acf374959d5646660be31e039ea80490ff95173678baf514a767"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/houndoom/houndoom.geo.json"
 hash = "583319a685ce38e20af15184b5a5f182599371c0cfe80301b198231c470ebf0f"
 
@@ -10129,20 +9493,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/ironvaliant.geo.json"
 hash = "85809113fa35011644e7bcb16d145dc4169029cd0758a7cca3f51bb96b900e56"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/jumpluff/jumpluff.geo.json"
-hash = "06806cf0a783c850e72ea0ba6d21ff241165a92d4b7b4d3315800071162cf715"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/kartana/kartana.geo.json"
 hash = "d5d7d8352432202cf57979ae8cb72682f305cf31b94cb9c88bfc3a088670848e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/kilowattrel/kilowattrel.geo.json"
-hash = "551356bd57f9ab237bc7cd00b5b32147c5621c23ff011508af0b3e16570b294d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/kingambit/kingambit.geo.json"
-hash = "3287bf209c69f162a4268972ac91a52c01e4471af002f89645ef918bdecc3a00"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/kubfu/kubfu.geo.json"
@@ -10177,34 +9529,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/latias/latias.geo.json"
 hash = "3fa3288860203bfa9c0aad31e2cf4576aeaf64ca1b5966270a553bd8820db021"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/latios/latios.geo.json"
-hash = "e2f5431ecaf9d60a47593d04c337fec3ad1c66b32f072659204f7b192700fa9c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/leavanny/leavanny.geo.json"
-hash = "bbf33db801c4de55788575be67a7e5504499d57359779a467a759988bdb29b3d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/ledian/ledian.geo.json"
-hash = "9d9bb750e48972ee9a24ed82a2afbffcda7ff660cd260bce4838aec8156d72d9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/ledyba/ledyba.geo.json"
-hash = "bab7168ba2f288216ad44619c89f3e8662d3e4e91c05a9ac31009036f2beb2ba"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/liepard.geo.json"
-hash = "18d2726c9ea5d48bdcf39db5319a50df0023b0dbe3fa1e55f7a50ba9cb56861e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/litleo.geo.json"
-hash = "7448462725f6d94aef7f711261565e1a2200f8783b5c153512087ca66d2cdd7a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/lokix/lokix.geo.json"
-hash = "08e51e4f24c5f88ef2fee38f8cb8b335c502f299181c2157e2a0073a9f67e3f5"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/lurantis/lurantis2.geo.json"
 hash = "4b2930070cf8ebd6bd0d2f43b517f8ca7df427984e9721cd74144b47b5b49a9d"
 
@@ -10233,32 +9557,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/mareanie/mareanie.geo.jso
 hash = "332303fdf00e4c7da5f5cc5c67c91668c46f76f181b2735acf9cd4aabf96ce21"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/marill/marill.geo.json"
-hash = "e031540d3f9759836f072d37177187c48411a1eedf82c50a776292d5081ef13f"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/marowak_alolan/marowak_alolan.geo.json"
 hash = "b071493486e5b913c7da9593723ebe0cce4d50d9ad2ef6aeff4f65c47aa2286b"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/marshadow/marshadow.geo.json"
 hash = "e2e63c4349e85f1f2d6d4d469037f546f8674c259f57bb438cc8c99f5c0065f0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/medicham/medicham.geo.json"
-hash = "bdc5fbf3eadb49f6b0a737f8354130923e62d26742d671d018fd96b5d57ba787"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/medicham/medicham_female.geo.json"
-hash = "43ad84c92fef17d4ef6650eee0fa5f1c6a40a8de61c81a2144703e80c2618310"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/meditite/meditite.geo.json"
-hash = "5d13628a07f075a85747cceea12c7d3b461ad26d79700c49b43fb26fdb96533c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/meditite/meditite_female.geo.json"
-hash = "00d6a5341bbd05fa62d5440d209ca5adb769aa0ee3f3ea363091d8647e49f66f"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/megarayquaza/megarayquaza.geo.json"
@@ -10273,20 +9577,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/meltan/meltan.geo.json"
 hash = "8d6220722ba5f6007136074211fd743948a28347ec4866a9fbd13c5cac412362"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/meowstic/meowstic_f.geo.json"
-hash = "3218701a140154b0bee4f945bc4eda0e1648df48ef729c9506e588e81373dcc7"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/meowstic/meowstic_m.geo.json"
 hash = "16124f626ba5423c4fe207f01bd96ef93dddab42e55d500bf9a118ce367b598a"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/mewtwo2.geo.json"
 hash = "2cb9031a1c0dc176eb6399a0660f303ac6504989de562a17a454ae127bb7e070"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/milotic.geo.json"
-hash = "8076d1aea7dc6e878fcda8f21ab2d0cf58558444f175330bd4b7d9c7212ba3ee"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/minccino/minccino.geo.json"
@@ -10381,10 +9677,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/noivern/noivern.geo.json"
 hash = "09d0bebd18dd4b831fabf6108f970960864f906a3d9862e5939ac857bf21e063"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/nymble/nymble.geo.json"
-hash = "0cc03477fbd43405f568f47fc89acbdd211fbca2e22e32a24eb1b2e6705ea612"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/ogerpon/ogerpon.geo.json"
 hash = "c12cf53631f70dc8d65f8ea335621233173163d693246a4b88d1cf0989e0b28c"
 
@@ -10415,10 +9707,6 @@ hash = "9b6f276c37d0cc64a9ec7d4a9b4f7908b22a10926a4f7a954391cfdb20f66b90"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/orthworm.geo.json"
 hash = "171d841168ba9cdd700ef922a79fd78743874fcbc831aa8b8d75171bcab02d54"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/palafin/palafin.geo.json"
-hash = "1fbeb467b78b917fc4456ba6cd4c37ee357ab863a03b849b6c0c41fb586bf88d"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/palossand/palossand.geo.json"
@@ -10465,18 +9753,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/polteageist/polteageist.g
 hash = "279205498100e00bd9a86d398d01a3c63d337a4267469388e59a2fe67b65a50b"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/purrloin.geo.json"
-hash = "2c9509206c2d3f1896782470f57c140d5c7f35580e468352d3cf4ea741c78620"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/purugly.geo.json"
-hash = "d3540e99e774cc1efb39e31b55d29e6c3dc555bcf2215a9ff3a13bb0d17ae0ea"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/pyroar/pyroar_f.geo.json"
-hash = "04e9047cac6cc17a113e6a90d56b44f7d6499236b1d43c63853b8fd029cc15a1"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/pyroar/pyroar_m.geo.json"
 hash = "ebf93bd3f37fbc951b129f9067c69ca063500f92d6b25057b65d553f83b8eef2"
 
@@ -10493,10 +9769,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/reshiram/reshiram.geo.jso
 hash = "db09c6ddc3fbb0a33ae3763850b28a572133bf76f9bbd3fe83aac71d7fbafac8"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/reuniclus/reuniclus.geo.json"
-hash = "11fc6fbe8f18eab357a03b90015d73bfa7638a531e761986bc8a9980517048f7"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/roaringmoon/roaringmoon.geo.json"
 hash = "4e9a72b6cf678c1dab21c90ddb2a781c2551231e4000ba77eaccf6115e1d892b"
 
@@ -10505,24 +9777,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/rockruff/rockruff.geo.jso
 hash = "35910f704f17526cfe4eafa317620c8d2a501dcadf9b8c43c3f6e97bccf7e3a4"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/runerigus/runerigus.geo.json"
-hash = "da2009ea2e0013a12c2b9a08fdaf50927052d99e05d9b003f9e088e6857d3a0c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/sandygast/sandygast.geo.json"
 hash = "5f577b07bedd9db64bbe3eb8a3c59cae2a09a1f5907fd523f97a34d7fe993d6a"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/scovillain/scovillain.geo.json"
-hash = "743498deb43a131145e2eeb67a762acc4d95cd9411ebbf001c682fee0608d49d"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/screamtail/screamtail.geo.json"
 hash = "1fb2f94ffa9c08e384caf158b316dfdd4252ff28f207bfe88fd55d856d85ebe9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/sewaddle/sewaddle.geo.json"
-hash = "d715f6792bc3c73e990aeb0c3c9b3706aea7bd472b312d06bf06b4a504ca54b9"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/shaymin/shaymin.geo.json"
@@ -10541,10 +9801,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/shellos/shellos_w.geo.jso
 hash = "b99ddf242f8325efad10b1512271c378b959b9212fca2aec1accaf45ce02d86d"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/shuppet/shuppet.geo.json"
-hash = "ed36a42295afe3a4723cb47d1393f63a6428d81c77f192e070611396efdbf422"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/sinistcha/sinistcha.geo.json"
 hash = "54988e66036e510bd919cbf632b5afca130f37207e8c32bd20d21b46208a202a"
 
@@ -10555,22 +9811,6 @@ hash = "acd5c2909ab32e15945f89e901a77329663d8ad7d7e735520d2999f60678a072"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/skiddo/skiddo.geo.json"
 hash = "fd757ecc240b42f86bfec5c1b9a8dea0f4a1ca5aa9cf602e474b0417c3dafeaa"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/skiploom/skiploom.geo.json"
-hash = "ea1b86041405c82f8941d2b65ad7c5c62cdda441bd692ac43730bd22e54eb918"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/skitty.geo.json"
-hash = "724e424cf0d6e54aa071edcd0d1a25390179f0d6b5ed3077ef1d332931bda4a8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/skorupi/skorupi.geo.json"
-hash = "311f1c95c87145308597b746b5291601218712da393c987943d49c11e3621ac0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/skuntank.geo.json"
-hash = "e91bf568c020bd1872aaf2aa7578592a3f53da5619899200fa9e208961be0b58"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/slitherwing/slitherwing.geo.json"
@@ -10589,28 +9829,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/slowpoke_galarian.geo.jso
 hash = "225ee351ccbb5bbddf83792159e250019fd9bd5398798ed2edb09167183b1611"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/snom/snom.geo.json"
-hash = "fcd5c3221ec46fc0001c701cdb18ff83bcc617d7db681b77068780d61e36e607"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/snorunt/snorunt.geo.json"
 hash = "2eeb9aa3b5789fea914b0f9191f52f6f576a67a71208aee8b49b14eaeec27ff1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/solosis/solosis.geo.json"
-hash = "9e8c24cea52f3e1bfb415f11f1d62f5ceb37a6f5421818d4faf764eee2cbdb14"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/stunky.geo.json"
-hash = "d2f7520348f0df24f9998e989e65ec5be61a77a420b14662c11c3eaeb4328046"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/swablu/swablu.geo.json"
-hash = "d049883ac2a64b3f2f57d8fd325187e72152a082c87046f7c3b22605b971184c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/swadloon/swadloon.geo.json"
-hash = "75a11498b07964861a62292281a844de7bfe3e6109eb310fa5fc65611aac9b32"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/swanna/swanna.geo.json"
@@ -10641,10 +9861,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/toedscool.geo.json"
 hash = "93d933562ccdf0689efc42bd411a75faf32f1479083fddd32a34c08a4ab3d08e"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/toedscruel.geo.json"
-hash = "708d0910a825fd2f35cfbb74bc9543c771e1760019946b3383d6771718a1bfea"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/togedemaru/togedemaru.geo.json"
 hash = "1cfb7f32394c075172c4423dba9630cf7498733521cdd68f9bad83b1ef52147d"
 
@@ -10655,10 +9871,6 @@ hash = "87ed71334736c24648611d512de9955937a9ede78db7fbac4d9681520ba50221"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/toxapex/toxapex.geo.json"
 hash = "8c4fd9f81b810d26dc400939c72e5cdf558712f6b2744d0bbd4d6e61a868f167"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/toxel/toxel.geo.json"
-hash = "45622c43630e73a75170db03c4d769a2e7ae10b90608e8604f5a37bbe9dbc52c"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/toxtricity/toxtricitya.geo.json"
@@ -10809,24 +10021,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/vullaby.geo.json"
 hash = "18eb4d41d99270499112bd7eefede1c9e7047bd56ad752fcf939ce18b6e389f8"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/wattrel/wattrel.geo.json"
-hash = "ea309bc3f189b03542ebb4a46b5f9ef6a8b2270822a3f7bf3fd4b62d0e05c231"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/wiglett.geo.json"
-hash = "fe1af1daff5b312233fe7ceff8871d9d439984292cb411c17a5b09d6e9411770"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/wugtrio.geo.json"
-hash = "097975e706e879ba68ffa239905aa948feee38ec183d0b99db1a67359fdaf306"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/xurkitree/xurkitree.geo.json"
 hash = "f0896567a56e827f2625cc93561a99b1060ce2fd30d7ca320a010b178118ba98"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/yamask/yamask_galarian.geo.json"
-hash = "ce9a0fa08439cf0e5b66d8e65b5a5786e7be1e308abc311279411fa9f2161552"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/zapdos2.geo.json"
@@ -10861,84 +10057,20 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/absol.json"
 hash = "4b4876a4dffee1e2ea54a7389045b87880b7fc70d72b61f717105c90333c8211"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/altaria.json"
-hash = "2c52f96eb239b8f4ccc51e4bbe8d99f60a69077d0610e4990ccea59191488ac9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/amoonguss.json"
-hash = "5cb3e974301e79ff941f9364aff334d5ffc984e5c63b34c4dfd21e2440a0b23d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/appletun.json"
-hash = "10549e509669f1e575b3ff02ee46d5dc56b6c3feda3a84feb92ca5c0eee9336b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/applin.json"
-hash = "49aa90d70b1c2aed4c2c415c9aae1e715910b855154a62a1769b8b121884721a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/araquanid.json"
-hash = "2a7ffae4145f0b4f3e66677ffe5a4b1b33cee082cb325597b6608f1e0d08f537"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/arcanine_hisuian.json"
 hash = "b366ab04070157c47dda7f94aafa70ae26622042f1f6eb6588a3b2e8768ae252"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/archaludon.json"
-hash = "f2e612df8c509c3eb10d2623650d9b261d9665c706f59437dae2e9957a4818a8"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/arctibax.json"
 hash = "e67106b6bb49c09e018e029b66657c48e26b6652ce4d6ad62ca9aa63539cb958"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/articuno2.json"
-hash = "b2d915a431812e8edd32be0e5137aabfcaddae753075fdcd91b9141338b38a5f"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/articuno_galar.json"
 hash = "285b3e9e13858dd0b64f97d68277d3909c64d33d522b445a6bb67793ae15c136"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/avalugg_hisuian.json"
-hash = "876bbb073b30ace29c604665ff3906f46620d7cce3dca1ae9ad29f6d8e081fa9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/axew.json"
-hash = "2c3b0c19e8d131addee8dfb35bbbbedbeac60f1c8ae26a4f76a3a30ed8914676"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/azumarill.json"
-hash = "48c1b5e85b52db0a3c67ca49e5152f3702991dcdaeb4ae5ae1758ddfc606087c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/azurill.json"
-hash = "58591836db2de3e6a4622250ffbb9b542381c15d2f09447a4c645049cb25861c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/banette.json"
-hash = "e7f3e0285eac658a62a2e32ef6d357abe94636568f1dfbaf77f4e6ab4e8c5e42"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/barbaracle.json"
-hash = "f483eca94d9a6b0fd874385f4e4b891d12b80db68464c51620af3349b9792043"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/baxcalibur.json"
 hash = "484a7e57c885f2e1fe0a4087402d9e8dbfad657d28cd5aaee1b0dbe1e64127d6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/bellibolt.json"
-hash = "8751a99b6ede204e7f41bc723a773cc49b1ee3b5611f66afe38933019b85466a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/binacle.json"
-hash = "a3ff153bded73a84ae7bb1f4da407dc0672e35b3a0bc21d13112e6c981e9d9c1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/bisharp.json"
-hash = "ecb66d653865d9efe8ab6e7b63971343698d076bf43470c88e14e0863195d610"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/blacephalon.json"
@@ -10953,10 +10085,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/brutebonnet.json"
 hash = "62668cb7bc82bb49a1119dde3daa9274534da9535f0d32d807621ea36017b837"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/capsakid.json"
-hash = "a7940e6524af39db90b5945cf9ffeea6801f845a93dbe8fb0b5120179ebc784b"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/celebi.json"
 hash = "fd3c7a45bf1ee96b671df7928374207b3021b9544057d1fdbb59858d60057093"
 
@@ -10969,48 +10097,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/chiyu.json"
 hash = "f24d295421a2bb30e43b6cd8e61d40b2b85bd6cc5756f7ee7e24451e07873c39"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/cinccino.json"
-hash = "00b51a2eff884999f8fad56ee05e57da798435640bbbecaada784f292e6e8b2e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/corsola.json"
-hash = "875ddb6a6877e61edc2fedd6f7e3ad18c5618a9e559dab0ca5324a1a29e4b825"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/corsola_galarian.json"
-hash = "0cd257900ec64255e9ba3312eea2bee782972e8f06eb46c40099d964439e109f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/cramorant.json"
-hash = "16b1c60d5f242d4e894cfef37c82a9ad958563008ea0c43d985f7d02827e0229"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/cresselia.json"
 hash = "3f3b349c0782a884b000f3bd8c1d3d808246c7c02a8e0c63312ce63b1b813129"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/croagunk.json"
-hash = "8b1ab2a4da4f7a89e2e401a3ca0963d91dc48c38473598ccd910882a8524efc8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/cursola.json"
-hash = "a00cf238bff088065257f45d72bae5d60b631cc35568f3364cf1620e80635978"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/cyclizar.json"
-hash = "06f88940c2b60b0796291c1cf975b3a3587fe0c60846aa6405bf841831a0a7c9"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/darkrai.json"
 hash = "94da464e4f1827eeece849a84ba01d7ddde39d72b9958bfed75f34cb50b3a9f2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/delcatty.json"
-hash = "b320e10ac876ba9988b97d366da2262ac5d8645d66515e3eaf261ee601bd8e64"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/delibird.json"
-hash = "a2bd70fdeaae8bc38921acc85bf51a4aa168df0dd98a517383b0dfeb990cd0f9"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/deoxys.json"
@@ -11029,104 +10121,28 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/deoxysspeed.json"
 hash = "818032a313ec3fb825c415cbc2e16f6cc556ce453a71e167c76811fb8181cf69"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/dewpider.json"
-hash = "6dc297f7e61a408359884f28246f699f2643fe654944fc4810c63803d213d17f"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/diancie.json"
 hash = "faa4db6218999c60435c622ac43712eed5e2921bb2abd7a0ef39d7c5d6ce56e8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/dipplin.json"
-hash = "d178675d2c16cf7bfab3607b09715b206494e4bfe8bf5ddfae680e6f76958208"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/dottler.json"
 hash = "a43ddb2ec7b437acfe1be0cb46357df4964007b4a77ba0bd106ae469d461bcbe"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/drapion.json"
-hash = "d97c59813cd4019e312eea3ad7192cc54d1886b852ae5064a7805f5bab19d463"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/drilbur.json"
-hash = "5df5ca5c69988675b1c87ce366a6cbfb9732ecd6e16e5b5cac7b13706fbdb912"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/druddigon.json"
-hash = "9eec2aa71fe50e76a50bfe2c71f0ee09332f326e8dd2655faf6aeef2637bd13e"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/ducklett.json"
 hash = "f5af8eb3186f64f21f766ec2eec4f46922392969cfcc4cb0730570402e653825"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/dudunsparce.json"
-hash = "8a866093b5b0865dc5668961957e366f60a5fff75df3f68bbf15fc841044c552"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/dudunsparce_three_segment.json"
 hash = "8309481c6d345ca19ea67872ceb9e3e51993c4827aae195252449eadc8e286df"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/dunsparce.json"
-hash = "ebf8d3ec17dd4a33c0277d1ae4ccfffc9cef1e57c8d87afa77d711307b0b019b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/duosion.json"
-hash = "a340bb0893c8d22c8c552a4a35e8cf5041394474ce0f021ec26d76a3b10f1393"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/duraludon.json"
-hash = "bb200b816a599db21460bdcb78ffe9a1d9876a649489a942f98a982204256251"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/eelektrik.json"
-hash = "210470210ba036116c428a8e02030e74bb45cddb0bd2007eb6b4bd15af93b231"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/eelektross.json"
-hash = "89baebcaf02f5c7f54e951e1ee5bb0dd3ca8a82eb03586d3633284cef9cb4bf3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/espurr.json"
-hash = "a51bba2732c84c6906b3395f27b1e82eed4f3b3f8798c15353771f1df2cd5db4"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/eternatus.json"
 hash = "348b04d0310a050c7cea6d8424cef58bf29bec0833d75858e8ba1aa47a19de00"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/excadrill.json"
-hash = "ade9ecf84d66653aedae00bd29705da1c7aa5fa4a2897c40e6c2ba0c81a8adf5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/feebas.json"
-hash = "bad61263e86cde6e3ac6bcf7bc30cb71f428315257ae7834e1f7982444138f43"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/finizen.json"
-hash = "2001c6be64f77345bf864c229ee9a2a5589481efec67ae8cd066cd45129d567c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/flapple.json"
-hash = "d6165709f322d438d7f0437e2f9b9bb629529500bab56518c270965abdccf53a"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/fluttermane.json"
 hash = "9207efbc37e17a419843bc5c5e55d6e244245f440f260bb3ba6ad80b04ff955e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/fomantis2.json"
-hash = "0967f60c703c81253acf2a77f201ce72c5fcab437464507f4ec1cd528ff89f32"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/foongus.json"
-hash = "1e98109c30a4dbe290600645fa123fb179bab254cff0a7345ed078829750902e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/fraxure.json"
-hash = "7e30a60ca97046631dc39605b6e298cbc1e5a7c175a95a8d2c208f01de6917dd"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/frigibax.json"
@@ -11135,10 +10151,6 @@ hash = "1f811290d2142044443effc037aca6b163191bf27217eb0b9660ffb7b0b9db7a"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/froslass.json"
 hash = "ea2fac7065c7e012f5dde9d31aad4f782e17f8f3e68bb6c1d793b7b483441e95"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/frosmoth.json"
-hash = "976ea6a255f88b22e16fd617c5e06ecf93ac96fdf0d37d896764d883668fe717"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/gastrodon.json"
@@ -11153,40 +10165,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/glalie.json"
 hash = "eaba493c741e99bfd6253cd159e3aebd0ab58683cb1d88c5b43c0e0e91e1dcb0"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/glameow.json"
-hash = "b34251a4e654f1d71f33ae477560eb09aa4fdf7354df23a05b8f59bdc56945d5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/gogoat.json"
-hash = "73c9068ce8b2f085ea24144e22a7a4bf6b37858205cb1c7aed532dfc3fd0606d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/golem_alolan.json"
-hash = "095ae0c19b394f9520946372a154ff56138b474f78de2242379ffaf7de74b9f2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/gothita.json"
-hash = "2014c814f284d7b765a75a2356d97f9a27fe7557ad322e87c02675e8e1bef9fa"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/gothitelle.json"
-hash = "0bf838f2be799d78c4853daf5e67ff8a4b02a29628214cd3f91965daa6a88518"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/gothorita.json"
-hash = "f9b3e210d347a24536f3e0391fcf5ba0ee936e6479b41a63631ab8452e473c79"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/greattusk.json"
 hash = "391d1808748ba55d22394600b54afa7c16425024c4657c0d5747b8ce9b4edb35"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/greavard.json"
 hash = "bc1f80e23884bc97a66b05dfb9aa42fa81217b78867bba55fd3d662840c8d577"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/grimer_alolan.json"
-hash = "0132a3e52ecac14103726e836ffbb6e3e733e583a0677aa5c8a4f792a8e143fc"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/groudon.json"
@@ -11205,24 +10189,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/guzzlord.json"
 hash = "7f7a51852cfe18c36c2b8db70332ed331fa49f39b062f56e5627708d8e3b684c"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/hawlucha.json"
-hash = "16496698ae2e78184d95ee7a84d39ed420251ea4019f78edf87866d8892ed2e7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/haxorus.json"
-hash = "74ffffe1607214d274252be3d2b4732b675494b790aadb7c878f6a0f3b28d69f"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/hoopa.json"
 hash = "9d9a0f22053148bcc2cbda4b64f68a5bf569dfa3e0d3b0be4d608a5350ca07c9"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/hoopa_unbound.json"
 hash = "639e6b50c6d980db34370db90737023d29a57e61060af6c0bf6091599da90552"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/hoppip.json"
-hash = "600f12b6d9337336b0f14b83d8bd6befc68e6da311df848012f71506a48ed9c2"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/houndoom.json"
@@ -11235,14 +10207,6 @@ hash = "a07e903759375bfba23780766a5937f9458400d2f26da111647b9334970b3311"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/houndstone.json"
 hash = "e738894e6146253daf791dc3052963d07f58971e19815318eece788c32ef93dc"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/hydrapple.json"
-hash = "7ce42f1b27ada3530562f361eb5ead0f123a455c8b24df5c49806897d5da64b4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/indeedee_f.json"
-hash = "ec337a4d18468b6fa48a23092ac7cb1d9c2238578d2d91c0aba9548bd9afdede"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/indeedee_m.json"
@@ -11265,20 +10229,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/ironvaliant.json"
 hash = "3b54c7b6c4b9ebb41bc6493b11974ce3667cf22b8f1550fa2da58470dd51a735"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/jumpluff.json"
-hash = "05533e5b8f2294d4420267739f28b3cac5f92ddcf5100f2da07f7345dd432c33"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/kartana.json"
 hash = "81ba6a148901baf9b571c0e4223d97d15ba29e7c4d026eae27d6010ceadb1eac"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/kilowattrel.json"
-hash = "d9f46e997d7a62bbf7095a641e9eebf219c53004621c4cdfc3334d14e2dde8d2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/kingambit.json"
-hash = "5877d3266abf55e90db72e68449029375e429c14caf91e5e12fe46724fea09b8"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/kubfu.json"
@@ -11309,46 +10261,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/landorus.json"
 hash = "29bb3cdb0ea6339a4f1a8e9889ef9d6f03150b371b3f85a1d19fdb087e013d34"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/latias.json"
-hash = "7f0a8d73464513e096391026e9638e350bb7fd769dab674793a2c56d07a889f4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/latios.json"
-hash = "8a35e165e10d3e49608be944964e56734886d596b369c45825fc8201210ad71a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/leavanny.json"
-hash = "ae41ce4824d60a333832af283ad6a5674114c8e34e1960485fb7b767d765d74e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/ledian.json"
-hash = "8a249169f400fb50b346622c018345f09f48297f5144c62f115d21647f548478"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/ledyba.json"
-hash = "93f00e27fe1f03588d75f5bfd7050965097661365c87f30ff6b6937bb1991660"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/liepard.json"
-hash = "b39467bf7279013c04b3220d14673c8992bd6b0e3634e9105870e66682920510"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/litleo.json"
-hash = "4da6c013190944fe9987da48281b549f7f61074fedcb9c7953cc267bed1f65a5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/lokix.json"
-hash = "488e27c444b3effe54669b70239616bbb9f1e5537f893f81e680a512d4d06c26"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/lurantis2.json"
-hash = "b0f30c8bc9e867b04cd99884df0b646c4fbb4d5e88514ee93cec224453369691"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/lycanroc.json"
-hash = "25e503260ca5a5998b2615ed7fa10de64baad56f2cdd70fd66b2cb480dadbca5"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/lycanroc_dusk.json"
 hash = "b8af4385114b4f7b23f4273d4a6f2f8f31da4f3c4cf82be632fe325ab697a819"
 
@@ -11369,24 +10281,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/mareanie.json"
 hash = "2d16350054afbe7a1360840746a7230c8219550e188049f58f599487a6928772"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/marill.json"
-hash = "fd815e69e2993388701aaf5bb25e23db8a9adbc84f90a51f56c49330e1f094ac"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/marowak_alolan.json"
-hash = "2f5b89e41718d612daef8d96d9907cd8ae42fd756e253d6c397991516007b84a"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/marshadow.json"
 hash = "e1b9a142cffed05a44e1d2d0e5edc27ddb359780e2e430d6197f7051b6ba0be9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/medicham.json"
-hash = "4b293c03db79e9306a7e524a0c5e12e8cca0a79c87465068a14920e15a39be44"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/meditite.json"
-hash = "5fea7c084129c0267286f435cb4bf2068e63ea266c2708347a398ef5244ece10"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/megarayquaza.json"
@@ -11401,60 +10297,16 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/meltan.json"
 hash = "bb5135c7a1d54c48e03fe5448fb3054907581739a99dd211d6efdf1dee53640a"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/meowstic_f.json"
-hash = "3748e475806ac732b09b645993c33ec02e243dd13c10a12d73dcd39df74a8082"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/meowstic_m.json"
 hash = "38d1639d297b6ff80fdee323576165420c471815ed1fd3c793899c0eac73f2d1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/mewtwo2.json"
-hash = "efc238a63385afb4a08fda1f5314ba46ce23120a4b2531236c9a3c5e9f86313b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/milotic.json"
-hash = "fc64363664a96b2e87043e8277fd9f863551a3bdf534ea1e9dacdff86cb3a8cf"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/minccino.json"
-hash = "cf44f67650ed25e76e7f834c30403a200b054d2f683b7aa6bf5afa07b288a76a"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/minior.json"
 hash = "5a28d3a7815bb4f31914f7310920861cc80c2f6396fdd0d8437ff3b0425c4499"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/moltres2.json"
-hash = "c14115f476140683707b68b01e217fa7f70eacdacf56f1927c0179474765d6b5"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/moltres_galar.json"
 hash = "ade0129d1b1bc849eabd8f2280771cc22341c8cbf3a07e667ade8c7e78b0cfb4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/morpeko.json"
-hash = "838845ab8ae6c44741a1fb5e47e7d7e81aae5adbaa37d9776f6b7f3ad4d76448"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/mrrime.json"
-hash = "80beaa7a806a8fde7c013025f77d487b81422452839b01ac92e35c7a8ade8c12"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/muk_alolan.json"
-hash = "9a9db48af6359ca9ef76875de79265016f7e61d780e73958971ccdf32da30cf5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/munna.json"
-hash = "2a93a02ba2ec1daaf6515e626c694cd15351bdef3699966c446ad947d683d95f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/musharna.json"
-hash = "eaefe96e8fcf6019cb6fdc5ead232e8a724a154448b19004a8faf66a2367bddd"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/naganadel.json"
-hash = "49e1ebba2b2743da02817632bdfc24612a2d7876394787362bb1f593ca570725"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/necrozma.json"
@@ -11463,18 +10315,6 @@ hash = "c987ce2f3685c7c203d31a07b6b3e8400a964913da68be4420034434cc269b7c"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/nihilego.json"
 hash = "8d3d69e818e58b44a92e4ee0868d869754b4cfff9e16a34671deb9f8ba21b319"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/noibat.json"
-hash = "5327a57cbd0737d55d2345677cd014f72c9cb3fe8c8a9dec7706628114ca91b6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/noivern.json"
-hash = "4bd70684a78f5075da24e1c9c64aa747ea30a5bb04186e579a7cd174de398ac2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/nymble.json"
-hash = "039e5b5370c5d3fd0b41f477be7d9c6e0dc478e031b49b1db80ce15ab25c5692"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/ogerpon/ogerpon.json"
@@ -11501,14 +10341,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/orbeetle.json"
 hash = "afcad89a70b6913c00b9e2d6fc48d0cbfc28ac78f4bce575740163739d10f444"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/orthworm.json"
-hash = "cfa4299da3710c904d2122a6a02a03893178a17cf0f956645cdab08634ef94a1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/palafin.json"
-hash = "a91ebfa4c8cd458e36ccf234398f08b89549be3f2b2c8b3b3eefcbe2ac0c2137"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/palossand.json"
 hash = "48277270701e35b7b82f008ea5f80d8581a17b0d843414781c74c695edaa4e47"
 
@@ -11525,10 +10357,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/pawmot.json"
 hash = "f2da35999fed77f7c84a4abec4c338dcf94790fdd539afcb6dd5f5cd5246ff49"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/pawniard.json"
-hash = "e92bf0548b56c5dae0ecb244de73736dccb460b38a963a459c6923d879130328"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/pecharunt.json"
 hash = "c34768d6cd008ddafbe74323031136703b4cd749cb0019bc06f149824914a778"
 
@@ -11537,28 +10365,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/phione.json"
 hash = "d0ed1a0c1098ab69518c187e9662ae1e22f7bb9395e254b1e8ecbdd293d2421e"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/poipole.json"
-hash = "ec814e7296da0110b3eeeb653c5f54dc51c6a9e5af449e1a7902551d376a44f6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/poltchageist.json"
-hash = "199c2161c4487f4397ec862798c9531535698c0b0fc2542f138136ddfbbf2ee1"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/polteageist.json"
 hash = "c9b8051c3b0c2f955b2947c21950ec237e10b6d2e28315d159d0eb472817f72d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/purrloin.json"
-hash = "1f9d07716995be10b2eeece29da00b28f191ff7fb81a020c2574be47fbf6423a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/purugly.json"
-hash = "3b9d9d8440d65c49385b222a86832d03ac5ba55350d56fb0558a86a31b659179"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/pyroar_f.json"
-hash = "a8d3bcc8ded581054976dac72ee4d7d553fe106d93682b00867a62d92a9de781"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/pyroar_m.json"
@@ -11577,36 +10385,16 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/reshiram.json"
 hash = "40dd1d667627be20ebbad81302f1cf380518be15bde941395c0a53f0213fbe9c"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/reuniclus.json"
-hash = "c0b5695a31ef7aee69dd3348b56feb5b2832decb066f0a7eab8dea741ece7d75"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/roaringmoon.json"
 hash = "3dd30115d62a86dd337b138109ab13c7ca4b38d18d379412375a89bc1d8c5c2e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/rockruff.json"
-hash = "0b4a84f2de349fc9fcb4f805d48a468e256b00bbd4f167bf71544fea4175f377"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/runerigus.json"
-hash = "7a9d902e19a299018c49a2c9a529b1cbfac24358adb34918c62898699af2f7a7"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/sandygast.json"
 hash = "ca1bd565fd887f947ef8cd9b01bff25e6c5120a5e6253bfe696ff0df7d001011"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/scovillain.json"
-hash = "2524ec0b50d809f9c1670cf382e7606b1173c3cc189eb1be0f10cbb0197fbf7c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/screamtail.json"
 hash = "5de90e44fd374d174f28cd2b7f073356b212dbd8ceb1f02f48e37e34bf6c7482"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/sewaddle.json"
-hash = "e873671344edf50f72570e70daed8aed9a54eb099c6f1dbea131a174be53d2c1"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/shaymin.json"
@@ -11621,72 +10409,20 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/shellos.json"
 hash = "5ab29fc48d711212ca16f1a777793f0f0bb893089007628f025f46449ce77d25"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/shuppet.json"
-hash = "35642bd6d13d3f4e04245c4ddc8442c152b72062af14b530c8dc609110074b29"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/sinistcha.json"
-hash = "ab313de438df8a8ee081d4bde1ee63b6ac8cce3377187efe031ab6b68ddc2511"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/sinistea.json"
 hash = "4ad46fc640f2c4117b5ed96f72683241b8fa21352aefbb9329acac7dced65543"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/skiddo.json"
-hash = "e4d6e1c7c7c7081a6b2703303a4a133789c17f296c1cc90a4eb079527495ada5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/skiploom.json"
-hash = "f95632579adbaee8f90c2e18ac6194a6bc9d1f39b6c161ebf98cbebea193bc1f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/skitty.json"
-hash = "c3489b104ec8e6344c9f41afc16f4d7b4a2c5380e45823fd799a3e7a4a88a989"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/skorupi.json"
-hash = "b65dc7e405532e552716b9829632653b73e62fc48f2e99c5460f81920d7c4df4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/skuntank.json"
-hash = "b1f0f170a8287ac9cff9709e7728fefa6575d344d682c49af5292f87cbc3eb87"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/slitherwing.json"
 hash = "31b82a5c0de8e778b876d5aeb15d633d6cec7d9c799af2771a6ef8aa0f5b8a2f"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/snom.json"
-hash = "2515eca73c88afc9be40ba3af9129ce034f3289351e48002b61ae814b3c64bd9"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/snorunt.json"
 hash = "81a8d9a761f85aa3b36a14fb5bcb7251d98db22df7215eb8a08a6202976e63a7"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/solosis.json"
-hash = "2ca410f41f82eb7b8a27431b426f4ff8fa6790fd7d1a7e2874e5ef907a1c9a28"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/stunky.json"
-hash = "7241a631929a120f4cbcba7253ba199431fc81ace27a50e6d17208954ced2d63"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/swablu.json"
-hash = "b7db55dda4953a3941c46f410109286c70f76aebab7ff053d514c21d2881e012"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/swadloon.json"
-hash = "d9ff3668e591df1174499d86fe7f60322e62f1992bf845d4476136efa696b545"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/swanna.json"
 hash = "9bd15eb43ad235edeeb2316b1b066cba9bc5a8e6a3ff9b2eac588dec36374949"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/tadbulb.json"
-hash = "a71938854b5b54f8d713b225b0adadb2bbdb096b1e523229459960f420bdf8e9"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/tauros_aqua.json"
@@ -11705,18 +10441,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/thundurus.json"
 hash = "f0150742f698852588e1989b0082e209f79b2279ee8360f5428c9e328b18e311"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/toedscool.json"
-hash = "ce0044c7bc94e39204677ad12d24e3a9c090f2691d6a61eb2ae2aa55e4fddf37"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/toedscruel.json"
-hash = "46139091a26ff6113d77814f1ffc981dedec839657202623e2c1407ecc99288c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/togedemaru.json"
-hash = "c4377e287fdd62278992f5d67f223a24c5adb537b59bef91b478aac456137d57"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/tornadus.json"
 hash = "663661ff470e68f8f886b9a81385ee29f8de32a17e9c30128a2e381e398fc882"
 
@@ -11725,24 +10449,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/toxapex.json"
 hash = "59fe09a8344d2880df68db88b5d48575b143228bf726ffc603770e9399cd76b3"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/toxel.json"
-hash = "7406a73e0bc06291c8c741bfff40baf73a0733ac6cf685593c68b5c4b6175687"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/toxtricitya.json"
-hash = "c7d760cfc682e7282fa85020dd6d557dfe80617fe4136f83af1feb4527841905"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/toxtricityb.json"
 hash = "9f18fdfd073a6e842125e5e8e65f83426eac830a361bfb8d996603fa712df9e5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/tynamo.json"
-hash = "549f3ff90c6f0653a7fb074edbb7b4c29ad2d15c1e86945c949ea993a1fea275"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/unown.json"
-hash = "d5563cc3abb4685d2dcf839cb21897fd4f5d4cc966c6cfa8d0c694e6b1eb65a2"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/ursaluna_bloodmoon.json"
@@ -11757,10 +10465,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/urshifurs.json"
 hash = "f07547153aebf07470d2c6960740bca18396e0b669d5defc57c575ff13a18113"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/veluza.json"
-hash = "4dea8b88b0ef2cc64966c3f3051978d2a86601779ac0f21b0747832738c7cc55"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/volcanion.json"
 hash = "e906891d22919b0d9374bdedc4e86d2510ff6026fa365fe52618532d3db6506b"
 
@@ -11769,28 +10473,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/vullaby.json"
 hash = "c13fec722cbb720f4033d4f120be02a3b8f8a933b4c99778c9ae0af5c92d44ef"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/wattrel.json"
-hash = "32b5e25b4aaf4f6ea0e33c4a92256fea7f14856504a0f54a23dda75e041735e6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/wiglett.json"
-hash = "d32a51161cdd84142669ed6459e09b0e0495bf4dc33fca26c4277146388628c8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/wugtrio.json"
-hash = "e1cbf6e55911545e80bfa22b9748ba8bc74e05535ae690485b1fcbe845463ed1"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/xurkitree.json"
 hash = "ee2fc3b1c87e36e23c26b0cdb9dbdde8ce5f656e1b7d3dc2f10f752750516a49"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/yamask_galarian.json"
-hash = "e815d05b889d24f237549807c09e69341f3e006bb14e2838184f1aa5eed0a55d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/zapdos2.json"
-hash = "f8e0776cd46babef8b6a0500fe14f91ee6a26636c1a2be6e19fa9c0cc3981263"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/zapdos_galar.json"
@@ -11861,14 +10545,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0826_orbeetle/0_orbeet
 hash = "999e07067aafe2ed52655e0f7e2c4816504ae4bba4bc1530dccff7459eec6294"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0848_toxel/1_toxel_base.json"
-hash = "f52b8ee5d355266f1c6aada83c612d2a331ee95bdd01e0baaa9067bf4a5bf87d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0849_toxtricity/1_toxtricity_base.json"
-hash = "90f34f31efcdf503d010dde4ccd46b1671e4a79db71bf3c0aa8939d6c6a5dfb5"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0849_toxtricity/2_toxtricity_base.json"
 hash = "994a960915c1fd1a82c395633405fafafa99c1bebc3b5c3e403ac0b58b79340f"
 
@@ -11897,64 +10573,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0994_ironmoth/0_ironmo
 hash = "aa3a88420572309ff2f29c7bd3933a9c4016c149407059bf80cbbdedc380e654"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_altaria_base.json"
-hash = "b0b8688efa1475ad916fab7aa716aae3cbbd765c31e1acdeb23955414a29f4d4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_amoonguss_base.json"
-hash = "da8ee8f515a97e52d230811a43f84ff58920c0c3c040ac9586bf20a5e9766acc"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_appletun_base.json"
-hash = "96e6bba765474bd39e1029c6069f8646afd1dfc43cec3300e4ea09a4792385c1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_applin_base.json"
-hash = "f786f225777b9f98089b5e6b74dda837a3fd005ed613e108b883c3f7d6cb3f77"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_araquanid_base.json"
-hash = "696a3c57fe40fcad0ed4ccbfa193052c818d3f2d18bc605de7f7c7622ed16416"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_archaludon_base.json"
-hash = "fceb91816b084021a7723404003f96a794927a130f1b2ddec783519891e49141"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_arctibax_base.json"
 hash = "a691af7d5c623d6a09f0b58a677927877d930a331edb57baa2d84289eb46f290"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_articuno_base.json"
-hash = "b4ad3548186975c708d333b7a0e79db95e9e4fc1e770b7ae2f59d0cdf4971c58"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_axew_base.json"
-hash = "9f20aca2981f4535b84ed33d65fc3253202be00e667a6f0b2f5e2f0aab27bfa7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_azumarill_base.json"
-hash = "b910bbd6986a965cb1d71bfdda64e029598af8949c767517fac3a6c703d891ec"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_azurill_base.json"
-hash = "56bee53793abb2132126d32cd4607acdb2bfe9da83ff817d4197666f9c9a9400"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_banette_base.json"
-hash = "1a28e0954a3008141abbf27b80c4ecf5da030fd7c76cb8ad50e8a414e0ed256f"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_baxcalibur_base.json"
 hash = "9bb310e6281ee2c4135c79f1fbe9a15a9f17a9b49c116a5ce41b76e88a076c5c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_bellibolt_base.json"
-hash = "fa41eb82c1eb29b58c9d7099175d2cdc951a8c06f35e0bfe9a76bc8c1d2bee48"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_bisharp_base.json"
-hash = "b118c6ba8cdcd952aec68240e144f111bb03d69af6a8dec2db927b2356859971"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_blacephalon_base.json"
@@ -11963,10 +10587,6 @@ hash = "9792f40c32b2c3e05500a15c3217f4fb74e4774a485382514cf5c2e174da51fd"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_brutebonnet_base.json"
 hash = "a3099dd1f6e3493e1f496b14bd566a36b7d342395ce8a309308f7e36dbcb7751"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_capsakid_base.json"
-hash = "2f231b3fff73944207f396b75a3f1a77e62aedffc6adce55296b91c32f803ef9"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_celebi_base.json"
@@ -11981,148 +10601,32 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_chiyu_base.json"
 hash = "a227973b97ddcab47bd4dcd19bf70174672833e9ab4562226f412f15eee52a91"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_cinccino_base.json"
-hash = "63bb51ade050a834b2125170b01a7f694489e0c0f909a27f0596c0d0cc7989bd"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_corsola_base.json"
-hash = "916c0eb56a6b34e1cc1f030c4f843315b5ce4cf71dae03df9baa2d2d0b6b06f8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_cramorant_base.json"
-hash = "b39966ff71acb5e8838cbc4fad96f8e70400c448ed8f43734df42aa41ae2ecb3"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_cresselia_base.json"
 hash = "cf479e0fee87c4c4344c56d27bc52e1a2743ff2298d97ccd284ddd1043da46a6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_croagunk_base.json"
-hash = "8b4135aeaf81d0eb50013bc48d1691d1495c720f8edf21bbcc04bc17e4670c33"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_cursola_base.json"
-hash = "9b55773b4b58234c7f7f5cb4e54ae7f59797bc0db3fbad5fcf7fa501147c7bdd"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_cyclizar_base.json"
-hash = "fa66e5fb515973888a94c9642c3992cebdb6a3e7aec33e348eebb48e0850329b"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_darkrai_base.json"
 hash = "5e11717254b8d3964cb837d16eaadd9dc640744c833d8c9a711c75384ff71bc5"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_delcatty_base.json"
-hash = "3ec32b747706b5858b0438cfa5cadc130ae809d04538d6856aaba0316d12185b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_delibird_base.json"
-hash = "8d5e3b7e3d302a4dec2483d784d47595c6c0ce34af17ae1de4c21ca85ce4a9e0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_dewpider_base.json"
-hash = "6994233c8bf1d5956acb7bece40916d1f6815e12b6c294df03d9029d1783102e"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_diancie_base.json"
 hash = "cf26f0813c81887b6b0a869d7645b6a8c5bab727603d895a42837ff6d3451aec"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_dipplin_base.json"
-hash = "ee49cce73e1a0aa5897869b65c96b70e4f4f38226058bc6cf2850814420742a0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_drilbur_base.json"
-hash = "d23d958d0eed07813fffcbdedd2f4d27241365cb4ed707fc81ba0a4d1c2db855"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_duosion_base.json"
-hash = "f30a436170f1720aa1a654c0c845da3caf4938a4fc963ba17ce3ad02c1e5d6a8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_duraludon_base.json"
-hash = "cb4844db260feddd1340b94bd2d5895bd7430d25a680b787612571023dfa0266"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_eelektrik_base.json"
-hash = "f23924792325011d2d3256526260beda4a34bcfab86b891d7dc715b279256d53"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_eelektross_base.json"
-hash = "5802907afc5f9e8f3872c6d2caa2bd8f2535500bf4ff2bc608df16c27a9201bf"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_espurr.json"
-hash = "fee8e8b5c042b8d82240c4616fb0fed6569101e6d1998f04d23e8877b6222292"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_eternatus_base.json"
 hash = "8fb03dbc55a8585097b21f1420a97eaa3eee6c3bbde00a1152e6b8dde2b2eca8"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_excadrill_base.json"
-hash = "3f7fe8b220c6f895faeeef152691edc332603685b32e49b20e3d6a195fa47598"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_feebas_base.json"
-hash = "6a2cafd787d90a6a08b3fb1de2e1139ee177162eff456c12927fb495cb0221f0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_finizen_base.json"
-hash = "abf196a00f3687f3d763ec56c499ad51a29b5ca3e242e3d165feef3f53f6912a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_flapple_base.json"
-hash = "6c7e87ef6a603e2f04ce9a829b17aa3f38478be0ab9a7c25b31957800beb6426"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_fluttermane_base.json"
 hash = "5d452924f5f22a7137657341d3d32141032fdfc5e0152991a59fc0fcb124e39a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_foongus_base.json"
-hash = "ac5ded836e349235c77c6d974eef10570c65b45c3931c53e91818ca8694cca95"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_fraxure_base.json"
-hash = "2282651e5a8cfc11333b200784c738d7343e0178defa54aef11f0854efbc5d19"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_frigibax_base.json"
 hash = "9fa661a1123bfc2be1c6db04a08ec2e68c730d9bcb301fb0db115381661e4711"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_frosmoth_base.json"
-hash = "8a0e2152fd81cae0703f33844fa948dd5e9a48a5b943a5320c25cc45a79e4b0b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_gastrodon_base.json"
-hash = "946a0b79f6e5e68f5842a0d810d5c3da3709a12c9d64345b8ed636d3eab00a37"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_genesect_base.json"
 hash = "b812917b6c1abccd170c3bbc2a5922d617370458db2763b5bf198b4cbe04728d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_glameow_base.json"
-hash = "0cf75ab082c39fea4b6056ce210bae2e4a90413a92617c66fcaa821cb1aaac36"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_gogoat_base.json"
-hash = "22ea2e0c5ffe8d958ff5c966a4b63a2d3dec601b0153626379138999c3354bc7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_gothita_base.json"
-hash = "a2dbe97416b8c2a501cbdd9ef3502ba3275706a6325ab4bb220e2424c46ecb9e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_gothitelle_base.json"
-hash = "318114579ec9e4db578e4bbd91cc2fc07ab0444042dfe8697c836614a6743f1a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_gothorita_base.json"
-hash = "8e3b52e8ef3070cc5423224b2aec10e4d897254b90a45dc644d1c98cbab8d695"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_greattusk_base.json"
@@ -12131,22 +10635,6 @@ hash = "fa34e7131dbf1d2967791ac9ee6b72c1a0ff48020bdcfaa8178858a07766117d"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_guzzlord_base.json"
 hash = "0bb3623fc9203a0630deda5b9c63b40f3bfd78acd44ab6e3f7ee5181f246fafc"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_hawlucha_base.json"
-hash = "a246a2a69b921e84a009b8dc9aa166c48c35f4299a9cccc05734ef1eec07d44b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_haxorus_base.json"
-hash = "2e285b072af4aac79bd7b905f31dd9ef0504d4278d9900bedabc9fa6b600058c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_hoppip_base.json"
-hash = "5c88d25ec00a7849ecc8167bbb7cb1eedd1855d63022dca2d6f29d90eda9eaa6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_hydrapple_base.json"
-hash = "35ca515c2a8eae47f5beb92a1a904a3fa586de3b8e92cea0f282f97b1352553f"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_indeedee_base.json"
@@ -12165,20 +10653,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_ironvaliant_base.jso
 hash = "f4f87aac251e5c58050d3b08635c626c946681625c363f3b25a61860cbcd6bd3"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_jumpluff_base.json"
-hash = "a059f30b23dc560755d13ade71fe750db4ee10af70cd5fbca95b7e0b677c9200"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_kartana_base.json"
 hash = "5cd44720e8cc3ca5396c4a09377ca0a0afbfe215c6c2c62cbb73cfc853e6340d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_kilowattrel_base.json"
-hash = "e8531745c60e35560c30fa02d3fd625ca7d14b03b13bd6befd1ad8dfc42ee2fa"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_kingambit_base.json"
-hash = "307a5f7317cc1d2ddf51886664387b77e4c521861a5f41f5b04ca50f5197bdc1"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_kubfu_base.json"
@@ -12193,52 +10669,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_landorus_base.json"
 hash = "9620b171b06c2b64f7580ffa5304aba497769f2d19f1bf115140a462d8febca3"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_latias_base.json"
-hash = "f77de2f91251127699d116d0b950922e9e29813e10a9a46d76c7d5a6dbd14931"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_latios_base.json"
-hash = "00f1df1a38059b689d3efaba00973cc7d8f6a905d17bd2fb20e04389df7612e6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_leavanny_base.json"
-hash = "51e8045e95b8f01f45e5e39b9393841134581eac7567e1ead3cc3b07425d229c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_ledian_base.json"
-hash = "d6139780fe0e9a59402515ae2e4ddff71fa8173b63bafd8577d1735fd9ef0e69"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_ledyba_base.json"
-hash = "86c31e6e5ad3e3d2c53f80dfdd95404c055a490b2164ea03829d0a7d82cfacfe"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_liepard_base.json"
-hash = "f1ffd9e7b36be25a48697a390c220b874d020fa4142fb6e03943c5dc7537919d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_litleo_base.json"
-hash = "973a24cf0856f7e906c70b1b16893a0c0a731d725b19db509a7ac6b22db8d3b2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_lokix_base.json"
-hash = "f96ed776776eb7edbef9622d537a57d6c12118fae7c26fbfbaea3a4818968ca6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_lycanroc_base.json"
-hash = "193a23fcf8b677b890dec9fbaa740ba59bad90b5aa1bfe120f1b98e0179723fb"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_manaphy_base.json"
 hash = "17a3cc4a2ef0b6b0690af20e842dfa37a41b891ad9ecbcc5727ffbe7acf26d13"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_mandibuzz_base.json"
 hash = "b8abed57dfbaac6e4ed40e23e1ae9ce9085084d219d74adbc5a63b7a588fbe8c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_marill_base.json"
-hash = "e9e4fec35ac1c71540750a38e07281bc5049e00de64e83cc35853c171174c38f"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_marshadow_base.json"
@@ -12257,44 +10693,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_meowstic_base.json"
 hash = "5fad6830a779b9e85a3ec5ff99b19d64dccffbb8f606c843278836ea18f8a69f"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_meowstic_female.json"
-hash = "de93cd99059b1dd12a007d3676748ab8d46c21393be33a0d5debd017afb90f99"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_mewtwo_base.json"
-hash = "ac9951170895bf940f9f6e80f3565cc14cf30a84d7f3c88da21f9c0a34715f1b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_milotic_base.json"
-hash = "638d6524710c9a88249b43d6054f0be819fdff26b6cb686fcaf5ffd50ceca6fd"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_minccino_base.json"
-hash = "8170f3b9dcd7b8b9b04458234ad150f9a638560db78654903d7335d3bcddd05c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_minior_base.json"
 hash = "3820750fe95cea08a511ac4ebbf10f3acdec1e648cf516a02853f17b65dc4138"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_moltres_base.json"
-hash = "582c3fba13a29ac8feb664c6aa680f70fa8eb4615708177c2190060f952db14a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_morpeko_base.json"
-hash = "48184bcff523d4487cbc2aaa520c6afd18e78c16dfb0b6de27598c4dce907b91"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_mrrime_base.json"
-hash = "8d6ab841269ab643c93409d16206e66c4ce80a002a7cb1f73ef219d070bd6650"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_munna_base.json"
-hash = "4e02625b5ec6f9a45ebf53a6f59a644ffee4b2f5e70e793e7d66c360e891e199"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_musharna_base.json"
-hash = "fef16bddd595fe3b6963d9b89c913ad914137143020d3ba372e8a0c971c5cee8"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_necrozma_base.json"
@@ -12303,30 +10703,6 @@ hash = "582ec8fadf69e65375e1d1ae5b6efc21dae8cefc25eb770ddcabb6f49c28a720"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_nihilego_base.json"
 hash = "f261ae83a97a7cf6f45fade662136b9f7164070699e87b79d2ca7a6f1079fe89"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_noibat_base.json"
-hash = "1b59a3892012b4b1b507b6c2dd0aed8ed3a91dbe38fe3ae44d35db401d58d6f9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_noivern_base.json"
-hash = "919762a1d84412396680711f28c2336c097c46480f9109b122fdc55ac504b71b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_nymble_base.json"
-hash = "5e0d3829016a4b7887b0c2bb17ddb90e99faa6e13c04c83ea7e830d627e820b9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_orthworm_base.json"
-hash = "fa72d941eee575d8691d54b660d0985033c87425d00d0d70f50533ff9fd330e8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_palafin_base.json"
-hash = "4c54d7326bbea7233194256d55f38ee20f54224d2f77c27bc41e31262ddcdee5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_palossand_base.json"
-hash = "a9552285bf2a8958ef97fcbbeefb8c538e3ea03881b4293b167826b661401aa9"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_pawmi_base.json"
@@ -12341,10 +10717,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_pawmot_base.json"
 hash = "3c21f57fd7d12cedf18f5277a59f54123c6c8f15dc1bfe8af0d9714c491ec2e5"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_pawniard_base.json"
-hash = "6abd9238f2cacbf7bc7b50a418001a4861ba318a69f458a37f1e506ec4fb9a48"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_pecharunt_base.json"
 hash = "1ded20f9069b59da4d2b2783be175c7b4e67ff0ac481b98c903e82d7c5c1fff9"
 
@@ -12353,28 +10725,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_phione_base.json"
 hash = "2fc01ac474d1f097768bbcc7a61aa0788b67695a976baeb981a09fb21cd8d9a6"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_poltchageist_base.json"
-hash = "c05a49d9b91086618d1a54c1e3c351ded6c7fe1bd999ad3e37d723dee0a6f108"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_polteageist_base.json"
 hash = "5e83eefd4f3dd7e2a6670fe065f8cd4b3e16f1c52772e5727837e78f7f65a950"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_purrloin_base.json"
-hash = "12cbc4a85a2ae559c5b7662d0e3b7bf14d06e1ae5404a5c465e714bf276ad5ea"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_purugly_base.json"
-hash = "cf21bf2adfb23322285bd9b4d57a97a79e6114a5f687bbe8ac56c0b02c74b61b"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_pyroar_base.json"
 hash = "02da14653fae6391620e251cd30b4bf98060489909fe64263e8d0189ad98f31b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_pyroar_female.json"
-hash = "dec55c4990f28024345bb6ccf42faac1525082f9e12a6f10c934aa95662d0798"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_ragingbolt_base.json"
@@ -12385,36 +10741,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_reshiram_base.json"
 hash = "209396402a41dab9720805fa78d1b3918dc11791adccc015d2b8710593496000"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_reuniclus_base.json"
-hash = "d0c5fc77457fd22fc9333dbe6c8927c3afeb3ed6858cb852a77ba326aa1533ed"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_roaringmoon_base.json"
 hash = "912d1fbf0769a15927ed4bf0f84a79c4ec5245f9480237a3a2481e198d9a2b63"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_rockruff_base.json"
-hash = "639f0e0bb4fb9a560ebde7eda2ce5c9d2102b57e1f51803d048795ea9b834779"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_runerigus_base.json"
-hash = "a42f8f87936455dd92c0a781dd49096d6907e4c7b04746ab4efdf01f30542036"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_sandygast_base.json"
-hash = "a5375afb118622988a3a81d94cb95aacf941996744afa4f1fc80161deeae7601"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_scovillain_base.json"
-hash = "235508b14db776b872759a821ef41241a2c5f70b614b3529370451bf2754a85c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_screamtail_base.json"
 hash = "2740d5b4ad4e6ef5b6115470f044f5f3c64dd641b907084f634409e5c8063bc7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_sewaddle_base.json"
-hash = "7b0f0f9d32bad9ff786a84b9e251aabf4cb65947d09fc87a7b8124361a0cbaa6"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_shaymin_base.json"
@@ -12425,124 +10757,28 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_shayminsky_base.json
 hash = "91334700e13369d03f6190830a14591608b6bcccae9f92660177ca128d21dc9b"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_shellos_base.json"
-hash = "0d35902b2689faab62fc9b310c00d49f0e39116699ba24079e421d5b447e9b78"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_shuppet_base.json"
-hash = "591315c525930a10baa802140235e6959291ff0a24cfda7b0d8778631f0953ae"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_sinistcha_base.json"
-hash = "b09294e5faf858c2ab63e7cbcb3942cb653e2facb0fa5a7dfea866f4ce0e8b2c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_sinistea_base.json"
 hash = "75a51fac1ab980b168bd256f218525e74dadf5095a922d21a6938854bfd56724"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_skiddo_base.json"
-hash = "223445f2135d2d1df59cbf86744521fd73cf94a35876b3ba05cca852396aead5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_skiploom_base.json"
-hash = "6cdf7cdbdef7790a76f493deb4109dab9632191a19d6312ba8f42ee87a108613"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_skitty_base.json"
-hash = "8e0868dcfa0c6c6bd38688d07db7144a4b9f921d0ac2f5b20d00c443afa13642"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_skuntank_base.json"
-hash = "ea8a1195c8eabfe24d792a5a5ad5623f858f7acfb273f82ec7f6ee698387c004"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_slitherwing_base.json"
 hash = "d138cff7d1e3981fc312f23419842e0a9b6317367063418ffbaaae7557ce8923"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_snom_base.json"
-hash = "7f46a7e5e73c407c9bf2c4598bd5df1c7433be29ccbf9f1e3db0a0583122b5a7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_solosis_base.json"
-hash = "ca61a2fbc5bfc314403b5935b82220fd6b70992f96ba03c23e792a94d6411786"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_stunky_base.json"
-hash = "ec63689dbc7735c68be024c7082a830510739cdef1b253ace937804732468a2c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_swablu_base.json"
-hash = "ec9e51a7ed80e4fc7ccd1b4e3483b0a1dfee9a174c772b38546a23db6fc11b67"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_swadloon_base.json"
-hash = "4fa9e712b008167ba006366673ad948dd798a710295fcc6e0df3d2a7b8ed5578"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_tadbulb_base.json"
-hash = "92831517465a7c65f35a1c046fd1679a4641cb848556e560a8be7ed82dea4ed5"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_thundurus_base.json"
 hash = "8c6cf01ef01157c74b2b3d94630840987544c9d2caa752c89adec7a0f5cd372e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_toedscool_base.json"
-hash = "d72397ff304524e0a04ecfe427fadc217b9568e54d5ecedc0aa9f71e3d20327f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_toedscruel_base.json"
-hash = "2a7fce13e6bf14d8f8f7f9e16696cca0e997384e90ff33a82fb1ffd13f5e7880"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_togedemaru_base.json"
-hash = "163a8dda52bc9df793694c48909969730a06fa0e230fa8374661dab8bb7fe782"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_tornadus_base.json"
 hash = "74dada7fe27c11b66da4bac9536ebb90783274fb6761c486eecba8eedb2fbcc8"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_tynamo_base.json"
-hash = "929c967763d9b635d40b3a49c80ada661b57049c91f92629cf18bd24cadefac0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_unown_base.json"
-hash = "ecdefb542123a00baec32be79608387f6b564f78bfdd30fdaeb85433277a5051"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_veluza_base.json"
-hash = "1cf8c0cdf5dc6f18026b2ee5b317c8b7a4f18cde8e0480e63decb216dd3a6f0d"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_vullaby_base.json"
 hash = "8a09f3c225f2db19c6633174873ae83886badd71d62688efa695e700cf4dce47"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_wattrel_base.json"
-hash = "f207739170b581cd3f4e3554073dcb8d31c951620cd7073fd8f64afdb3aa23ba"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_wiglett_base.json"
-hash = "24a9bcac2a01b61697976a3bea46419868067bc595b5a69f53ce77a05e9fd11d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_wugtrio_base.json"
-hash = "6b0e474d681843cd99dcdc73100d3c5a3ac0c224deb07463517f6d6eeec652a6"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_xurkitree_base.json"
 hash = "0816529c122145d4f6fcd678092eee5e0a925bc2ff113d6a952c9095734c188a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_yamask_base.json"
-hash = "6c8b00b6e891e5db0added8b689873d12a6ea9ba53d1f0f5b8c151688d8e4e1f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_zapdos_base.json"
-hash = "88e00e99dd83b12875813f3008cd35a74af8e418cc8eb6c3e1cec6b071650c3e"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/0_zekrom_base.json"
@@ -12561,56 +10797,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_articuno_galarian.js
 hash = "6ef0b4a2760b40af3287cb8e22a6b6260aa3f88a1a00d33feba16e5f12230eae"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_avalugg_hisuian.json"
-hash = "2456467be23d0dfec76402c50015d9f85114ef8369edf754ec9c67edae8ce247"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_geodude_alolan.json"
-hash = "26fa591dd6d5f22f189660638f9ddc78ecf891fe09ce5dd885a935c9dd5e5d82"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_golem_alolan.json"
-hash = "2b38a1dfe51509db17d978ccf6a739de5e48509e57255ac2704c19b27b118de5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_graveler_alolan.json"
-hash = "302e634201f5ff987602acf7a5386ae09d0369d11c7b43e4a7bd1717ae0fd92d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_grimer_alolan.json"
-hash = "4475132cd024ebaf31983abd863b507c5bfd4f16f59eed4be0005ac65cdab49c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_growlithe_hisuian.json"
 hash = "d892c1f51550f725de3273cce3c7fdf42d0764a676b5023c8a56397899930cd5"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_indeedee_female.json"
-hash = "18977b9a214a2238c119e7ce2a2df648a236fdbbc491c87399dbd28c88a27882"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_moltres_galarian.json"
 hash = "8089968fddf1a57f77cba518cb2149b1e28e757bc7a4a413237b1d34ca67fc32"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_mrmime_galarian.json"
-hash = "032cfa4f09ffc76031784d76c95053a073c2f4a3f7deabc08852d0e51fef893e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_muk_alolan.json"
-hash = "1af59d0ed72e9ebc79b8928ee511b8ca9841ec030a88c4f2bef8b304a5fd8b3e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_slowbro_galarian.json"
-hash = "ee4bc771f0391b37a911989702234a0cb8a03dd1ad24c5391c4f1d61ecda0c56"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_slowking_galarian.json"
-hash = "3506305bc06da2a071eb671bc3ebd8ab5e6415ca5886d1a8e4c326b4d67e1fe3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_slowpoke_galarian.json"
-hash = "9c5be993845bc4eaca55e0644e2ee5f3da8569df138daa18fd28e03aeb093637"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_tauros_combat.json"
@@ -12629,20 +10821,12 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/1_zapdos_galarian.json
 hash = "30c48e178c3f381d8a332ccf7215a17caeffe6158f09f2185b38244710c8886e"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/2_corsola_galarian.json"
-hash = "6744894879e50b89fc078f47d0a3484dc1e518eecd074e20a95fb4f0fb1f73c6"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/2_gastrodon_west.json"
 hash = "16d177c90223ede198a223872b4da6be3c5e6b30bcecb05806aa494bc7af5ae0"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/2_lycanroc_dusk.json"
 hash = "d64cc684e68f21ee7765c1618c567caa8d80a32416d208cb0adc9d6d1cd64774"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/2_marowak_alolan.json"
-hash = "aa1052e49ec34a9e21bbf3ed87059ea2908ff437cdd17eb81fd645a3502389fa"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/2_palossand_redsand.json"
@@ -12669,18 +10853,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/3_tauros_aqua.json"
 hash = "0d233c6ac296b23a40e474070f957ac4af4b68bd9b62a7c2b22e8362d79063db"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/barbaracle.json"
-hash = "09b74dbbd83c4c580fe241e4f0d40fc2073e211c133c61e85d962d5002bdd3ee"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/binacle.json"
-hash = "2ee2b94ac2bb778f90845f2f20ab043d126cd6ec7ebc1e316eb84fdb5a6ba578"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/bisharp.json"
-hash = "1c9253bf187163ff9ca16235872f1fef6a9abc433adb610d34541cc762df5bcd"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/deoxys/0_deoxys_base.json"
 hash = "338bd24f997c7fbcef2e08720b5cc41b06ef711a340fcdb980545e1a00191741"
 
@@ -12697,28 +10869,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/deoxys/0_deoxysspeed_b
 hash = "005ce31f35a656ce8022508d1fb9c4813c09606ece978ccb7c7a0c1b37cd014c"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/drapion.json"
-hash = "8b47d04d9ff876a586e1de208d52e26e9c72e6198352b131ee23e71f7bc7d0df"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/druddigon.json"
-hash = "bc1ac37c0bdb99c77b2b5bfc35a81806a3f39d9f3f86064cc4e561a771fa793a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/dudunsparce.json"
-hash = "9c678e76d7ff8e963bf73b2fe6e3c60ae6d2b2bdb49da227b5e220f0e99e83c4"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/dudunsparce_threesegment.json"
 hash = "047afd36c22428b896753dcf34fd0b13ff0780f35ad61caebf0788709c119417"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/dunsparce.json"
-hash = "9788e17e4896eac36dbecb39916f088efb3bf88b2a15d583a6dea2f2216c6f63"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/fomantis/1_fomantis_base.json"
-hash = "04ebeffd8ff69055b1ad4558e8eed351856f738f6a11d9b5d7154fa91e99ae40"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/groudon/0_groudon_base.json"
@@ -12735,10 +10887,6 @@ hash = "be1d41fee8b7a015247547ee17b0cdec2c4497d1397cbb575ab794a1888de7c5"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/hoopa/0_unboundhoopa_base.json"
 hash = "41b0a28c4b176d15a85f893ae8d8117f972c47f0e1e758fb04e3d2d0aa77eab5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/kingambit.json"
-hash = "8b7b4a554d125eb5fe0e5dfb0e453c1ef4b00561e4456e62d3137e5bcb921851"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/kyogre/0_kyogre_base.json"
@@ -12761,30 +10909,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/kyurem/0_kyuremwhite_b
 hash = "080a8bb7655a155600ea0219f4488a8e603749a57fe34fce0a43f6d8d04cf4d9"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/lurantis/1_lurantis_base.json"
-hash = "8dd6e6f280cbcdf8cae82688180705cb24236bccd3ee1b9181915f944d342d2d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/medicham.json"
-hash = "8d0e2120f1e14069f86ec9f8a3792e4fe277a02d37f3326aeaba94c17cbcf7a8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/medicham_female.json"
-hash = "d364762ae1e42ed7b9b368ad57ac751c98b9e937f5eb22c4a91ab5f7200d299c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/meditite.json"
-hash = "fb911ce94e96b726e3c82820c1a56f4a3748b82f8436d3136aff079a66cb153b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/meditite_female.json"
-hash = "5b4fe99d6f97ad7a9b2129d2bcebe2cdee1e8590a61ab628bd0f2146a8fae3c8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/naganadel/1_naganadel_base.json"
-hash = "9cd9e8f032d51365527a9649c5bcec632149e173effb631e2b2e43f02f0e94fe"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/ogerpon/0_ogerpon_base.json"
 hash = "784cff88d8e3b3c97f940f58a54aed892d457e39ebb2832e96782ad5e6df3eeb"
 
@@ -12805,20 +10929,8 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/ogerpon/0_ogerponwater
 hash = "bdd10230e34b7a340c75f8b742d5dfdb883415c532a9d59d3c153a302365b7d2"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/poipole/1_poipole_base.json"
-hash = "b25574a63bec433e163b88461703b8a9978fa4a2584a6e7707990531a1ae4a99"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/rayquaza/1_rayquaza_base.json"
-hash = "c0b40c4ace7431bf7e13e07a864b4b156fca97fa4b512b33b8ceb7c9ce2c2ef3"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/rayquaza/2_megarayquaza_base.json"
 hash = "e3b6a867a31ba6fc0766d63079acb307719743015cb552e0e03f5f56f39902a9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/skorupi.json"
-hash = "ba92b61598ac135a368d37e9ef4e08b0ff1a8f286b9f65e7e46f812ac9c1e0ec"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/urshifu/0_urshifu_base.json"
@@ -13025,28 +11137,12 @@ file = "kubejs/assets/cobblemon/textures/particle/fire_beam.png"
 hash = "bfccf075067648f1cf37c70f7731936a20a368ad6161aaf8b162526947ab7702"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0150_mewtwo2/mewtwo2.png"
-hash = "3adebf46fe201462bdba3c55ae93b24144edb615a8813b531f633cc423d0a63f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0150_mewtwo2/mewtwo2_shiny.png"
-hash = "18c72b62e579027ed01825988d085956254b0c1110f4af6756a8b008c90e12ee"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0150_mewtwo2/mewtwo_armored.png"
 hash = "48c952664fca8bd974f3b1617636e9fa94b4a7fc8ecd5f0ed71d7989457b7467"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0150_mewtwo2/mewtwo_armored_shiny.png"
 hash = "4f8220f64015cc64f5bbd52a5e01f79fe60f6e37907e705579f6a4639fb2b08a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0201_unown/unown.png"
-hash = "31c922902eff991ca7539a7e60a877319f1b75861f82218ca1f07420d967ba8d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0201_unown/unown_emissive.png"
-hash = "7904776c4aacff7fec26e6509b607f4a9e453fdb551d2e47fb933327885f1e60"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0201_unown/unown_punctuation.png"
@@ -13063,54 +11159,6 @@ hash = "bd733686ba3d221c972ffabda3aa98ffcd2f903b1b6fe2bba4d6206ba7a94341"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0201_unown/unown_punctuation_shiny_emissive.png"
 hash = "3a096ff2e175e379a38e7cd68465b2bb8f5e516f85eebf9651cbc71241262d9e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0201_unown/unown_shiny.png"
-hash = "8e09d11ad6eac80dcd325b8255be0e2e7cb314e82b79e7bfeb93e1b3fb7c22a1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0201_unown/unown_shiny_emissive.png"
-hash = "bd430e5d683e5d466ccc652d1408456f585dce4ad23bda690210a142ee7682f2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0333_swablu/swablu.png"
-hash = "fbe98ed5b10b83a04f4893af865bfaae85c2b60d8bf0f4e0e4615e38ab9894ea"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0333_swablu/swablu_shiny.png"
-hash = "8ace52ecfe4f046510a1490d097e83a8d667ee07b8f4f2dbd0158f661d42d1b8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0334_altaria/altaria.png"
-hash = "d0f514afb4f35488bc265d054f7fcd04e27478901727f33e0b2e02718a651479"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0334_altaria/altaria_shiny.png"
-hash = "57bc7b29437966b4c3b3dde118ef5ff5df846ce4af5a7e854e3b45677654de0a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0353_shuppet/shuppet.png"
-hash = "f4275a04d7ad329c5ea69feafa2c455050ccec8c41588afe68dc6edcf0db85ef"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0353_shuppet/shuppet_emissive.png"
-hash = "7850beaf7daf96fba467056f0e74b5540cf3bec5cfd83a6ddbc55933d428850f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0353_shuppet/shuppet_shiny.png"
-hash = "980647c33aabdc623135f93f547d1bce2174abc03d3db12bb6d78ac0f1243c3c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0354_banette/banette.png"
-hash = "b151f045458db279cad762e69eb8a41ea733d465ec85e0e62a12abf6d26fdb80"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0354_banette/banette_emissive.png"
-hash = "97b4d67d5aa8243c447097baac6ef7025b77087f2009f1bffeb688168c672805"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0354_banette/banette_shiny.png"
-hash = "32e86df73dd567b9f10202518e0583f26c61dac2aed232b077681f873118b309"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0386_deoxys/deoxys.png"
@@ -13143,62 +11191,6 @@ hash = "b2a4a1212a7273a46f5a704a0747c78ae2497353cabf1ff65465b64ec9b5d0fe"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0386_deoxysspeed/deoxysspeed_shiny.png"
 hash = "ee901672db59cfbea6496d01e764823cf5066c3d67e638f9c13881d0e9191387"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0562_yamask/yamask_galarian.png"
-hash = "fcea926ae49e9f0579d7c4e9754b5592829f68937cb8344f9ab6df652c38f7dc"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0562_yamask/yamask_galarian_emissive.png"
-hash = "3bc3b431a7650376754c37239d246d52e7779ad1e25101b030a3f31b86d28d9e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0562_yamask/yamask_galarian_shiny.png"
-hash = "77732aefef31da553c432e62417762d2a14c7ab3c41bd997346e4af36ba4c420"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0562_yamask/yamask_galarian_shiny_emissive.png"
-hash = "778168ff46042f68f0fb7d43d402ac60cd8d74ad8c1e340c19b5ead2068708e1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0610_axew/axew.png"
-hash = "ded6efd7a697b0ecae921290d0cd7b2bdf294c742a4055aeb21afee36c8005d1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0610_axew/axew_shiny.png"
-hash = "3496901775f9e874ce63b44437a3e5f4a03fb9887ea3afe56cf1d3b4a2534428"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0611_fraxure/fraxure.png"
-hash = "cf1d8350a05409f5cd99feb8d9f65634a1443ecd35746d43be99e2a1fa7c3ef1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0611_fraxure/fraxure_shiny.png"
-hash = "449db106d2063969ac8e57bf227dd1863d58bbefe0ea09fe96f83418d58d386f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0612_haxorus/haxorus.png"
-hash = "2917275605c8a9f7a3562903c3e7d038220216cd0ea6c9fd30b26798d790ad10"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0612_haxorus/haxorus_shiny.png"
-hash = "78df83259a7f93bae41d9accf6f291ba8f89c7e9f2940d43ec66ba10548970a9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0714_noibat/noibat.png"
-hash = "c7464c3d30df0dce03469dde6eeae98d0fe7bde27b71497810cf43b9c16351f4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0714_noibat/noibat_shiny.png"
-hash = "983ea6dcb5e9f039a82e58e3b3bba38e72b3fb20bc4123c467589a2d275aab51"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0715_noivern/noivern.png"
-hash = "44241dc72ba5ab3be8dc35bc47d6e9ab05814a3022cf4f993caca844224b0940"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0715_noivern/noivern_shiny.png"
-hash = "92401a497fa6345f8ebb25bbbaa7bb2c1270b038aa953fb88d799ab9613a93c2"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0719_diancie/diancie.png"
@@ -13297,38 +11289,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/0855_polteageist/polteageist_sh
 hash = "ecab075db4d16bb93834d83a61e57a2b24e6aed303da8b712557c426cee67e7b"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0867_runerigus/runerigus_emissive.png"
-hash = "f4c8617adf9538aa7a1325361c3dec50accdc3447e7d976ee2e9b013fb7ea3da"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0867_runerigus/runerigus_shadow.png"
-hash = "1cf94018b40c0d32e120d3cd67428957c874b77feda0376d709005087da5f2e2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0867_runerigus/runerigus_shiny_emissive.png"
-hash = "d271dbcb739c5af31980c3af1ef584e0dccdcd6e836e4642b06f2aa06e33064b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0867_runerigus/runerigus_shiny_shadow.png"
-hash = "0c82d9886611beb4e3f8ad94e3e9a036caec8cdae8d20fb3561324c0bb3594ab"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0872_snom/snom.png"
-hash = "3a31d846cf582918f1793fb0a4890c3dfadba1a77faaae59aa65e6ac93090c85"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0872_snom/snom_shiny.png"
-hash = "db3183ecb8e4ee6b56b2384fd8918a99c3112ccdc5f9f39b9fdca00f92e944f1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0873_frosmoth/frosmoth.png"
-hash = "e6f72b386b08c417c012a07d61c863dfd3cbe019d474e8f5b6af97559f289e8b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0873_frosmoth/frosmoth_shiny.png"
-hash = "736451d9e5280ade371a163ab1807b61ce828abb89a554e739de66374fa63928"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0896_glastrier/glastrier.png"
 hash = "c19f0858adbed0abc603133cbaf3aab602cf958b5eaba57e3e8ba8076e6bde4e"
 
@@ -13351,46 +11311,6 @@ hash = "460744e0a141f2dc2ad8f137c8d941c2f114cba0003bd369054e166b950ee287"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0898_calyrex/calyrex_shiny.png"
 hash = "8f1640d6aa7a83e187fbb9786d38002dd75ea3b86bcf0c9d44b046781dfb04c2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0919_nymble/nymble.png"
-hash = "33ef67a60678bb5adb9c5ea5dc5b2dfe1fa7e363109220398364a81cad1087ab"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0919_nymble/nymble_shiny.png"
-hash = "0781ac114aaff930c7f872535adbbb7a8017c2cae3f8bc2833a096eaef42480a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0920_lokix/lokix.png"
-hash = "a32351fb48a94113c307b5791e8680b29b8c36bb501acbe887ddae1cd75c9c58"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0920_lokix/lokix_shiny.png"
-hash = "0f47f86dc8bfc0616e6745f509d9db1c85dfac1f87a6450dd0af64d4e6d93b44"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0948_toedscool/toedscool.png"
-hash = "87e02fabe3498ef03587631f3915abf47c5ff851bd7d97428cfd09025200e307"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0948_toedscool/toedscool_shiny.png"
-hash = "76b47f885ec0bfeca6792aa5f4f8a52c5ab2d837a32c0b341be7d31edaa6887d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0949_toedscruel/toedscruel.png"
-hash = "2fc31a5be21a2d212ece48860043a867603d96a9d297f868f0052fb5162a7884"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0949_toedscruel/toedscruel_shiny.png"
-hash = "e90eee629fa7657717a3c28e9f1f955a16012f37d36291e7e7e85550910af077"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0949_toedscruel/toedscruel_shiny_translucent.png"
-hash = "fc6709e04258f43bdeb07fc86783fafef404f25bbb4947a76d7966352dc8b8dd"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/0949_toedscruel/toedscruel_translucent.png"
-hash = "7750bd9ac89bca0e2512573cd9c649d53c06d47cccb5eb93014f65030067d90e"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/0988_slitherwing/slitherwing.png"
@@ -13429,38 +11349,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/absol/absol_shiny.png"
 hash = "f46e1f443a4bf440863160d2e99fdb9968bb593d8f090d10869c30fdf1e5668c"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/amoonguss/amoonguss.png"
-hash = "61852bf86e76513f0baa2669455ee0ddd3d6642b652d72e8abc2360ccaef63eb"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/amoonguss/amoonguss_shiny.png"
-hash = "f14773f88edc01e76ed3ce6aca76a69dad80ad72fd6415a74b052543fbf38a68"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/appletun/appletun.png"
-hash = "d3e540f620fdd2316cd0e3277d39dab33c124e176f9b6ef18b161cdb41d22d69"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/appletun/appletun_shiny.png"
-hash = "14ec5c0f315695d1520b613f921de6fccaf3a462186785f6e52b4b895ae7e011"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/applin/applin.png"
-hash = "cc478e6e147d71d1d059bf8c2b0506fca284484786d37c275b0e4609b91968c0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/applin/applin_shiny.png"
-hash = "47c4bcc0553ac97302ab887c2c4def012f8a536e5fae6b23e18e105e2f08cffc"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/araquanid/araquanid.png"
-hash = "26080a3be471a97be24ff72415dac19e16ef3f27deeaa8374495978073a4d5c3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/araquanid/araquanid_shiny.png"
-hash = "63ba6d2029dc5338fc70befe5cb3b88419be8e9773b61f2d63d26c803c71be03"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/arcanine_hisuian/arcanine_hisui.png"
 hash = "a2ea7c79392fba68e33f9332a1a47cd6185f9adb6549cc4276bb8b9d4a0352fc"
 
@@ -13469,28 +11357,12 @@ file = "kubejs/assets/cobblemon/textures/pokemon/arcanine_hisuian/arcanine_hisui
 hash = "0d71adda7f977ea9190af7e9775f644aec8ca7a19e53c73c5179f2e6572e4e74"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/archaludon/archaludon.png"
-hash = "ee7afc5c572c635fec81944eb9dff7f79395abb2644f386b6ce69ac061f23a2c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/archaludon/archaludon_emissive.png"
-hash = "4667dea2bfe302bf74b70a96d4b6e5c06f63b132ec15f6ae1b5272d0807c8d9f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/archaludon/archaludon_shiny.png"
-hash = "ca64de46b58762f4d8eeda531ad4b318ee1010f3d5d25ba69749b2a3ec765392"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/arctibax/arctibax.png"
 hash = "0907ac80036fdf6b871f0a6ad09a95fb1e556f7cf26e46908a9d4360fca61a3b"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/arctibax/arctibax_shiny.png"
 hash = "c78642862f21404594977a79c9a3342d96167a64343d7519823fde69da42eb7c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/articuno/articuno2.png"
-hash = "6d4972c999531f45447ad6d15218d782adb548180d34c0c343c6635eeadb838b"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/articuno/articuno_galar.png"
@@ -13505,76 +11377,12 @@ file = "kubejs/assets/cobblemon/textures/pokemon/articuno/articuno_galar_shiny.p
 hash = "5242d3f1f85b7fca675adbc9e2aa90829d1242cbcc0ec42b163f1500df91a62e"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/articuno/articuno_shiny2.png"
-hash = "c093978947f01d17c3de9c60ab25a0ded689a8b24c83f0be38d57cc4955a1853"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/avalugg/avalugg_hisuian.png"
-hash = "42fdac86cdc586bca67ccc6cecf0134db1caf836ac4328be7e2d348b1706ebd4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/avalugg/avalugg_hisuian_shiny.png"
-hash = "7c7d24bef2e23ec1a4f57661bc94685f67fce8d0532ce9faf4fa3862aa4173bd"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/azumarill/azumarill.png"
-hash = "bb4fc8f585669706ac95256075dee133fc8a7859285b003427a0c0d67d18af53"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/azumarill/azumarill_shiny.png"
-hash = "404165d81dcff4531365d1509388f80179b3796a42eb135ab88aae4a81dee94d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/azurill/azurill.png"
-hash = "b0ce41e9f96810539656b14ca75dca755f588759f38f46c5959e733ac4d72b24"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/azurill/azurill_shiny.png"
-hash = "fdd612a5534570b3aa0c83c85b10c3aa41e3f5a636c3146def2e584754058e52"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/barbaracle/barbaracle.png"
-hash = "30481db7e99b92bb02f5d6969a3e08b68310e47d73c587000df943d1e20ceef0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/barbaracle/barbaracle_shiny.png"
-hash = "cb7354de6e868c4b43d73399cf7fd9d1502d03a93aa33b21a68e33b18d335159"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/baxcalibur/baxcalibur.png"
 hash = "5d297d28bc7d31a926adb1544a11f34b3e602feb487283e8dc8ecd0b46ce6ced"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/baxcalibur/baxcalibur_shiny.png"
 hash = "8031b7e7c7b5870a93005c88c305ea5b509bb9bbc1b0b07307dd51e90923dca4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/bellibolt/bellibolt.png"
-hash = "28a96b66ae815220347959f3910b064884f2e6c33fdb9d24acef72ef8887ba97"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/bellibolt/bellibolt_emissive.png"
-hash = "bcc36a1367049031792e301a35ce5f33e7fa1fa897268b4e5b6b2c2ad4d6f0fa"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/bellibolt/bellibolt_shiny.png"
-hash = "beb9b5361d7c8bfc155d937907dcdcd22df8723dd3b9f8d2862c53dee82d0f11"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/binacle/binacle.png"
-hash = "20c6c18657246fa9c6d782ad079e1c66a02b5f2d801f605a4179f1befb6041b1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/binacle/binacle_shiny.png"
-hash = "ec8928512dcbd94481d11e169d97fbe692154d17bcd92eacf40d3a375d5b49bf"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/bisharp/bisharp.png"
-hash = "f27234dfb46b81b6644101d96a05acfd1f468d5e110f85939853e5996450f8da"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/bisharp/bisharp_shiny.png"
-hash = "f1ac7da4329562178eba0ea10e870da719c0d09b0027328c3a7b7ccc8fbf112e"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/blacephalon/blacephalon.png"
@@ -13613,14 +11421,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/calyrex/calyrex.png"
 hash = "71863dcbff70e059d99dccad0bb0bd469b81f6764d61075a1bcbdaabf99f322d"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/capsakid/capsakid.png"
-hash = "ff4995e240a2a7ae3fcc6cc90badbea7a73239def92667997bbbd4ffbd7e36c2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/capsakid/capsakid_shiny.png"
-hash = "f475fcdc76ddc51fe06deabdee25d0734d603144b36458534126156ca383b803"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/celebi/celebi.png"
 hash = "21a60e8b50290c1e6fc2068f8c5f5781ce036b4a4d7cbf55f098e01efdcd466d"
 
@@ -13649,48 +11449,8 @@ file = "kubejs/assets/cobblemon/textures/pokemon/chiyu/chi-yu_shiny.png"
 hash = "96c861f1e6edf61f9f8a63b4175c5de503be9992697c098f38e962efc011731d"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/cinccino/cinccino.png"
-hash = "7f64ae9199921e756b2262cda9b6871f6aad40280f3eb693de63fe109c9a39f6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/cinccino/cinccino_shiny.png"
-hash = "87c40fb3dfe059f359977b57676ca8e1c94afa538e156a2cc7c8776b2c2b62e4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/corsola/corsola.png"
-hash = "367a5c3ce8e042d28f2dcd612eb97ceeeaed8df820f7c2197e791bfd7a704495"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/corsola/corsola_eye.png"
-hash = "e4de57b8915714b81d23a07b4d441c1b354dad86a5a8e9fd4245e492482a04af"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/corsola/corsola_eye_shiny.png"
 hash = "eaf9d4de08dc5a7eaae16f2b2c8634c617a2f557062a21e23d069b61eb4abf9a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/corsola/corsola_shiny.png"
-hash = "7839f96a9c3a1ee9b95b2b5a4b0cf42d44e01945030d95d4a57c515ab3ac5643"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/corsola/corsola_solid.png"
-hash = "1ee5efba58ce9cf6d776e2791a21140921b6b2972ccec7a7374fd0fac5fae96d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/corsola/corsola_solid_shiny.png"
-hash = "20434f6cb952322b76b2f0154bb4e04f675083fbd0586bfe2ef68c3404161461"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/corsola/corsola_transparent.png"
-hash = "bc470f198d2486eb85120281810dc07ddbf21e4f7d9de333261ccea244482dc4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/cramorant/cramorant.png"
-hash = "d3ce2f3a531e2c9523d2853a8ebe87698f096f4535d3dd72f484ccee7a79e996"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/cramorant/cramorant_shiny.png"
-hash = "7f6f9d239c0826b3fda4c479864ba0186eb520a1b92f0d5a8349d1c3dae2a807"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/cresselia/cresselia.png"
@@ -13701,36 +11461,8 @@ file = "kubejs/assets/cobblemon/textures/pokemon/cresselia/cresselia_shiny.png"
 hash = "54625bd8b95f621d13b73940746d132dd1d05d35694fdbedf1d7bc9cc8173ec7"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/croagunk/croagunk.png"
-hash = "90111dc099574346a83130610db19c84dbd8e09366adbc6f8260e9029e466a44"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/croagunk/croagunk_shiny.png"
-hash = "6e943fbe3340d15a020d4f15353c3dfad2b8446e31e64cee310d31d3aacf9c43"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/cursola/cursola_eye.png"
-hash = "e3f10b9fb5436868b0a34756830693879f1ed50264ea6bfcf8612312edb86a17"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/cursola/cursola_eye_shiny.png"
 hash = "90870b47b08723d1e82fac460d932b112b2d0e5a9e89dc7374ce4f9334c58255"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/cursola/cursola_solid.png"
-hash = "ff8f19cddd2b0a64cf39b256702e380acd8bf8b5f55adcd57f1c763a8b8c01d5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/cursola/cursola_solid_shiny.png"
-hash = "f16e9a07ddb6e054dc999730754d9e4aadf7af5672bc9979e51f1a57b9ac87d2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/cursola/cursola_transparent.png"
-hash = "644b1feddb9d5f625e0f70f19e4593239c965d84e05608f4fb90f60d7178ea9d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/cyclizar/cyclizar.png"
-hash = "c49b35fe15c82eee36fc42227c42e92c9e7daae1da81e1858391d3cbdbc1b9b3"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/darkrai/darkrai.png"
@@ -13739,22 +11471,6 @@ hash = "95d194e6a15be2f7d584a6b8d0b6b6ed57ba576386af45969a477eee49105b2a"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/darkrai/darkrai_shiny.png"
 hash = "c899aec3189f9de30215155ca0d6f0f264ef7c1d0c4d037706a76073127d5af5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/delcatty/delcatty.png"
-hash = "9d85e90ea00d6ae2bf95fb61a955926a23530f0c0fcc471e41a98a7ef5b1e306"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/delcatty/delcatty_shiny.png"
-hash = "2848937ecae2179e86e864c19338027cf20164fec8bb1101c4539d61b32e0980"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/delibird/delibird.png"
-hash = "388929fb1451f5a527e1e119436abd84167edffa27a63e2e92425591aa62608e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/delibird/delibird_shiny.png"
-hash = "a9f0b96113a029484cf32241e0a8811b04bb3890635501d6524f0bac4d3d7287"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/deoxys/deoxys_attack.png"
@@ -13789,22 +11505,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/deoxys/deoxys_speed_shiny.png"
 hash = "062730060573413b826ed65f711c36c0e440a5ef9b43ae085f9f9f584595861c"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/dewpider/dewpider.png"
-hash = "8452f43cbc3f9738d0eb17aa002daf0dbc27fca13453ecb02c7102ae9968b475"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/dewpider/dewpider_shiny.png"
-hash = "e66bfe829edd0ab169227d641dc2e459e16ba66e6cf5473ea5fd31270f7ec254"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/dipplin/dipplin.png"
-hash = "72e682d30bd09b9e460618bb7d8151c69a9fcf08de9f281e01fc40e66cd35bd1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/dipplin/dipplin_shiny.png"
-hash = "27ccba9b8b9cb4472b80772178ddd07e26ba8e3b8ce508987b61bd264bcaa7b4"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/dottler/dottler.png"
 hash = "fceafc9807cbfb5ca18cd8dab87f92004934a52ae0c0c8e52124b8016e660bef"
 
@@ -13817,30 +11517,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/dottler/dottler_shiny.png"
 hash = "1f6772ae8eb1835d8ee7640a47dc60ba7165a5fedac2c263e60269675635fb33"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/drapion/drapion.png"
-hash = "5cc9e10a477e821b25fb012ef9b5a076981144cc9cbf04c0a7b7ffdf3de0015e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/drapion/drapion_shiny.png"
-hash = "0c080bc138662025361bac8f81b68ea3285b9bffe626b92c18e0c813d7d4b7c1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/drilbur/drilbur.png"
-hash = "fd2bde8e9157db3d9f6317cff8807b8fe0b2aeb31c4bae6543b8d3df5ea6bb8a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/drilbur/drilbur_shiny.png"
-hash = "98cf2761c389faec6a67b18c5996ca7a2f011e206c1d9801da4dea40f39a07ff"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/druddigon/druddigon.png"
-hash = "75fd0e5412412050a67604a835f1d0fcaaafa1cd46a3584d59bfc49bbf97bb1c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/druddigon/druddigon_shiny.png"
-hash = "97673a4b5933d2c3c72811878de39486668f650341c75b2e17c64e2f4c2a4456"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/ducklett/ducklett.png"
 hash = "53f7f23d91e63039c0a332d64713c1e55d3ff18a774b14b6904e55833abccd05"
 
@@ -13849,72 +11525,12 @@ file = "kubejs/assets/cobblemon/textures/pokemon/ducklett/ducklett_shiny.png"
 hash = "9a862864ada5d2f6256a3c6389cc2ae6445030ac36b73cefcf54be6dabc7281c"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/dudunsparce/dudunsparce.png"
-hash = "6bc1cb6a8b97ea325e399ac88ed4e61b89cb356573528ebf33175af0821da2c5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/dudunsparce/dudunsparce_shiny.png"
-hash = "f984809862b6ba3a421244bc4bedda55b6dd6a6db958e512c99bf2d98b51c8f3"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/dudunsparce/dudunsparce_three_segment.png"
 hash = "3e92f10c4d7d612ca08cc6d14377d64c5a4881d182601d053e20bc5121bdeefc"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/dudunsparce/dudunsparce_three_segment_shiny.png"
 hash = "4352f55582bf0da503ea8cc5a62ed503af3aaa727690e0785944d1065573778d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/dunsparce/dunsparce.png"
-hash = "bdb4ae49307075cdc47cdacbbef8d5a719f17fd8083b33fd228a31bf01993505"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/dunsparce/dunsparce_shiny.png"
-hash = "d0cb13ed20b94eb9ba3d7c3e2732f9778c67150c57ce8880c12fcb3006c2c33d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/duosion/duosion.png"
-hash = "b62ab79c3de692645aae5d10c5fd9a2f0b3b4679f585fbdaa2b14d1d7cd63b6c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/duosion/duosion_shiny.png"
-hash = "09d767bcf1e3ca9b2adc73972416382104e724a4b4a8c84e43d1afd39385e59e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/duraludon/duraludon.png"
-hash = "1d1175a2eb987473b36951c73037caa61b319a22236b746302acaa986f350614"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/duraludon/duraludon_shiny.png"
-hash = "f69e68b026af0e9962207efd8c4937802d7496f946b503ae448955520eec970e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/eelektrik/eelektrik.png"
-hash = "8f87d4449f1621db634a4d0f15f1dc1a9661f16cdb45705ea7d76ac9db64633b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/eelektrik/eelektrik_shiny.png"
-hash = "0e0e8b0d58929a3f45aba860ffca24b864685fbace2ae1effa85e535919c0b76"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/eelektross/eelektross.png"
-hash = "795e7143f77478ad550aacbcbe36535489891b7c10ac3cb952f5d1e73007f78b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/eelektross/eelektross_shiny.png"
-hash = "5e65a977e813639e052c0bde7171af2bda8fc921ce5a724148988a0123a5f7bf"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/espurr/espurr.png"
-hash = "4a4e015ee4430c4885cb77c7725e8c0a91d16b7747d937d695b224c7531f2a9b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/espurr/espurr_glow.png"
-hash = "b0af24187fe6aa478dfe55652dd0623da84708c5f236660736f5ed3b98dd8483"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/espurr/espurr_shiny.png"
-hash = "9903db8cedddce09238aefd798b39cff1b88172d9286f6e756e25b6d43a9275b"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/eternatus/eternatus.png"
@@ -13929,38 +11545,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/eternatus/eternatus_shiny.png"
 hash = "27d2441ecd670e338ca055e1c444aa754b5fefc27be9c11d80dcc61ff1e5da32"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/excadrill/excadrill.png"
-hash = "4180dba0c4fc06ffb6d6e9cd5c08ce70e51f42fd5b50bf89da159e4e82a238a7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/excadrill/excadrill_shiny.png"
-hash = "55f3d209f07a675369d356e08bc37d791b3d253fbb86f53b63f36b77879f3733"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/feebas/feebas.png"
-hash = "e9ecd86357dbc0be8b5acc961f8d67688065c2548b9c1a0d02009dc75c29ecb8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/feebas/feebas_shiny.png"
-hash = "3cfe90d12caf19835738de0a624f0298d095d1754812e10d9f2a15788234a4d6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/finizen/finizen.png"
-hash = "c4e45c0c3a7c2e6fbc9e93548ea184f003a4e0fb010961ca996c89e79781abb6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/finizen/finizen_shiny.png"
-hash = "d65c0505c2340317b213d5c1c9dc56785c08f908b77cd4b5e888a86f4d541e7a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/flapple/flapple.png"
-hash = "4c6b2178df4c89efc18414a8c927472aed5ed3279c27bc6d9567b66f2ba2fabc"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/flapple/flapple_shiny.png"
-hash = "7616856862fd5582fae32f469f2c8c39b64cff0c0045d56fa4e14df8f8d948ad"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/fluttermane/fluttermane.png"
 hash = "bd27f6e35b2075b666f1fcb24c5c8952e18326e8c638e404bb5a6e87f389cc42"
 
@@ -13971,22 +11555,6 @@ hash = "777facbf9439ed08f9441996d009c47417785a79d2331e27732e8834948985c0"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/fluttermane/fluttermane_shiny.png"
 hash = "dafb739f7ae9ea340842b64198c2d24eda4eba6270023c76baa5213100dfe700"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/fomantis/fomantis.png"
-hash = "478ae79e1d9d12936c6fdfdb9713a0973cfb8f0b4b1573cbd5901308b221861a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/fomantis/fomantis_shiny.png"
-hash = "de284733e26ac7289e0f5d50b726afa52bf115e34d9de685c630c1540707a3db"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/foongus/foongus.png"
-hash = "640979bf2052a2c61cde6c0fd99bb60f45ac398f814e31e051f88efb3201882c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/foongus/foongus_shiny.png"
-hash = "d3d91c23c6286b7916ff4a9b948a51af20cac405f5423d544b62b82119d140e6"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/frigibax/frigibax.png"
@@ -14003,14 +11571,6 @@ hash = "04827f96f72c07227f69c85a87106c8be15d4a5493a4ea74084cc7962c904484"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/froslass/froslass_shiny.png"
 hash = "63d49a5433a611254b5d0f857394f9336b87c3a93742c316e1054f7c1287a45f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gastrodon/gastrodon_e.png"
-hash = "2af6c132f865ddea515551f3249b82f25ad849a049630696ed7be26cdfccb0c3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gastrodon/gastrodon_shiny.png"
-hash = "a1e119d8838f20775e81c9c284b2ef5c8ab838da4d4ffc3969f262f59afea268"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/gastrodon/gastrodon_w.png"
@@ -14053,14 +11613,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/gengar/gengar2_shiny_emissive.p
 hash = "d76aff8d0abd9a2aea541177529e49317946dc202f3ad00d490d189c20e4db23"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/geodude/geodude_alolan.png"
-hash = "0863a07cf66c2ed68e8a899345764974621c7b1b7f08d76b18fa1ac8dd97fe2d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/geodude/geodude_alolan_shiny.png"
-hash = "fee21daeac15d527ad36caf74bc576647da3a9f0932f1800be49333371b46e2d"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/glalie/glalie.png"
 hash = "bc13ed4bdfb432a97dfa845e63107a18ffefdfd23934a0b6113207c56f444c4e"
 
@@ -14069,68 +11621,8 @@ file = "kubejs/assets/cobblemon/textures/pokemon/glalie/glalie_shiny.png"
 hash = "450fde6cfbe58326b120017c7eafca3115b0ae4517570a225c4c6c0414a80f99"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/glameow/glameow.png"
-hash = "0e002a49a63a7f693972fc31797b5d85c72073ebee67cd4db1763edd790fdc3b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/glameow/glameow_shiny.png"
-hash = "8d3d2aa3d92953b660db759f2f7749ac9c259b62c204581bc539514f2e6b044e"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/glastrier/glastrier.png"
 hash = "ee3dce632e7c8174ace29406df91a3a292419cea5a4e414ac55ec0cd894cbda4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gogoat/gogoat.png"
-hash = "835901dd1e3ee62ce376c8774fcea3e6b9435cf5515eb685f9adc2ad9c0d02ab"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gogoat/gogoat_shiny.png"
-hash = "406b79387e966ab35c4701304d38205b77873528e715f3d1f2f31389492129e5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/golem/golem_alolan.png"
-hash = "49f0e238c12847d949618993f384712dbd2dd4445bb2f54c6a8c635435ffa3c7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/golem/golem_alolan_emissive.png"
-hash = "46f57b571f7962eee21b2f6f822770e75b72b293dbfb5a99a131d93638ba2f57"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/golem/golem_alolan_shiny.png"
-hash = "5513c4e1b5d32951e60c49226cbbb1237737d770850494622ca5ebdef1db6f78"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gothita/gothita.png"
-hash = "28be55de12e595bbefdfee05d15b117c610d663f7e8091005314b1003688b067"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gothita/gothita_shiny.png"
-hash = "665a9ab59a1875ff6c1c9f8126bc5773f5fc9348ebeadba1162a03a5e6904dbe"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gothitelle/gothitelle.png"
-hash = "42488ee29531511c57d4f5c0503573be04437bf45a46e6fe54b32acf4ea911ed"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gothitelle/gothitelle_shiny.png"
-hash = "0827715e6c0a51df110ee354083e3996ecfb9e3e7c65138a4fe2f8715e984f0e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gothorita/gothorita.png"
-hash = "e6cf8e8e7000afb2bdb38c5a271c27a615033200b2dedb21f9efc498481f5aab"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/gothorita/gothorita_shiny.png"
-hash = "1b0186c9660140a43ac15b93f41c18d8e0303e8d6b23dda1ee65e5ccd07d0031"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/graveler/graveler_alolan.png"
-hash = "725fe8b35dcd741621834bde3272845671083623e71d4d1d4d5a641440416c7f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/graveler/graveler_alolan_shiny.png"
-hash = "c85a630c13f8461c2d12e630c42f1b6f640c7080d440cbcf744136e1eee49463"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/greattusk/greattusk.png"
@@ -14151,14 +11643,6 @@ hash = "ec28c5002b0a2feb4b16ee4271940f0d8abca19e5184e13030e7ec0325eb49c1"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/greavard/greavard_shiny.png"
 hash = "2f0d692a219f71247836c960ceb74aee8b26673a2d83e7bf838866ee08854a5c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/grimer/grimer_alolan.png"
-hash = "caed7180425714b598c87df2d1502c11ec0899ca8abc90c47b07745c3381d3de"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/grimer/grimer_alolan_shiny.png"
-hash = "06c65eefd5e18fc7314734e6e29636507d611cd8f309c30ed3601cd1286942d2"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/groudon/groudon.png"
@@ -14205,14 +11689,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/guzzlord/guzzlord_shiny.png"
 hash = "bbd855dfd24bcf9d6755a0288ae2430debe9627ff8e003693ff103e7739ef4a5"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/hawlucha/hawlucha.png"
-hash = "e5a7846106e6096520ad91bd31596e771679a1dad1c5486cc3652702a556e8d7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/hawlucha/hawlucha_shiny.png"
-hash = "e4eaf3ad75de4d25095ef1872668ae806dddff83765d32312ce86c028b59221b"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/hoopa/hoopa.png"
 hash = "2122d34f6898068c0df9ceb016a637bd6d8685a3b2b5234d3591d4be842cdf68"
 
@@ -14227,14 +11703,6 @@ hash = "acd088dd8d33d0f7c67d6d9ec8fb0102aef47c79cc980cfa0885e4b0a49d4e69"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/hoopa_unbound/hoopa_unbound_shiny.png"
 hash = "d78d64e6043e40079b77a4eb116d97f4d189f6f3f220acc7c988d2d2842cc33e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/hoppip/hoppip.png"
-hash = "c24d2842c8a2f780cb518f7be633b59318eb499807e037403509f465764f4599"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/hoppip/hoppip_shiny.png"
-hash = "3e5b737a88b5bf0e12e69a28d401f02822f3450260142ff2bc6c220a35070363"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/houndoom/houndoom.png"
@@ -14259,22 +11727,6 @@ hash = "37134d0f37672607129562eacf684d9a86c257270dda0822edcd431a1edc81ee"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/houndstone/houndstone_shiny.png"
 hash = "b89dd85ed867312b252d42660622ae79dc463278f43ebb7e031f73ebcb50a28b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/hydrapple/hydrapple.png"
-hash = "66915f5ed01c090e0d59f648be5fe2b8727ab37f61073f6fcd2d987fd8569ee7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/hydrapple/hydrapple_shiny.png"
-hash = "be23fd0d61d48a9696c78c43d49c555a98ac2d878986ba5e837e9b6c88100d6b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/indeedee/indeedee_f.png"
-hash = "2e840af8f99e0251199bdee296891bee03f87bf6fb6f61076962f4f67a26901f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/indeedee/indeedee_f_shiny.png"
-hash = "6004dd25d07e95930dd5ac1bfb4e03e60cd7ada98e78b601d8de177df62cb6eb"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/indeedee/indeedee_m.png"
@@ -14321,36 +11773,12 @@ file = "kubejs/assets/cobblemon/textures/pokemon/ironvaliant/ironvaliant_shiny.p
 hash = "182982a97651fba9567ced437a3b7bd73a4f5f0989bb08a0ba94f0d3660cdf8a"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/jumpluff/jumpluff.png"
-hash = "5d517df211fc3be22b9b595ee5636949f7d39f9509c9257f53cdc1daeb9de369"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/jumpluff/jumpluff_shiny.png"
-hash = "a982a479273edd3c0e6d88526cc72a05dabaeed957ae7115003e993d6d52aec8"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/keldeo/keldeo.png"
 hash = "b5469d8f31c2a87f1f5851d0a9bd67785274c40ce6a6cbcd6f6c5282eb63bfbc"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/keldeo/keldeo_shiny.png"
 hash = "56cf9ecd881e771b285c34c605dbb76f82d1477a0b72f86517f5c177198b2645"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/kilowattrel/kilowattrel.png"
-hash = "679b75b7c4b6ee33b1eb519689e2bc5ff03fda99a08cebf7df5a68e36c090938"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/kilowattrel/kilowattrel_shiny.png"
-hash = "043ad424487705e11d527065604817db1456275692ae4a9b44de53fb707ddcba"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/kingambit/kingambit.png"
-hash = "dabdd678868b923fccdee20ec2eaa270695e169ca2fdda421cd953b0689debe4"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/kingambit/kingambit_shiny.png"
-hash = "79df809f9c40a8aeae7499034aa7f3c1e457682ce717ffab992a1b24d3fc2929"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/kubfu/kubfu.png"
@@ -14429,74 +11857,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/landorus/landorus_shiny.png"
 hash = "31fb69f7886e35a9da9cc77976d160c98c5fa9e9d6f6b6484f38027078cd421a"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/latias/latias.png"
-hash = "8f4637bc0779624010fd6d66da7530dbca84382666f65b11b9e12067fc228d4f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/latias/latias_shiny.png"
-hash = "b31bc8e8575d3a6908368a70aa2786946cfd3b5e898e566714366c5cf2e45c1a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/latios/latios.png"
-hash = "6716bf386a51a6fcd193c60aa5623da84c4c396c69ff0f045e99f0f6b2408e08"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/latios/latios_shiny.png"
-hash = "6e72097474436538116949698fcae2da66ab6055b3eb00ff663eea08ab91e61d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/leavanny/leavanny.png"
-hash = "6674d1cea7b94b77bbd5e0056ec12df17529dc154aac9d4c2b134972be00938d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/leavanny/leavanny_shiny.png"
-hash = "17d01769f6de41455421a802e9c2c54064d32c63abf39c5a3305c838ff65080a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/ledian/ledian.png"
-hash = "4513199476cbeed0cbb911698ce5d5be65fa176249d657fee5aff9bde44769ce"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/ledian/ledian_shiny.png"
-hash = "e8aaf5dca974b56bdfdf701fa4e36bb55a0adc22b33db28f3d4cabae1098fcf7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/ledyba/ledyba.png"
-hash = "b16cc57ec4cedaf4cbf94ec89b5d03370e1cdc3d1245cf18321abb82a99c3ac9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/ledyba/ledyba_shiny.png"
-hash = "3865024d9112c8c6888df3e9aee3a0ab1f34ffad46aa3267cc6a4aa2ec4a6cdb"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/liepard/liepard.png"
-hash = "615df66cf6877fc83844e58fe8c4ea163c2c816596287560e84056df217fbe56"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/liepard/liepard_shiny.png"
-hash = "1e1eb3f0a70238b75803c2ef9f9f2d935a702aa169d426cedbed3950a073dcdf"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/litleo/litleo.png"
-hash = "8ee0b46a027bc6227d22275bbc2e9b4c5eba4d75dbc337ad4af16963cc5e449d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/litleo/litleo_shiny.png"
-hash = "02e6b15cf8dd674dc7436cd8f3cb6db9e97aef60b30cffcb5f90d69d6df8a26f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/lurantis/lurantis.png"
-hash = "885c430d9283b8dd1ba0b45e0cbd6f5d500c89f387af0f0fd583630b4f3df592"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/lurantis/lurantis_shiny.png"
-hash = "ff2b06fa0f638aeb02a483c52c88655f4e7e1edbaf59cb9b3eca3a0e3dc13d17"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/lycanroc/lycanroc.png"
-hash = "9f2a6c2d1a5885cb264721b748aabd143a485e63672e8e2a4635b1407098ee32"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/lycanroc/lycanroc_dusk.png"
 hash = "f63e8f03ee03fc532b4943c9afa389b6cc852ff3b0e0e57d837368db0fccbcdb"
 
@@ -14515,10 +11875,6 @@ hash = "c605bf02cc4977fdcf1ea44683483bc29c55056bb066e5ab594fc1768ab43ece"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/lycanroc/lycanroc_midnight_shiny.png"
 hash = "039ebe744fdb44a3dab0c74bbd24ea7706fad1ce5e5b4c6158026954f876da8f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/lycanroc/lycanroc_shiny.png"
-hash = "607d00dd9e2061ef9f9941db5fe9da8019872e551c1a24cb3aaaf06fa2587228"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/manaphy/manaphy.png"
@@ -14553,18 +11909,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/mareanie/mareanie_shiny_emissiv
 hash = "a459ea3ae22a400551c2eac7229a39e37395405cb2dc2c43ee94fcfc967277c4"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/marill/marill.png"
-hash = "6d2c76c6d4ddead491f8f3b05921bd4acf97c74f10f38b27839d68e0420f452a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/marill/marill_shiny.png"
-hash = "e3b06438bb1a554fdcab8cb27c62afb4f84d91dd855caa6f777a35d83a2d1c69"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/marowak/marowak_alolan.png"
-hash = "3e1dd6eeab7ec1e5297b8d4696ce294eb7646f71a2e5174e846aac5a25d8fcfe"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/marowak/marowak_alolan_emissive_1.png"
 hash = "71270dcd6acefcc631ae7f8cfbf38fd660665378c3b1bb35067a493c33a51a32"
 
@@ -14597,10 +11941,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/marowak/marowak_alolan_emissive
 hash = "25495fb2d14e0709f8bbd7331e9fecddf0fa68cb5206844f0e335a0605f0061d"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/marowak/marowak_alolan_shiny.png"
-hash = "f72ca1ea9f0ea0f5f35c1020512a739153345f2b302204036ac39deddfcd4996"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/marshadow/marshadow.png"
 hash = "2f754abc2a1160998da30c2fab059938840c9de7e3a1e9fdef6be081852fd749"
 
@@ -14611,22 +11951,6 @@ hash = "fee177efeb39feaf89faf3e87462787c390358613acdce943e09d1d4b95eeff1"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/marshadow/marshadow_shiny.png"
 hash = "080f8364a15c4b52ff465a6bd05b6d85d290ec7479816d3988a73414a2a93c9e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/medicham/medicham.png"
-hash = "6967f5d71719cb01ec76b54d17ce0fffab72111ddd66c0f14ec647c26c1881d5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/medicham/medicham_shiny.png"
-hash = "67d9d6cf663abfbf0b228d3085c0ddb2a162df531486aa473318b3fcbe0d751b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/meditite/meditite.png"
-hash = "54b10b70c347b28cd3bc5b1588f817dfb656ecc99497a29ed06fc0479ce3c1c5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/meditite/meditite_shiny.png"
-hash = "929e7975cd7f15043ffbb908558c5753debf60e7a754a4964c8a44b3816675f7"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/megarayquaza/megarayquaza.png"
@@ -14661,18 +11985,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/meltan/meltan_shiny.png"
 hash = "69946ffaf3a469605fc06185bdc272f205ed55d834f492908375e77406a23828"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/meowstic/meowstic_f.png"
-hash = "c96ac7e96b66c4261bfc708b6898615c63c86cf2af1e84f75bae3519f7501c1e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/meowstic/meowstic_f_shiny.png"
-hash = "51c0c6577242e7ec43f3d5320f9feffc285d7a3672be0f09fd668e73add023be"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/meowstic/meowstic_glow_f.png"
-hash = "de4edb24119668276a45fa781b3763950835ab395c4e4c77c4c2b624ad217017"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/meowstic/meowstic_glow_m.png"
 hash = "727395e029dbc490c119edc1f9fb877954ccb35fa8e61885faddcde93e0a4dd8"
 
@@ -14683,38 +11995,6 @@ hash = "91125a19e9ccd1b0e607310c66b3d12df6d2dca8be577c04bc80c5c79c9f9b8b"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/meowstic/meowstic_m_shiny.png"
 hash = "07b263d57efff30fa77731237bf904c83887472856584197a8756a9cec791573"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/milotic/milotic.png"
-hash = "c3feaa1c86631dc9a21bad363390836670151c972750a42e0ca6ff8c309b5257"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/milotic/milotic_shiny.png"
-hash = "b50be7c647f5cee87ebbec5d650d0a4cbe0d4bdaf0012019dfc59a16db5bf9d6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/minccino/minccino.png"
-hash = "9fe76ae3718e86de1265bcb5293e6e304350f43c016322663af0c85c2f299d68"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/minccino/minccino_shiny.png"
-hash = "92f6c9b6ebee3a411099e77a2f9a14c91946b7ad36580676373581462a341a52"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/moltres/moltres2.png"
-hash = "1d270dc7498a2657dba8233408705a288f8d97fe1fbd9902848b12dc1c254d1e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/moltres/moltres2_emissive.png"
-hash = "5d22e8f3f65ab02ec811114eacb767906b00a73e62d64c962c0ef05a380c63e3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/moltres/moltres2_shiny.png"
-hash = "75277b1e93da56dd1582be3f81296b42e3888be7b76a0b89badb86bf4422622a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/moltres/moltres2_shiny_emissive.png"
-hash = "e9cfd4c7ae35b3001bc67aaba571a1cc7e109528885784a59233e0e14088615e"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/moltres/moltres_galar.png"
@@ -14731,62 +12011,6 @@ hash = "be2dc96799fcf2b6c67028c15864334b5133ff1da7695a60c1854ccdae43a28d"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/moltres/moltres_galar_shiny_emissive.png"
 hash = "ba85aa9ef351951b89baf88947792650354b348c55b27285a830e4d103aadb7c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/morpeko/morpeko.png"
-hash = "0a15512e41188dbf1769bfb1de3408147569445f885421ce1ad638f742e78477"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/morpeko/morpeko_shiny.png"
-hash = "6915951adc9625eb3ba7aaf297fa202ba0e4c32b36499bfccc165b96721d36c1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/mrmime/mrmime_galarian.png"
-hash = "59887bb2eae664f19dddbcb851ee8bd0f5af681dc8c12d63aa09244b048b6af2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/mrmime/mrmime_galarian_shiny.png"
-hash = "dc37b4e32d2e8d266b637a1b29758c864f9e39ecf9d840368ee2bfdbeb3e945d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/mrrime/mrrime.png"
-hash = "3cef6a68ea48d9d843fbad06a33f14bb0a351b09a6878d80423f68e53f6f0d50"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/mrrime/mrrime_shiny.png"
-hash = "311ca366044ec22d7d3d3c80679424fbf56c8fabf3a49e8a33c010f7f2591d0c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/muk/muk_alolan.png"
-hash = "a051baaede771bf649a2cd4712f45a2ec2fa4e54e7bb00a79dc467e3d9aed723"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/muk/muk_alolan_shiny.png"
-hash = "2ae49d5a5fe7976a096a55cbb7b92af460e343d797ea10068263706babd83f25"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/munna/munna.png"
-hash = "dc563b016b92a5bdff22257f4c799c4754e24d99c524ac92925b48c13d280cf0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/munna/munna_shiny.png"
-hash = "135cbe23b42e6e981cc61221bfc850bcd05efeae849ebb09aa2c3502b521aabe"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/musharna/musharna.png"
-hash = "4691df4d33c2aa3f20873f69c79d896a77407552e5cdc399240b024d3ee20d8c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/musharna/musharna_shiny.png"
-hash = "4e01bc2e03080c77a48d1d74415d857a6d5aacff96ba480aa59c1e532a781f21"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/naganadel/naganadel.png"
-hash = "4850c1ed4d9d7815a5fe919676264109b172ecaf31165c7dd911e6af1ab671cc"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/naganadel/naganadel_shiny.png"
-hash = "d8e112528da479670dd54ab62eb93d9e42bd737d98c8c7a8e6e83c53ba257863"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/necrozma/necrozma.png"
@@ -14869,26 +12093,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/orbeetle/orbeetle_shiny_emissiv
 hash = "f46a95d8c9442816fa1e97c4f9e4e83e756829f2958e025aaf594356f453e8f8"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/orthworm/orthworm.png"
-hash = "feee657360f6f88f95590773b7429eb5d757929269c851ec3a96956640de1a87"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/orthworm/orthworm_shiny.png"
-hash = "f02baf54aeeecb881c397a1a8053d2790962b5bf37dd8e38797cf52f016056cf"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/palafin/palafin.png"
-hash = "b23c47d47115320438259ac39572cb840cd33abcef7477403d6033e51c86e517"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/palafin/palafin_shiny.png"
-hash = "a33c7740211d16aa8b7fb52aaddfbae963ecdae238359f742a57138203bc822d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/palossand/palossand.png"
-hash = "f5afbe85044b36c2cfc7d6992517e32eacd683b5cdba9bb2a7323ed1b857a644"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/palossand/palossand_mesa.png"
 hash = "2e141c80fee23e883e0c16dc6bf40f79e3f1d204382dbf991549ff436c05d4a1"
 
@@ -14921,14 +12125,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/pawmot/pawmot_shiny.png"
 hash = "dc94b52691f223e8e1316da2f019608c1407ef18c686b79452b3ed30c28bfb00"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/pawniard/pawniard.png"
-hash = "06a186f59a10738ebf1d16a8146b4af02258a2d966956dd9f5353b6f82296582"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/pawniard/pawniard_shiny.png"
-hash = "47746a23bbfa6e3203ba386802d9965cc4ed25abe01428ee5fbbb8247cb2eb61"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/pecharunt/pecharunt.png"
 hash = "44433b4c55f8c691d00f1c8e5e7bd5f856dda4bf32fb7b0fce87eb2a2ca00d7b"
 
@@ -14943,54 +12139,6 @@ hash = "e2941c86765234ea1c25928a086b1b506f00a3e30e096234cd1dc4fb80e0c9fc"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/phione/phione_shiny.png"
 hash = "5327ec6e7abb3a53a546d4d6c9d7e34bed8eb293070a30cc7d0f491fec26c108"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/poipole/poipole.png"
-hash = "01fb8260c6a446a3e87c40e833b091300ebc910e7bdd549f8eae2370de6ea0ea"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/poipole/poipole_shiny.png"
-hash = "81898084cc4054b32d3d032cf44d8e7d396c354389434f737136a1c175f2f1f8"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/poltchageist/poltchageist.png"
-hash = "97a43f9ea270fba820d75e6b4b176e70a2bca69c6ee057592a164f2d5450b0d0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/poltchageist/poltchageist_shiny.png"
-hash = "ef389f616a385b3669fda69c5cdf798607dfcc35768cb8d22d82c7ee8bf81086"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/purrloin/purrloin.png"
-hash = "abaa713965aa4e963c7c1855fa362e784eaa553dc7ec6dd537ed56b9a422710a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/purrloin/purrloin_shiny.png"
-hash = "8e14e82bb4531a5ef87dd492e67962d4c07372b5c1c30b836a529e4550df67d1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/purugly/purugly.png"
-hash = "2c30adb1ddc6e3bc892eed7ff6f0859b6d38f505054aa24145b96612dcafe12e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/purugly/purugly_shiny.png"
-hash = "95a5148b7159e27a534c6da7088957e5d6a2a7d2778a16ba273afb90d1be30a9"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/pyroar/pyroar_f.png"
-hash = "c48021783c90f845745de4d5f8a7bb98f3fb4e781c062c002b9eeb11ca1dbef3"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/pyroar/pyroar_f_glow.png"
-hash = "c63e25c130c8331086d572651925895fec13e5ace9edf35c7d446e7a2122b203"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/pyroar/pyroar_f_shiny.png"
-hash = "579642dbd4b0b35a10707b0bdd14c50889f7b04b24bb67ad82d85fadcc86de5b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/pyroar/pyroar_f_shiny_glow.png"
-hash = "7379c0fb43bfcf20261b228effc6dc6c7f67712d888ab752dd6c6cb60b039a36"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/pyroar/pyroar_m.png"
@@ -15011,14 +12159,6 @@ hash = "4cca92bcad71e9918bb61bc70f5f11f6f61a87d2f467dd16e62ce964657d2df2"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/ragingbolt/ragingbolt.png"
 hash = "7d2dd6254841b6d1294884aa581fd72f8dc0c4657a5239d8a09d59540f392850"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/rayquaza/rayquaza.png"
-hash = "82b00771077fe68c08298e7aa60bb67c0d66760a0299e25e20766c1251064555"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/rayquaza/rayquaza_shiny.png"
-hash = "2fe71187f8064d10d878a5c137b4dc6c2bd2a1d23ba9a2e1020e2d94afa257da"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/regice/regice.png"
@@ -15077,26 +12217,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/reshiram/reshiram_shiny.png"
 hash = "9acf5a216f5f50ac7160c1aec00da5c54251c2a0dc2a2ed2bcb70192b8c4aa74"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/reuniclus/reuniclus.png"
-hash = "115b2a4809a4d265466b89a0d8777e10be04a3e3206e7f3fcb5bfafebb12ff7f"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/reuniclus/reuniclus_shiny.png"
-hash = "a207da367fdf4160b2d51a305fe99175fb64555889d487c1650799cab50be30a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/rockruff/rockruff.png"
-hash = "7f17e2f06ce42a626f41ae7d3582905f2355d0a809b494447d35e74a18700f96"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/rockruff/rockruff_shiny.png"
-hash = "3321a9edaa5aaa65d7d0f62255ab25b9c1de7420f2fb2c0c6c3a9581be2cf62e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/sandygast/sandygast.png"
-hash = "a02f08501a4a131751169088c691ab725f5b603e6498f5be78f982f3fd422b3c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/sandygast/sandygast_mesa.png"
 hash = "b9350e8ed6cd1ede96cf22ae8fb00511560fdb1e6ab3ba6d9c752061b6379cc8"
 
@@ -15105,28 +12225,12 @@ file = "kubejs/assets/cobblemon/textures/pokemon/sandygast/sandygast_shiny.png"
 hash = "f1f281774e4619ddb812425b6705745e13b5b014a627dc587ff1064a84f4818c"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/scovillain/scovillain.png"
-hash = "c0b4c0249d0b6d32815e65f1909bdd27ce07caca0963c878901a97eff5ee53c1"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/scovillain/scovillain_shiny.png"
-hash = "3ff1897c924052e120b5a21a721c8aeaf6945d8c858a860a7f9299ae4f43c92e"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/screamtail/screamtail.png"
 hash = "f40808cc105bcf0c7ca825986d7ac1e81da0cc2efd288a0226f41c0b5a027ca3"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/screamtail/screamtail_shiny.png"
 hash = "8959de7ef669f9fe828b5885d5a85cd28b9aac9c76a40a63376c57ac04836f8c"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/sewaddle/sewaddle.png"
-hash = "4bca03566e0ea8cefefbbe6fdae957cf1ef5108303479c2e2d3d5f34322c8d4e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/sewaddle/sewaddle_shiny.png"
-hash = "f079da24031b221f5f63be78cc4145d7717c6c3cc2926fb0eb420cc68c07f472"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/shaymin/shaymin.png"
@@ -15145,14 +12249,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/shaymin/shaymin_sky_shiny.png"
 hash = "228ed6d5b6076bec29a51f429759f277bed4591ddec88f118dbe10b6a2e2d0d3"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/shellos/shellos_e.png"
-hash = "4e0675083540a2035c2076acd6b531e0229dffbef199852eef9c86a8e2af17b5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/shellos/shellos_shiny.png"
-hash = "1e8f375d68b6028a90a99581163575e6ed2283764175095595b9730accad00e3"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/shellos/shellos_w.png"
 hash = "95f0ba80de13bcc7d9a6f7a802a882a2993505294757ce2821fc6e6b547e0b6d"
 
@@ -15161,80 +12257,8 @@ file = "kubejs/assets/cobblemon/textures/pokemon/shellos/shellos_w_shiny.png"
 hash = "1563d08763a7e0b0dffcf8f86773f8f64e9d723ea296f54eb83665e4430554fe"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/sinistcha/sinistcha.png"
-hash = "f68a1136ad230ab22881e847b2c4f625bb77cfdace5106cf40241a6e09dcd403"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/sinistcha/sinistcha_shiny.png"
-hash = "5f479a96179007cf2b64c1e6558e63d46364364212d521195aaef0fe7c7e90fe"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skiddo/skiddo.png"
-hash = "972ff58795c9ae83325323de8557393828acfab5f03d128a08ca6a7be521cf78"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/skiddo/skiddo_kristmas.png"
 hash = "4cb4e38780884fc45ab799e17fb863da200b7d101cbc98673747e5e9f0d3b40b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skiddo/skiddo_shiny.png"
-hash = "3afc0ad110b6c52e1c1a0dadb03654b677b3e2cdb2eda1af26e10e8c2856940a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skiploom/skiploom.png"
-hash = "b0a84b1869511ca1d1b361de7e4308854c89ebaa27ad30822d8a6b943bd0a241"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skiploom/skiploom_shiny.png"
-hash = "b906ed7b5198335b8f5972c2d9dfe30cdce297d1b51f8d17b74ddf767761b380"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skitty/skitty.png"
-hash = "55572631ed78d6242d9cacba8d3fed077ae1fc75d4edc2c89600ee8832d130cb"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skitty/skitty_shiny.png"
-hash = "0222f0b0baf3888835b221d179ce7d55dc7a45e7183d022e53db0e415b7fe248"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skorupi/skorupi.png"
-hash = "66d659101eab9cad83e5bde885cfc565540fcbb17739ce48bac83e9a1af8b301"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skorupi/skorupi_shiny.png"
-hash = "8a54b27c2fe80e5ea5bea5f9be2f55424f42c21a110d580ad2c6af6513cd3dfa"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skuntank/skuntank.png"
-hash = "e53657e832f412eb1dbdd38447db1419aeff3e65174c8ca878f196e7acdb5d75"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/skuntank/skuntank_shiny.png"
-hash = "0a8612d62f2269c581ca3da8ce3439d8d0792cfee194d7fa8d752e36aa6248c7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/slowbro/slowbro_galarian.png"
-hash = "08119131c701621867fc55b2c2e1e52a498f184d2571800d7f11d14fb73af846"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/slowbro/slowbro_galarian_shiny.png"
-hash = "290b76ca3e71c56529f7a34b8454726fc02fc93359c5a0467e2dcf1ad6eb1f63"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/slowking/slowking_galarian.png"
-hash = "efb842d51f63c204f8261243778e57cb58f73137c00515a86153886838f6c932"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/slowking/slowking_galarian_shiny.png"
-hash = "ed162b6bbfeba60b858a509d3fe58ad346888305ae690ded9d8735b41ef5bcb7"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/slowpoke/slowpoke_galarian.png"
-hash = "6be1f792625891261606e4563553dc8e9db74284093bac2bc08709c163b2501a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/slowpoke/slowpoke_galarian_shiny.png"
-hash = "3cca4dd0502521e18958f28512b760b64751e4634c39193f250914f6deb212c0"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/snorunt/snorunt.png"
@@ -15245,48 +12269,12 @@ file = "kubejs/assets/cobblemon/textures/pokemon/snorunt/snorunt_shiny.png"
 hash = "375ecae0d2357dbf7cbe9ecac232a4e361db61aebec6fb9991bce48d3dd7935a"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/solosis/solosis.png"
-hash = "7e480e0a78a6fcbe6191b09f0f743afc0721ab8008f77cfa5bca337c9bebfa14"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/solosis/solosis_shiny.png"
-hash = "bed69cea4eb8b9cdf7b30e8e129f0920e0e6fc6a509ae3d952aa4e405f016747"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/stunky/stunky.png"
-hash = "ef44646c7732f9668b80772f59e3b5d7c6301e3ec52665cd39e21d005200863e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/stunky/stunky_shiny.png"
-hash = "8c60b7a225a45ead0419379bca593aded0b73dabc19a29873fc1836d7ab86d1e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/swadloon/swadloon.png"
-hash = "0e85e3181b5f462dea3023a4b0b611a3c818a09cbc3aaca868ca6be04082a69d"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/swadloon/swadloon_shiny.png"
-hash = "ec140bf747ceab9fa52445c410917ee38d5e77041510ac3ff09881e4ab00cd18"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/swanna/swanna.png"
 hash = "f413f9650173014ea5cba38235ae9eda912fc81f0634269676520160ad120bb6"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/swanna/swanna_shiny.png"
 hash = "ecf32f8f52bb050d8569d33f1d49b7c60cbcfa13bc622d0945b0f7220fa4e5b6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/tadbulb/tadbulb.png"
-hash = "2e0ba897d950d8d0d755e56be66974983c5049fc9f50780aed9256bf6ef638a5"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/tadbulb/tadbulb_emissive.png"
-hash = "5bfc8ebb09ebeafc396dd4b8d56c25b5961ab57ee3e15476fa0d25606f216b93"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/tadbulb/tadbulb_shiny.png"
-hash = "3681437ff5a0b839933a0789722966e810891422307cd5f44f77ae042893631d"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/tauros/tauros_aqua.png"
@@ -15329,14 +12317,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/thundurus/thundurus_shiny.png"
 hash = "26f827f851a7d72772c59c79d4d8aecc30881f5d298c49e71faafb1d928fd724"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/togedemaru/togedemaru.png"
-hash = "9c5186a6f9d8bd1bb802d841a2a5a28216f35f8d232c06839707eae8e5c7ed18"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/togedemaru/togedemaru_shiny.png"
-hash = "5527f4780c26ee6c15db17d081888a1061065d2866da6fee2ec1d00c4ecd45e4"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/tornadus/tornadus.png"
 hash = "a15f354adb3f5f301df8f7c3e2b59f06c74049fa313d7f6065a4424638df0fdc"
 
@@ -15361,36 +12341,12 @@ file = "kubejs/assets/cobblemon/textures/pokemon/toxapex/toxapex_shiny.png"
 hash = "9c9227ed2d1a1a75cd6888660fdd68ee62a081593cc8dc4c28364f932cee5a68"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/toxel/toxel.png"
-hash = "17558e1a330d28627e5b0dc8452c19b3f3a5f8e66cf2eef347d11cc7bdf3a87a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/toxel/toxel_shiny.png"
-hash = "81874f9fa7276f3a0d1d6adbc95bb739dc8743e1a5cdbb2e26dcaa24fc0899ff"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/toxtricity/toxtricitya.png"
-hash = "8be7706b9087bcb031ddbda1865cad7e85f6084bc1a46af1c6aa139284f7bfc6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/toxtricity/toxtricitya_shiny.png"
-hash = "64e8aaf4e18ab25da83e04fdd0a2ac4369ca69dbb53a40ffb3e0440854359300"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/toxtricity/toxtricityb.png"
 hash = "c60189f5a01395086f4a8718551e1391e9b95e34cc3a6a25dd7ccfa83967cf25"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/toxtricity/toxtricityb_shiny.png"
 hash = "ca2557386990ee98b30da9196e247bec0a3fc2b41ba8778674436ff57964538a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/tynamo/tynamo.png"
-hash = "6ffa528b05990f578e7c9c33bb7f513f0294b032c8d6607b0ff73510480eeeaf"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/tynamo/tynamo_shiny.png"
-hash = "f5a5cfc061e53c941cbfa6f31b3cef9e7a1834605180dfb22fd50852316514da"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/ursaluna_bloodmoon/ursaluna_bloodmoon.png"
@@ -15417,14 +12373,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/urshifurs/urshifurs_shiny.png"
 hash = "9de9d0e1249df1e17a60f54197a9232e6fc1bbb6dd245e3f2b68a1a0441ce31f"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/veluza/veluza.png"
-hash = "54079e451dce79fdb614644d7035b450550f4b9b824f41a399bfbdc6eb511946"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/veluza/veluza_shiny.png"
-hash = "336e1377f746dae5ec22cfec7fc6362109514b72b424637e45c7a7cf9ce64548"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/volcanion/volcanion.png"
 hash = "6bda6a255b67ef55673e8646dfb40e089b0bfef15748ed227bb5d3e1e024d996"
 
@@ -15441,30 +12389,6 @@ file = "kubejs/assets/cobblemon/textures/pokemon/vullaby/vullaby_shiny.png"
 hash = "90cf87468cc7e454570f4dc2fb9d097f4a3da9abcc5c3ff93ad1742742feddf7"
 
 [[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/wattrel/wattrel.png"
-hash = "6496104d45a20c97b02d0f0079d54c4f91eae8e86bb295dce408969f0cdd4879"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/wattrel/wattrel_shiny.png"
-hash = "85a7615cd033efa9389ab62eedb71b1f10db7b4487b8d20885158e3fb3cd8d6a"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/wiglett/wiglett.png"
-hash = "c392bda07476f95b7cc386668dd5e7fce5efb72a1bc64386c687df457f5d3b12"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/wiglett/wiglett_shiny.png"
-hash = "3c7635a089ff04e326e57f7dfb476889c3adef993bc6edca619687e75425d2f0"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/wugtrio/wugtrio.png"
-hash = "9ed037faaca1271f056e7ffd3f9beee4d1240ff97c7bc398f701807865db735e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/wugtrio/wugtrio_shiny.png"
-hash = "b6169f5c869ed77ed402fcfd80c7d97444bdeda81913e6b1483964459244d94c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/xurkitree/xurkitree.png"
 hash = "eb2c4f4c6a6ab6bfae56f8e9d2995287e8f707385daf0b60c825bda3d50d23b3"
 
@@ -15475,14 +12399,6 @@ hash = "67f9b11c0b2b101e6ef1e23e8396bb94c5e26f387a03d44e131f3e6b6000c6b0"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/xurkitree/xurkitree_shiny.png"
 hash = "6bb5b43fb7691a50c2674c4fd2d9b63eb6497f8802fd532ec226abeaacf9a5d6"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/zapdos/zapdos2.png"
-hash = "c4f65d3fa842f8f41f17687640d0931b3dced14d6f4061f98f9ba1e0add67577"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/zapdos/zapdos2_shiny.png"
-hash = "c55af3622c62c9ba4bfceb47303268b7916222b56e03a4f4a0234fbf8df116d8"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/zapdos/zapdos_galar.png"

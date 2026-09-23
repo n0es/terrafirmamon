@@ -76982,7 +76982,7 @@ hash = "cd19e6b241a3ec02074920d867905e1decba1b845fde44eb487e4d41bdd7914a"
 
 [[files]]
 file = "kubejs/startup_scripts/cobblemon/spawns.climate.js"
-hash = "061446068d11f9b67734c6eadb9593566dcaaf44a4c659a896ac0cc0cfd9607c"
+hash = "ad01f13fc518365e4385ed7d09260aca40cc050dffd222fd9a9b5c5e47200b65"
 
 [[files]]
 file = "kubejs/startup_scripts/computer_craft/constants.js"

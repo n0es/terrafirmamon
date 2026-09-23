@@ -173,7 +173,19 @@ const registerCobblemonClimateGate = () => {
 			}
 			if (pokemon === null) return
 
-			var context = event.getCtx()
+			// Cobblemon 1.8 renamed SpawnEvent.ctx to spawnablePosition. Both
+			// carry the same world and position, so try the current name first
+			// and fall back to the old one rather than pinning to one version.
+			// Getting this wrong is invisible: the catch below fails the spawn
+			// open, so a rename reads as "no gate at all", which is exactly how
+			// this sat broken after the 1.8 update.
+			var context = null
+			try {
+				context = event.getSpawnablePosition()
+			} catch (beforeTheRename) {
+				context = event.getCtx()
+			}
+
 			var level = context.getWorld()
 			if (String(level.dimension) !== global.COBBLEMON_CLIMATE_DIMENSION) return
 

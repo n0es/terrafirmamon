@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:sandygast",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "redsand"
+      ],
+      "texture": "cobblemon:textures/pokemon/0769_sandygast/sandygast_red_sand.png"
+    },
+    {
+      "aspects": [
+        "redsand",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0769_sandygast/sandygast_shiny.png"
+    }
+  ]
+}

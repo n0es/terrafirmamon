@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:palossand",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "redsand"
+      ],
+      "texture": "cobblemon:textures/pokemon/0770_palossand/palossand_red_sand.png"
+    },
+    {
+      "aspects": [
+        "redsand",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0770_palossand/palossand_shiny.png"
+    }
+  ]
+}

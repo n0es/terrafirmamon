@@ -1,6 +1,6 @@
 name = "FpsReducer2-forge-1.20.1-2.5.1"
 filename = "FpsReducer2-forge-1.20.1-2.5.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/UfMtCXs7/FpsReducer2-forge-1.20.1-2.5.1.jar"

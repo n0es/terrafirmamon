@@ -1,6 +1,6 @@
 name = "fast-ip-ping-v1.0.11-mc1.20.4-forge"
 filename = "fast-ip-ping-v1.0.11-mc1.20.4-forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/9mtu0sUO/versions/WVhGsL3a/fast-ip-ping-v1.0.11-mc1.20.4-forge.jar"

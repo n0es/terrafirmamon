@@ -1,6 +1,6 @@
 name = "emi-1.1.24-1.20.1-forge"
 filename = "emi-1.1.24+1.20.1+forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/Axuu9I9R/emi-1.1.24%2B1.20.1%2Bforge.jar"

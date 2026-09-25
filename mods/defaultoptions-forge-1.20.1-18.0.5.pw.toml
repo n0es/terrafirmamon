@@ -1,6 +1,6 @@
 name = "defaultoptions-forge-1.20.1-18.0.5"
 filename = "defaultoptions-forge-1.20.1-18.0.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/8286/304/defaultoptions-forge-1.20.1-18.0.5.jar"

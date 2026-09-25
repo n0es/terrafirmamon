@@ -1,6 +1,6 @@
 name = "ItemPhysicLite_FORGE_v1.6.11_mc1.20.1"
 filename = "ItemPhysicLite_FORGE_v1.6.11_mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/OuyCgP8t/versions/Zh7HJ29w/ItemPhysicLite_FORGE_v1.6.11_mc1.20.1.jar"

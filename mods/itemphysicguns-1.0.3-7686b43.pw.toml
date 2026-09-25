@@ -1,6 +1,6 @@
 name = "itemphysicguns-1.0.3-7686b43"
 filename = "itemphysicguns-1.0.3-7686b43.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/P5jUo1gr/versions/72ExnjER/itemphysicguns-1.0.3-7686b43.jar"

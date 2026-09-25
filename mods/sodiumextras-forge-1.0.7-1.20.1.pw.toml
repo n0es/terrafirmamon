@@ -1,6 +1,6 @@
 name = "sodiumextras-forge-1.0.7-1.20.1"
 filename = "sodiumextras-forge-1.0.7-1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vqqx0QiE/versions/VNFB2Vgv/sodiumextras-forge-1.0.7-1.20.1.jar"

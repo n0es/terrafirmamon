@@ -1,6 +1,6 @@
 name = "ExtremeSoundMuffler-3.51-forge-1.20.1"
 filename = "ExtremeSoundMuffler-3.51-forge-1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/drxm9tKI/ExtremeSoundMuffler-3.51-forge-1.20.1.jar"

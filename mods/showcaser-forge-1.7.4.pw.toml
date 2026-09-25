@@ -1,6 +1,6 @@
 name = "showcaser-forge-1.7.4"
 filename = "showcaser-forge-1.7.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/30nNcI5E/versions/UHa1C89Q/showcaser-forge-1.7.4.jar"

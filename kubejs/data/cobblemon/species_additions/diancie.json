@@ -8,5 +8,19 @@
         "quantityRange": "1-2"
       }
     ]
+  },
+  "shoulderMountable": false,
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.33
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-7"
+    }
   }
 }

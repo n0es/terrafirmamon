@@ -39,5 +39,6 @@
         "item": "cobblemon:miracle_seed"
       }
     ]
-  }
+  },
+  "shoulderMountable": false
 }

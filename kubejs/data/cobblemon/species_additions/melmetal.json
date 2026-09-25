@@ -34,5 +34,6 @@
         "canBreatheUnderwater": false
       }
     }
-  }
+  },
+  "shoulderMountable": false
 }

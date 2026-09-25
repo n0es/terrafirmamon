@@ -11,5 +11,6 @@
         "item": "cobblemon:hard_stone"
       }
     ]
-  }
+  },
+  "shoulderMountable": false
 }

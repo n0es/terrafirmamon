@@ -18,5 +18,23 @@
         "percentage": 35.0
       }
     ]
+  },
+  "shoulderMountable": false,
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "canWalk": true,
+        "walkSpeed": 2
+      },
+      "fly": {
+        "canFly": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": true,
+      "depth": "normal",
+      "light": "0-4"
+    }
   }
 }

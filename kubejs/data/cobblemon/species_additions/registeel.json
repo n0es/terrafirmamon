@@ -11,5 +11,6 @@
         "item": "cobblemon:metal_coat"
       }
     ]
-  }
+  },
+  "shoulderMountable": false
 }

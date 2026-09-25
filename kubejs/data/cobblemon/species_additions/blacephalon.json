@@ -24,5 +24,15 @@
         "canBreatheUnderwater": false
       }
     }
+  },
+  "shoulderMountable": false,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:echo_shard",
+        "quantityRange": "1-3"
+      }
+    ]
   }
 }

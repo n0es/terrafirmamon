@@ -21,5 +21,6 @@
         "item": "cobblemon:reaper_cloth"
       }
     ]
-  }
+  },
+  "shoulderMountable": false
 }

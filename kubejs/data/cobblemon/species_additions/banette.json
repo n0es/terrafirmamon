@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:banette",
+  "shoulderMountable": false,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:spell_tag",
+        "percentage": 5
+      }
+    ]
+  }
+}

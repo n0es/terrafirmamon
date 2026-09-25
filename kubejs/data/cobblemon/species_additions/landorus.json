@@ -32,5 +32,6 @@
         "quantityRange": "2-3"
       }
     ]
-  }
+  },
+  "shoulderMountable": false
 }

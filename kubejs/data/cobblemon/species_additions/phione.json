@@ -11,5 +11,6 @@
         "item": "cobblemon:mystic_water"
       }
     ]
-  }
+  },
+  "shoulderMountable": false
 }

@@ -1,13 +1,13 @@
 {
-    "target": "cobblemon:cursola",
-  	"behaviour": {
+  "target": "cobblemon:cursola",
+  "behaviour": {
     "moving": {
       "canLook": false,
-		"walk": {
-			"walkSpeed": 0.200,
-            "canWalk": true,
-            "avoidsLand": false
-				},
+      "walk": {
+        "walkSpeed": 0.2,
+        "canWalk": true,
+        "avoidsLand": false
+      },
       "swim": {
         "swimSpeed": 0.1,
         "canSwimInWater": true,
@@ -15,12 +15,22 @@
       }
     }
   },
-    "preEvolution": "corsola form=galar",
+  "preEvolution": "corsola form=galar",
   "evolutions": [],
   "baseScale": 0.8,
   "hitbox": {
     "width": 1,
     "height": 1,
     "fixed": false
+  },
+  "shoulderMountable": false,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:kasib_berry",
+        "percentage": 5
+      }
+    ]
   }
 }

@@ -36,5 +36,8 @@
       "depth": "normal",
       "light": "0-4"
     }
-  }
+  },
+  "features": [
+    "mega"
+  ]
 }

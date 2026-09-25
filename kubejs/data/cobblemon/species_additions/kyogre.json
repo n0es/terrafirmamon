@@ -37,5 +37,8 @@
         "canBreatheUnderwater": true
       }
     }
-  }
+  },
+  "features": [
+    "primal"
+  ]
 }

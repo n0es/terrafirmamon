@@ -1,4 +1,7 @@
 {
   "target": "cobblemon:polteageist",
-  "shoulderMountable": false
+  "shoulderMountable": false,
+  "features": [
+    "is_antique"
+  ]
 }

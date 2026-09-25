@@ -19,5 +19,9 @@
       }
     ]
   },
-  "shoulderMountable": false
+  "shoulderMountable": false,
+  "features": [
+    "black",
+    "white"
+  ]
 }

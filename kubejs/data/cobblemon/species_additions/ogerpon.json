@@ -31,5 +31,11 @@
         "canBreatheUnderwater": false
       }
     }
-  }
+  },
+  "features": [
+    "teal",
+    "cornerstone",
+    "hearthflame",
+    "wellspring"
+  ]
 }

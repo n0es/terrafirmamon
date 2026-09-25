@@ -37,5 +37,8 @@
         "canBreatheUnderwater": false
       }
     }
-  }
+  },
+  "features": [
+    "rapidstrike"
+  ]
 }

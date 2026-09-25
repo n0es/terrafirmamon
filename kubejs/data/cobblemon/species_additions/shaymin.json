@@ -29,5 +29,8 @@
         "canBreatheUnderwater": false
       }
     }
-  }
+  },
+  "features": [
+    "sky"
+  ]
 }

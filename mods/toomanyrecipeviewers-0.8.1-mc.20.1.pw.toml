@@ -1,6 +1,6 @@
 name = "toomanyrecipeviewers-0.8.1-mc.20.1"
 filename = "toomanyrecipeviewers-0.8.1+mc.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yFypjcfd/versions/OncYLjJM/toomanyrecipeviewers-0.8.1%2Bmc.20.1.jar"

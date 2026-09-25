@@ -1,6 +1,6 @@
 name = "notenoughanimations-forge-1.12.4-mc1.20.1"
 filename = "notenoughanimations-forge-1.12.4-mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/buSDqSfQ/notenoughanimations-forge-1.12.4-mc1.20.1.jar"

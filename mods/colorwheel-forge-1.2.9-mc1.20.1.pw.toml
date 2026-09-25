@@ -1,6 +1,6 @@
 name = "colorwheel-forge-1.2.9-mc1.20.1"
 filename = "colorwheel-forge-1.2.9+mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/eveWpY7P/colorwheel-forge-1.2.9%2Bmc1.20.1.jar"

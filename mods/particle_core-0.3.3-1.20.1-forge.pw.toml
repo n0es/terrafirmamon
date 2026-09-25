@@ -1,6 +1,6 @@
 name = "particle_core-0.3.3-1.20.1-forge"
 filename = "particle_core-0.3.3+1.20.1+forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/RSeLon5O/versions/cFafZfyr/particle_core-0.3.3%2B1.20.1%2Bforge.jar"

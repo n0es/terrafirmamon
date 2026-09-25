@@ -1,6 +1,6 @@
 name = "emi_accelerator-1.0.1"
 filename = "emi_accelerator-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tcEn0k7K/versions/6oY5A4Iy/emi_accelerator-1.0.1.jar"

@@ -1,6 +1,6 @@
 name = "cwb-forge-3.0.0-mc1.20"
 filename = "cwb-forge-3.0.0+mc1.20.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/QzVMYIfG/cwb-forge-3.0.0%2Bmc1.20.jar"

@@ -1,6 +1,6 @@
 name = "skinlayers3d-forge-1.11.2-mc1.20.1"
 filename = "skinlayers3d-forge-1.11.2-mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/4oWvC9eo/skinlayers3d-forge-1.11.2-mc1.20.1.jar"

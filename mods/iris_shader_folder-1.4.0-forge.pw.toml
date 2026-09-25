@@ -1,6 +1,6 @@
 name = "iris_shader_folder-1.4.0-forge"
 filename = "iris_shader_folder-1.4.0-forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yv6sGJzN/versions/Rkn6BwcM/iris_shader_folder-1.4.0-forge.jar"

@@ -137,7 +137,7 @@
 	#a specific version regardless of what was recorded at generation time. 
 	#Changing this for an existing world can cause chunk boundary artifacts. 
 	#Format: list of "dimension_id=version", e.g. ["minecraft:overworld=1"]
-	worldgenOverrides = []
+	worldgenOverrides = ["minecraft:overworld=1"]
 
 [mars_climate]
 	#The chance that sand piles will accumulate during a sandstorm. Lower values = faster sand pile accumulation, but also more block updates (aka lag).

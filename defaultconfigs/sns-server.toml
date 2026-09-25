@@ -5,7 +5,7 @@
 		#Determines if this container will automatically pickup items
 		doPickup = true
 		#Determines if this container can void items on pickup
-		doVoiding = true
+		doVoiding = false
 		#Determines if this container can transfer items in an inventory
 		doInventoryTransfer = true
 		#Controls the amount of slots this container has
@@ -13,16 +13,16 @@
 		slotCount = 4
 		#Item stack max for the type of container
 		#Range: 1 ~ 512
-		slotCap = 32
+		slotCap = 16
 		#The maximum item size allowed in the container
 		#Allowed Values: TINY, VERY_SMALL, SMALL, NORMAL, LARGE, VERY_LARGE, HUGE
 		allowedSize = "SMALL"
 
 	["Container Item Config"."Leather Sack"]
 		#Determines if this container will automatically pickup items
-		doPickup = false
+		doPickup = true
 		#Determines if this container can void items on pickup
-		doVoiding = false
+		doVoiding = true
 		#Determines if this container can transfer items in an inventory
 		doInventoryTransfer = true
 		#Controls the amount of slots this container has
@@ -41,27 +41,27 @@
 		#Determines if this container can void items on pickup
 		doVoiding = true
 		#Determines if this container can transfer items in an inventory
-		doInventoryTransfer = false
+		doInventoryTransfer = true
 		#Controls the amount of slots this container has
 		#Range: 1 ~ 27
 		slotCount = 8
 		#Item stack max for the type of container
 		#Range: 1 ~ 512
-		slotCap = 48
+		slotCap = 64
 		#The maximum item size allowed in the container
 		#Allowed Values: TINY, VERY_SMALL, SMALL, NORMAL, LARGE, VERY_LARGE, HUGE
-		allowedSize = "SMALL"
+		allowedSize = "NORMAL"
 
 	["Container Item Config"."Ore Sack"]
 		#Determines if this container will automatically pickup items
 		doPickup = true
 		#Determines if this container can void items on pickup
-		doVoiding = false
+		doVoiding = true
 		#Determines if this container can transfer items in an inventory
 		doInventoryTransfer = true
 		#Controls the amount of slots this container has
 		#Range: 1 ~ 27
-		slotCount = 1
+		slotCount = 9
 		#Item stack max for the type of container
 		#Range: 1 ~ 512
 		slotCap = 512
@@ -81,18 +81,18 @@
 		slotCount = 27
 		#Item stack max for the type of container
 		#Range: 1 ~ 512
-		slotCap = 64
+		slotCap = 128
 		#The maximum item size allowed in the container
 		#Allowed Values: TINY, VERY_SMALL, SMALL, NORMAL, LARGE, VERY_LARGE, HUGE
 		allowedSize = "SMALL"
 
 	["Container Item Config"."Frame Pack"]
 		#Determines if this container will automatically pickup items
-		doPickup = false
+		doPickup = true
 		#Determines if this container can void items on pickup
-		doVoiding = false
+		doVoiding = true
 		#Determines if this container can transfer items in an inventory
-		doInventoryTransfer = false
+		doInventoryTransfer = true
 		#Controls the amount of slots this container has
 		#Range: 1 ~ 27
 		slotCount = 18
@@ -101,7 +101,7 @@
 		slotCap = 64
 		#The maximum item size allowed in the container
 		#Allowed Values: TINY, VERY_SMALL, SMALL, NORMAL, LARGE, VERY_LARGE, HUGE
-		allowedSize = "LARGE"
+		allowedSize = "VERY_LARGE"
 
 	["Container Item Config"."Lunch Box"]
 		#Determines if this container will automatically pickup items
@@ -126,7 +126,7 @@
 		#Determines if this container can void items on pickup
 		doVoiding = false
 		#Determines if this container can transfer items in an inventory
-		doInventoryTransfer = false
+		doInventoryTransfer = true
 		#Controls the amount of slots this container has
 		#Range: 1 ~ 27
 		slotCount = 8
@@ -140,10 +140,6 @@
 ["Boot config"]
 
 	["Boot config"."Hiking Boots"]
-		#The amount of 'steps' taken before one point of durability is lost
-		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
-		#Range: > 0
-		stepsPerDamage = 500
 		#The movement speed bonus these boots provide
 		#Range: 0.0 ~ 1024.0
 		movementSpeed = 0.05
@@ -153,12 +149,12 @@
 		#The extra fall distance in blocks before you begin taking fall damage
 		#Range: 0.0 ~ 64.0
 		fallPadding = 0.5
-
-	["Boot config"."Steel Toe Boots"]
 		#The amount of 'steps' taken before one point of durability is lost
 		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
 		#Range: > 0
-		stepsPerDamage = 750
+		stepsPerDamage = 2500
+
+	["Boot config"."Steel Toe Boots"]
 		#The movement speed bonus these boots provide
 		#Range: 0.0 ~ 1024.0
 		movementSpeed = 0.1
@@ -168,12 +164,12 @@
 		#The extra fall distance in blocks before you begin taking fall damage
 		#Range: 0.0 ~ 64.0
 		fallPadding = 1.0
-
-	["Boot config"."Black Steel Toe Boots"]
 		#The amount of 'steps' taken before one point of durability is lost
 		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
 		#Range: > 0
-		stepsPerDamage = 1000
+		stepsPerDamage = 3750
+
+	["Boot config"."Black Steel Toe Boots"]
 		#The movement speed bonus these boots provide
 		#Range: 0.0 ~ 1024.0
 		movementSpeed = 0.15
@@ -183,27 +179,27 @@
 		#The extra fall distance in blocks before you begin taking fall damage
 		#Range: 0.0 ~ 64.0
 		fallPadding = 2.0
+		#The amount of 'steps' taken before one point of durability is lost
+		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
+		#Range: > 0
+		stepsPerDamage = 5000
 
 	["Boot config"."Blue Steel Toe Boots"]
-		#The amount of 'steps' taken before one point of durability is lost
-		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
-		#Range: > 0
-		stepsPerDamage = 1500
 		#The movement speed bonus these boots provide
 		#Range: 0.0 ~ 1024.0
-		movementSpeed = 0.2
+		movementSpeed = 0.3
 		#The step height bonus these boots provide
 		#Range: 0.0 ~ 512.0
 		stepHeight = 0.5
 		#The extra fall distance in blocks before you begin taking fall damage
 		#Range: 0.0 ~ 64.0
 		fallPadding = 5.0
+		#The amount of 'steps' taken before one point of durability is lost
+		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
+		#Range: > 0
+		stepsPerDamage = 5000
 
 	["Boot config"."Red Steel Toe Boots"]
-		#The amount of 'steps' taken before one point of durability is lost
-		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
-		#Range: > 0
-		stepsPerDamage = 1500
 		#The movement speed bonus these boots provide
 		#Range: 0.0 ~ 1024.0
 		movementSpeed = 0.2
@@ -213,14 +209,14 @@
 		#The extra fall distance in blocks before you begin taking fall damage
 		#Range: 0.0 ~ 64.0
 		fallPadding = 5.0
+		#The amount of 'steps' taken before one point of durability is lost
+		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
+		#Range: > 0
+		stepsPerDamage = 10000
 
 ["Horseshoes config"]
 
 	["Horseshoes config"."Steel Horseshoes"]
-		#The amount of 'steps' taken before one point of durability is lost
-		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
-		#Range: > 0
-		stepsPerDamage = 750
 		#The movement speed bonus horseshoes provide
 		#Range: 0.0 ~ 1024.0
 		movementSpeed = 0.05
@@ -230,12 +226,12 @@
 		#The step height bonus these horseshoes provide
 		#Range: 0.0 ~ 512.0
 		stepHeightBonus = 0.0
-
-	["Horseshoes config"."Black Steel Horseshoes"]
 		#The amount of 'steps' taken before one point of durability is lost
 		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
 		#Range: > 0
-		stepsPerDamage = 1000
+		stepsPerDamage = 3750
+
+	["Horseshoes config"."Black Steel Horseshoes"]
 		#The movement speed bonus horseshoes provide
 		#Range: 0.0 ~ 1024.0
 		movementSpeed = 0.1
@@ -245,27 +241,27 @@
 		#The step height bonus these horseshoes provide
 		#Range: 0.0 ~ 512.0
 		stepHeightBonus = 0.0
+		#The amount of 'steps' taken before one point of durability is lost
+		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
+		#Range: > 0
+		stepsPerDamage = 5000
 
 	["Horseshoes config"."Blue Steel Horseshoes"]
-		#The amount of 'steps' taken before one point of durability is lost
-		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
-		#Range: > 0
-		stepsPerDamage = 1500
 		#The movement speed bonus horseshoes provide
 		#Range: 0.0 ~ 1024.0
-		movementSpeed = 0.2
+		movementSpeed = 0.25
 		#The fall distance bonus horseshoes provide
 		#Range: 0.0 ~ 64.0
 		bonusFallDistance = 5.0
 		#The step height bonus these horseshoes provide
 		#Range: 0.0 ~ 512.0
 		stepHeightBonus = 1.0
+		#The amount of 'steps' taken before one point of durability is lost
+		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
+		#Range: > 0
+		stepsPerDamage = 7500
 
 	["Horseshoes config"."Red Steel Horseshoes"]
-		#The amount of 'steps' taken before one point of durability is lost
-		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
-		#Range: > 0
-		stepsPerDamage = 1500
 		#The movement speed bonus horseshoes provide
 		#Range: 0.0 ~ 1024.0
 		movementSpeed = 0.2
@@ -275,6 +271,10 @@
 		#The step height bonus these horseshoes provide
 		#Range: 0.0 ~ 512.0
 		stepHeightBonus = 1.0
+		#The amount of 'steps' taken before one point of durability is lost
+		#Steps are defined as being any change in position while grounded between ticks (IE over 1 second 20 'steps' occur)
+		#Range: > 0
+		stepsPerDamage = 10000
 
 ["Global config"]
 	#Global control for automatic pickup, this will not force enable for every type

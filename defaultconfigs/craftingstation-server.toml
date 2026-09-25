@@ -3,5 +3,5 @@
 	#Are side inventories displayed in the crafting grid?
 	"display side inventories in crafting grid" = true
 	#Should Crafting Station only detect whitelisted blocks?
-	"use whitelist for detecting storage blocks" = false
+	"use whitelist for detecting storage blocks" = true
 

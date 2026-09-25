@@ -74,8 +74,19 @@ The two jars published on this repo's releases are the only ones that are ours t
 
 ## Releasing an update
 
-The pack carries a version number, shown under the logo on the main menu. It lives in exactly two
-files and they must not drift, so bump them together:
+First, check the pack has not lost its tuning:
+
+```
+python scripts/check_config_values.py
+```
+
+This pack is not stock mods with recipes on top — it rebalances Create's stress table, TFC's
+mould capacities and a good deal more, and those values have silently reverted to mod defaults
+twice. The script pins the ones that define how the pack plays and fails if any of them moves.
+If you changed one on purpose, update `EXPECTED` in the same commit.
+
+Then bump the version. It lives in exactly two files and they must not drift, so bump them
+together:
 
 ```
 python scripts/bump_version.py            # 1.2.1 -> 1.2.2

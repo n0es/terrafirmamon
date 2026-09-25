@@ -35,7 +35,9 @@
           "tfg:wood/log/beech",
           "tfg:wood/wood/beech"
         ],
-        "blacklist": []
+        "blacklist": [
+          "cobblemon:saccharine_log_slathered"
+        ]
       },
       "leavesFilter": {
         "whitelistedTags": [

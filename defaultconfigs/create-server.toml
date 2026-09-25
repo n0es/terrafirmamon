@@ -21,10 +21,10 @@
 	bulkCutting = false
 	#.
 	#Allow supported potions to be brewed by a Mechanical Mixer + Basin.
-	allowBrewingInMixer = true
+	allowBrewingInMixer = false
 	#.
 	#Allow any shapeless crafting recipes to be processed by a Mechanical Mixer + Basin.
-	allowShapelessInMixer = true
+	allowShapelessInMixer = false
 	#.
 	#Allow any single-ingredient 2x2 or 3x3 crafting recipes to be processed by a Mechanical Press + Basin.
 	allowShapedSquareInPress = true
@@ -50,10 +50,10 @@
 	lightSourceCountForRefinedRadiance = 10
 	#.
 	#Allow the standard in-world Refined Radiance recipes.
-	enableRefinedRadianceRecipe = true
+	enableRefinedRadianceRecipe = false
 	#.
 	#Allow the standard in-world Shadow Steel recipe.
-	enableShadowSteelRecipe = true
+	enableShadowSteelRecipe = false
 
 #.
 #Parameters and abilities of Create's kinetic mechanisms
@@ -65,15 +65,7 @@
 	#.
 	#Maximum length in blocks of mechanical belts.
 	#Range: > 5
-	maxBeltLength = 20
-	#.
-	#Maximum length in blocks of chain conveyor connections.
-	#Range: > 5
-	maxChainConveyorLength = 32
-	#.
-	#Maximum amount of connections each chain conveyor can have.
-	#Range: > 1
-	maxChainConveyorConnections = 4
+	maxBeltLength = 5
 	#.
 	#Damage dealt by active Crushing Wheels.
 	#Range: > 0
@@ -102,7 +94,7 @@
 	#.
 	#Number of sail-type blocks required to increase windmill speed by 1RPM.
 	#Range: > 1
-	windmillSailsPerRPM = 8
+	windmillSailsPerRPM = 4
 	#.
 	#Max Distance in blocks a Weighted Ejector can throw
 	#Range: > 0
@@ -111,6 +103,14 @@
 	#Time in ticks until the next item launched by an ejector scans blocks for potential collisions
 	#Range: > 10
 	ejectorScanInterval = 120
+	#.
+	#Maximum length in blocks of chain conveyor connections.
+	#Range: > 5
+	maxChainConveyorLength = 32
+	#.
+	#Maximum amount of connections each chain conveyor can have.
+	#Range: > 1
+	maxChainConveyorConnections = 4
 
 	#.
 	#Encased Fan
@@ -135,7 +135,7 @@
 		#.
 		#Game ticks required for a Fan-based processing recipe to take effect.
 		#Range: > 0
-		fanProcessingTime = 150
+		fanProcessingTime = 400
 
 	#.
 	#Moving Contraptions
@@ -155,7 +155,7 @@
 		#.
 		#Max length of rope available off a Rope Pulley.
 		#Range: > 1
-		maxRopeLength = 384
+		maxRopeLength = 400
 		#.
 		#Maximum allowed distance of two coupled minecarts.
 		#Range: > 1
@@ -205,7 +205,7 @@
 		syncPlayerPickupHitboxWithContraptionHitbox = false
 		#.
 		#Whether to prevent block dropping when contraption is placed inside in-world blocks.
-		noDropWhenContraptionReplaceBlocks = false
+		noDropWhenContraptionReplaceBlocks = true
 
 	#.
 	#Configure speed/capacity levels for requirements and indicators.
@@ -224,100 +224,100 @@
 		#[in Stress Units]
 		#Minimum stress impact to be considered 'medium'
 		#Range: 0.0 ~ 4096.0
-		mediumStressImpact = 4.0
+		mediumStressImpact = 1.0
 		#.
 		#[in Stress Units]
 		#Minimum stress impact to be considered 'high'
 		#Range: 0.0 ~ 65535.0
-		highStressImpact = 8.0
+		highStressImpact = 2.0
 		#.
 		#[in Stress Units]
 		#Minimum added Capacity by sources to be considered 'medium'
 		#Range: 0.0 ~ 4096.0
-		mediumCapacity = 256.0
+		mediumCapacity = 32.0
 		#.
 		#[in Stress Units]
 		#Minimum added Capacity by sources to be considered 'high'
 		#Range: 0.0 ~ 65535.0
-		highCapacity = 1024.0
+		highCapacity = 128.0
 
 	[kinetics.stressValues]
 
 		#.
 		#Fine tune the kinetic stats of individual components
 		[kinetics.stressValues.v2]
-			large_water_wheel = 8.0
-			steam_engine = 256.0
-			copper_valve_handle = 0.25
-			water_wheel = 1.0
+			large_water_wheel = 32.0
+			windmill_bearing = 16.0
+			hand_crank = 2.0
 			creative_motor = 2097152.0
-			hand_crank = 0.25
-			windmill_bearing = 128.0
+			water_wheel = 4.0
+			copper_valve_handle = 2.0
+			steam_engine = 16.0
 
 			#.
 			#.
 			#[in Stress Units]
 			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
 			[kinetics.stressValues.v2.impact]
-				brass_encased_shaft = 0.0
-				turntable = 4.0
-				clutch = 0.0
-				mechanical_mixer = 4.0
-				gearbox = 0.0
-				mechanical_bearing = 4.0
-				copper_backtank = 4.0
-				hose_pulley = 4.0
 				display_board = 0.0
-				crushing_wheel = 8.0
-				adjustable_chain_gearshift = 0.0
-				millstone = 4.0
-				rotation_speed_controller = 0.0
-				sticky_mechanical_piston = 4.0
-				mechanical_crafter = 2.0
-				deployer = 4.0
-				elevator_pulley = 4.0
-				stressometer = 0.0
-				cogwheel = 0.0
-				encased_chain_drive = 0.0
-				belt = 0.0
-				brass_encased_large_cogwheel = 0.0
-				weighted_ejector = 2.0
-				chain_conveyor = 1.0
-				mechanical_saw = 4.0
-				flywheel = 0.0
-				mechanical_piston = 4.0
+				deployer = 0.25
+				mechanical_piston = 0.5
+				millstone = 65535.0
+				mechanical_bearing = 0.5
+				clockwork_bearing = 0.5
+				cuckoo_clock = 0.125
 				speedometer = 0.0
-				brass_encased_cogwheel = 0.0
-				clockwork_bearing = 4.0
-				mechanical_press = 8.0
-				mechanical_drill = 4.0
-				andesite_encased_shaft = 0.0
-				netherite_backtank = 4.0
-				mechanical_arm = 2.0
-				sequenced_gearshift = 0.0
-				andesite_encased_large_cogwheel = 0.0
-				shaft = 0.0
-				cuckoo_clock = 1.0
-				gearshift = 0.0
-				rope_pulley = 4.0
-				andesite_encased_cogwheel = 0.0
-				large_cogwheel = 0.0
-				encased_fan = 2.0
-				mysterious_cuckoo_clock = 1.0
+				copper_backtank = 0.25
+				mechanical_saw = 65535.0
+				flywheel = 0.0
+				encased_chain_drive = 0.0
+				clutch = 0.0
+				encased_fan = 65535.0
+				adjustable_chain_gearshift = 0.0
+				mechanical_pump = 65535.0
+				crushing_wheel = 65535.0
+				mechanical_mixer = 65535.0
 				gantry_shaft = 0.0
-				mechanical_pump = 4.0
+				rope_pulley = 0.25
+				rotation_speed_controller = 0.0
+				mechanical_arm = 0.25
+				netherite_backtank = 0.25
+				andesite_encased_shaft = 65535.0
+				mechanical_press = 65535.0
+				large_cogwheel = 65535.0
+				mechanical_drill = 0.5
+				andesite_encased_large_cogwheel = 65535.0
+				brass_encased_large_cogwheel = 65535.0
+				mysterious_cuckoo_clock = 0.125
+				stressometer = 0.0
+				shaft = 65535.0
+				brass_encased_shaft = 65535.0
+				gearshift = 0.0
+				turntable = 0.25
+				sticky_mechanical_piston = 0.5
+				sequenced_gearshift = 0.0
+				weighted_ejector = 0.25
+				cogwheel = 65535.0
+				andesite_encased_cogwheel = 65535.0
+				belt = 65535.0
+				brass_encased_cogwheel = 65535.0
+				gearbox = 0.0
+				hose_pulley = 0.25
+				elevator_pulley = 0.25
+				mechanical_crafter = 0.125
+				chain_conveyor = 0.0
 
 			#.
 			#[in Stress Units]
 			#Configure how much stress a source can accommodate for.
 			[kinetics.stressValues.v2.capacity]
-				steam_engine = 1024.0
-				water_wheel = 32.0
-				copper_valve_handle = 8.0
-				hand_crank = 8.0
+				copper_valve_handle = 2.0
+				hand_crank = 2.0
+				steam_engine = 16.0
 				creative_motor = 16384.0
-				large_water_wheel = 128.0
-				windmill_bearing = 512.0
+				large_water_wheel = 32.0
+				water_wheel = 4.0
+				windmill_bearing = 16.0
 
 #.
 #Create's liquid manipulation tools
@@ -327,7 +327,7 @@
 	#[in Buckets]
 	#The amount of liquid a tank can hold per block.
 	#Range: > 1
-	fluidTankCapacity = 8
+	fluidTankCapacity = 32
 	#.
 	#[in Blocks]
 	#The maximum height a fluid tank can reach.
@@ -342,13 +342,13 @@
 	#[in Blocks]
 	#The maximum distance a hose pulley can draw fluid blocks from.
 	#Range: > 1
-	hosePulleyRange = 128
+	hosePulleyRange = 256
 	#.
 	#[in Blocks]
 	#[-1 to disable this behaviour]
 	#The minimum amount of fluid blocks the hose pulley needs to find before deeming it an infinite source.
 	#Range: > -1
-	hosePulleyBlockThreshold = 10000
+	hosePulleyBlockThreshold = 2000
 	#.
 	#Whether hose pulleys should continue filling up above-threshold sources.
 	fillInfinite = false
@@ -361,7 +361,7 @@
 	fluidFillPlaceFluidSourceBlocks = true
 	#.
 	#Whether open-ended pipes should be allowed to place fluid sources.
-	pipesPlaceFluidSourceBlocks = true
+	pipesPlaceFluidSourceBlocks = false
 
 #.
 #Tweaks for logistical components
@@ -380,10 +380,6 @@
 	#Range: > 1
 	mechanicalArmRange = 5
 	#.
-	#Maximum distance in blocks a Package Port can be placed at from its target.
-	#Range: > 1
-	packagePortRange = 5
-	#.
 	#Maximum possible range in blocks of redstone link connections.
 	#Range: > 1
 	linkRange = 256
@@ -396,20 +392,24 @@
 	#Range: 1 ~ 2048
 	vaultCapacity = 20
 	#.
-	#The amount of packages a chain conveyor can carry at a time.
-	#Range: > 1
-	chainConveyorCapacity = 20
-	#.
 	#The amount of ticks a brass tunnel waits between distributions.
 	#Range: 1 ~ 10
 	brassTunnelTimer = 10
 	#.
+	#Whether hostile mobs walking near a seat will start riding it.
+	seatHostileMobs = true
+	#.
+	#Maximum distance in blocks a Package Port can be placed at from its target.
+	#Range: > 1
+	packagePortRange = 5
+	#.
+	#The amount of packages a chain conveyor can carry at a time.
+	#Range: > 1
+	chainConveyorCapacity = 20
+	#.
 	#The amount of ticks a factory gauge waits between requests.
 	#Range: > 5
 	factoryGaugeTimer = 100
-	#.
-	#Whether hostile mobs walking near a seat will start riding it.
-	seatHostileMobs = true
 
 #.
 #Everything related to Schematic tools
@@ -421,12 +421,7 @@
 	#.
 	#The amount of Schematics a player can upload until previous ones are overwritten.
 	#Range: > 1
-	maxSchematics = 10
-	#.
-	#[in KiloBytes]
-	#The maximum allowed file size of uploaded Schematics.
-	#Range: > 16
-	maxTotalSchematicSize = 256
+	maxSchematics = 256
 	#.
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
@@ -436,6 +431,11 @@
 	#Amount of game ticks without new packets arriving until an active schematic upload process is discarded.
 	#Range: > 100
 	schematicIdleTimeout = 600
+	#.
+	#[in KiloBytes]
+	#The maximum allowed file size of uploaded Schematics.
+	#Range: > 16
+	maxTotalSchematicSize = 256
 
 	#.
 	#Schematicannon
@@ -468,7 +468,7 @@
 	#.
 	#The Maximum volume of Air that can be stored in a backtank = Seconds of underwater breathing
 	#Range: > 1
-	airInBacktank = 900
+	airInBacktank = 1200
 	#.
 	#The volume of Air added by each level of the backtanks Capacity Enchantment
 	#Range: > 1
@@ -492,7 +492,7 @@
 	#.
 	#Maximum length of track that can be placed as one batch or turn.
 	#Range: 16 ~ 128
-	maxTrackPlacementLength = 32
+	maxTrackPlacementLength = 128
 	#.
 	#Maximum length of a Train Stations' assembly track.
 	#Range: 5 ~ 512
@@ -504,7 +504,7 @@
 	#.
 	#Relative speed of a manually controlled Train compared to a Scheduled one.
 	#Range: 0.0 ~ 3.4028234663852886E38
-	manualTrainSpeedModifier = 0.75
+	manualTrainSpeedModifier = 1
 
 	#.
 	#Standard Trains
@@ -532,15 +532,15 @@
 		#[in Blocks/Second]
 		#The top speed of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTopSpeed = 40.0
+		poweredTrainTopSpeed = 56.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of powered Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTurningTopSpeed = 20.0
+		poweredTrainTurningTopSpeed = 28.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainAcceleration = 3.0
+		poweredTrainAcceleration = 6.0
 

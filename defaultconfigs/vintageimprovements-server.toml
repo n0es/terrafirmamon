@@ -35,17 +35,17 @@
 		[recipes.recipes.vibratingTable]
 			#.
 			#Allows reversible 4-to-1 and 9-to-1 packing crafts to be unpacked on the vibrating table.
-			allowUnpackingOnVibratingTable = true
+			allowUnpackingOnVibratingTable = false
 			#.
 			#Allows vibrating leaves on vibrating table to get matching drops.
-			allowVibratingLeaves = true
+			allowVibratingLeaves = false
 
 		#.
 		#Curving Press settings
 		[recipes.recipes.curvingPress]
 			#.
 			#Allows automatic recognize recipes for curving press
-			allowAutoCurvingRecipes = true
+			allowAutoCurvingRecipes = false
 			#.
 			#Amount of damage, that curving heads will get after auto recipe
 			#Range: 0 ~ 1000
@@ -81,16 +81,16 @@
 			#[in Stress Units]
 			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
 			[kinetics.stressValues.v2.impact]
-				lathe_moving = 4.0
-				vacuum_chamber = 4.0
-				spring_coiling_machine = 4.0
-				belt_grinder = 4.0
-				lathe = 2.0
-				helve_kinetic = 8.0
-				vibrating_table = 2.0
-				curving_press = 8.0
-				laser = 2.0
-				centrifuge = 2.0
+				laser = 0.25
+				belt_grinder = 0.25
+				vacuum_chamber = 0.5
+				lathe = 0.25
+				lathe_moving = 0.25
+				vibrating_table = 0.5
+				helve_kinetic = 0.5
+				curving_press = 0.5
+				spring_coiling_machine = 0.5
+				centrifuge = 0.5
 
 #.
 #Parameters and abilities of Vintage Improvements's energy mechanisms

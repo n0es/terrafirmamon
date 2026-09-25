@@ -105,7 +105,7 @@ element {
 
 element {
   interactable = true
-  source = Forge {"placeholder":"modversion","values":{"modid":"forge"}}%n%TerraFirmaMon &d1.2&r%n%Minecraft {"placeholder":"mcversion"}
+  source = Forge {"placeholder":"modversion","values":{"modid":"forge"}}%n%TerraFirmaMon &dv{"placeholder":"file_text","values":{"path_or_url":"/config/fancymenu/assets/version.txt","mode":"all"}}&r%n%Minecraft {"placeholder":"mcversion"}
   source_mode = direct
   shadow = true
   scale = 0.8

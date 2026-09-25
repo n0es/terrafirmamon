@@ -109,7 +109,7 @@
   "displayControlSeconds": 0,
   "infiniteRideStamina": false,
   "rememberRidingCamera": false,
-  "enableInFlightDismounting": false,
+  "enableInFlightDismounting": true,
   "enableDebugKeys": false,
   "despawnerNearDistance": 32.0,
   "despawnerFarDistance": 96.0,

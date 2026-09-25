@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.megarayquaza.pose": {
+		"animation.megarayquaza_atm.pose": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -268,7 +268,7 @@
 				}
 			}
 		},
-		"animation.megarayquaza.pose2": {
+		"animation.megarayquaza_atm.pose2": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -346,7 +346,7 @@
 				}
 			}
 		},
-		"animation.megarayquaza.ground_walk": {
+		"animation.megarayquaza_atm.ground_walk": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -619,7 +619,7 @@
 				}
 			}
 		},
-		"animation.megarayquaza.ground_idle": {
+		"animation.megarayquaza_atm.ground_idle": {
 			"loop": true,
 			"animation_length": 8,
 			"bones": {
@@ -1339,7 +1339,7 @@
 				}
 			}
 		},
-		"animation.megarayquaza.cry": {
+		"animation.megarayquaza_atm.cry": {
 			"animation_length": 8,
 			"bones": {
 				"body": {
@@ -2672,9 +2672,14 @@
 						"2.5": [0, 0, 0]
 					}
 				}
+			},
+			"sound_effects": {
+				"0.1": {
+					"effect": "pokemon.rayquazamega.cry"
+				}
 			}
 		},
-		"animation.megarayquaza.faint": {
+		"animation.megarayquaza_atm.faint": {
 			"animation_length": 3.9167,
 			"bones": {
 				"body": {
@@ -4277,7 +4282,7 @@
 				}
 			}
 		},
-		"animation.megarayquaza.special_attack": {
+		"animation.megarayquaza_atm.special_attack": {
 			"animation_length": 2.4583,
 			"bones": {
 				"body": {
@@ -5719,7 +5724,7 @@
 				}
 			}
 		},
-		"animation.megarayquaza.physical_attack": {
+		"animation.megarayquaza_atm.physical_attack": {
 			"animation_length": 3.75,
 			"bones": {
 				"body": {
@@ -10089,7 +10094,7 @@
 				}
 			}
 		},
-		"animation.megarayquaza.blink": {
+		"animation.megarayquaza_atm.blink": {
 			"animation_length": 0.1667,
 			"bones": {
 				"eye_right": {

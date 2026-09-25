@@ -386,7 +386,7 @@ hash = "977adfaba57c976ac3b8d0e0364cdd1f658b1e29394cfb855857be581e5a497c"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "f778843e1a4d192bcd0ee449e5e312c2656812b3e5d079814e9ee0520a14cf4b"
+hash = "45eccad6e3b3d9bf6fc30c673702623997fe61997e26e06399cece30343ca208"
 
 [[files]]
 file = "config/cobbreeding/main.json"
@@ -4035,6 +4035,62 @@ hash = "e6e45ab5bc5661821f00b1ae01ee9d8ab9b4692cb45e8b0b26a132d58eb199ad"
 [[files]]
 file = "kubejs/assets/astikorcarts/lang/zh_tw.json"
 hash = "aa3b0244b1a306b3c947f5b2b99ed111cb9fed8342f2d683039e0806a131bcec"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/bedrock/pokemon/animations/0384_rayquaza/megarayquaza_atm.animation.json"
+hash = "264a636f66d375cfb4f64a1ccf440bc0109809cd9479034e6e39a5cc9caaadcc"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/bedrock/pokemon/animations/0384_rayquaza/rayquaza_atm.animation.json"
+hash = "d62549068e65199fe7762f5d838cc8acf2e18c384bad5a003a78ec1f8d31b729"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/bedrock/pokemon/models/0384_rayquaza/megarayquaza.geo.json"
+hash = "2806c56feaee0231364acbfb401a3b806a785773f44608a069d5557218f696e5"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/bedrock/pokemon/models/0384_rayquaza/rayquaza2.geo.json"
+hash = "aa45ab802ec971eabfa1d9fe09ce95774e961ed7fb5acf2c719e1cb4053b7910"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/bedrock/pokemon/posers/0384_rayquaza/megarayquaza.json"
+hash = "bfc3016064470af9a02041d70c453dc3c146ef22344ce277af4648549604db18"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/bedrock/pokemon/posers/0384_rayquaza/rayquaza2.json"
+hash = "3122371ce19991611732e892cbc62c7f655d8c794fb0281457312eb73d8cbfd8"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/bedrock/pokemon/resolvers/0384_rayquaza/1_rayquaza_base.json"
+hash = "02a43f32c8eb1ba06508bcb3bfd05d867e62be355b27ceb4285245f4172d123f"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/bedrock/pokemon/resolvers/0384_rayquaza/2_rayquaza_mega.json"
+hash = "0585e232f1124105efd79ad7783b8cb021466dcc8f30464b0c0b746e3225a9c9"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/textures/pokemon/0384_rayquaza/megarayquaza.png"
+hash = "68763c21319cbdd01a5774d1fa80710edf8f21f50cee502479dadebde7f1aacd"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/textures/pokemon/0384_rayquaza/megarayquaza_emissive.png"
+hash = "79a6470dc83115459a041e22551608715929d8faff181259d18e98f82185beb2"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/textures/pokemon/0384_rayquaza/megarayquaza_emissive_shiny.png"
+hash = "79a6470dc83115459a041e22551608715929d8faff181259d18e98f82185beb2"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/textures/pokemon/0384_rayquaza/megarayquaza_shiny.png"
+hash = "7cf212fca2ec1c3e32c387ff7c36db12bc58d984619266d05ac4e8a748cc63e8"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/textures/pokemon/0384_rayquaza/rayquaza.png"
+hash = "0e89fb397301a72b291cbeb2c215675f666f97330dbce56ea14a4c6c00a3c169"
+
+[[files]]
+file = "kubejs/assets/atm_remodels/textures/pokemon/0384_rayquaza/rayquaza_shiny.png"
+hash = "1679f18d7e7858a817343b33829af80f8fd12b4a24f009abafc70a3a7ad009b0"
 
 [[files]]
 file = "kubejs/assets/beneath/blockstates/sulfur.json"
@@ -9001,10 +9057,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/marshadow/marshadow.a
 hash = "37403621635dee7ecf9254818c184078389baf1ebbd75a187773b99364e953fd"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/megarayquaza/megarayquaza.animation.json"
-hash = "06c41afe6e4f3ae445f4bdb3972a3583e6a82c04b09f9b5e4f9c06cc776f9310"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/animations/melmetal/melmetal.animation.json"
 hash = "35b2f7f990804661f81a3a87e6ccbf0a0f28c24417ecf4dd30f42056bf9cd31a"
 
@@ -9577,10 +9629,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/models/marshadow/marshadow.geo.j
 hash = "e2e63c4349e85f1f2d6d4d469037f546f8674c259f57bb438cc8c99f5c0065f0"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/megarayquaza/megarayquaza.geo.json"
-hash = "77fcf68d05365a73eadcf1137c2448f7459df44bd56c102c73fd94e8b138953d"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/melmetal/melmetal.geo.json"
 hash = "c8220994ae94cde60ea7c7acb6ede742291c04be78fd442b823846cdcef9c673"
 
@@ -9771,10 +9819,6 @@ hash = "ebf93bd3f37fbc951b129f9067c69ca063500f92d6b25057b65d553f83b8eef2"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/ragingbolt.geo.json"
 hash = "08545963a0fa347d1cf45abc1de820786e5740c0e03cacc414d9ba9191043eee"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/models/rayquaza/rayquaza2.geo.json"
-hash = "5b0aab162401093d89a00a2a6928abc7d997e0d97395431ababd8bd1cdcf2052"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/models/reshiram/reshiram.geo.json"
@@ -10297,10 +10341,6 @@ file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/marshadow.json"
 hash = "e1b9a142cffed05a44e1d2d0e5edc27ddb359780e2e430d6197f7051b6ba0be9"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/megarayquaza.json"
-hash = "245dc482a972b2a3d319a97506e93f3c3316e5cfb57c297e7dd369463ae7e61c"
-
-[[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/melmetal.json"
 hash = "bfe672c15c9e3f04d02f07b35244298c11c6db7ee7e7e5d55d6e7e72c76a904d"
 
@@ -10387,10 +10427,6 @@ hash = "eb8446d5b7ab43915b5c5e15a33d36bc1f856583c222b8318e4b8ffa3e535e08"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/ragingbolt.json"
 hash = "8e0b889f2a168af2d95f5cfddaba422b8def8e5929e2bce194817685b8e3053b"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/rayquaza/rayquaza2.json"
-hash = "30aad7fd9bd990ddac97846a7044f85f340e5bc1a7589d9ce8fe50c21d2af1bb"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/reshiram.json"
@@ -10939,10 +10975,6 @@ hash = "1d0c2a7f615cd482abc6ca8d370e7ebfff019c93178e589598dddbe7ee49f1b1"
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/ogerpon/0_ogerponwater_base.json"
 hash = "bdd10230e34b7a340c75f8b742d5dfdb883415c532a9d59d3c153a302365b7d2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/rayquaza/2_megarayquaza_base.json"
-hash = "e3b6a867a31ba6fc0766d63079acb307719743015cb552e0e03f5f56f39902a9"
 
 [[files]]
 file = "kubejs/assets/cobblemon/bedrock/pokemon/resolvers/urshifu/0_urshifu_base.json"
@@ -11963,22 +11995,6 @@ hash = "fee177efeb39feaf89faf3e87462787c390358613acdce943e09d1d4b95eeff1"
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/marshadow/marshadow_shiny.png"
 hash = "080f8364a15c4b52ff465a6bd05b6d85d290ec7479816d3988a73414a2a93c9e"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/megarayquaza/megarayquaza.png"
-hash = "68763c21319cbdd01a5774d1fa80710edf8f21f50cee502479dadebde7f1aacd"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/megarayquaza/megarayquaza_emissive.png"
-hash = "79a6470dc83115459a041e22551608715929d8faff181259d18e98f82185beb2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/megarayquaza/megarayquaza_emissive_shiny.png"
-hash = "79a6470dc83115459a041e22551608715929d8faff181259d18e98f82185beb2"
-
-[[files]]
-file = "kubejs/assets/cobblemon/textures/pokemon/megarayquaza/megarayquaza_shiny.png"
-hash = "7cf212fca2ec1c3e32c387ff7c36db12bc58d984619266d05ac4e8a748cc63e8"
 
 [[files]]
 file = "kubejs/assets/cobblemon/textures/pokemon/melmetal/melmetal.png"

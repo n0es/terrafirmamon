@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:sinistea",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "is_antique"
+      ],
+      "poser": "cobblemon:sinistea",
+      "model": "cobblemon:sinistea_antique.geo",
+      "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "is_antique",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea_shiny.png"
+    }
+  ]
+}

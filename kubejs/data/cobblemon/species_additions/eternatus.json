@@ -42,5 +42,7 @@
         "percentage": 35.0
       }
     ]
-  }
+  },
+  "shoulderMountable": false,
+  "dynamaxBlocked": true
 }

@@ -26,5 +26,14 @@
         "percentage": 5.0
       }
     ]
+  },
+  "shoulderMountable": false,
+  "behaviour": {
+    "moving": {
+      "swim": {
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
   }
 }

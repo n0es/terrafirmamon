@@ -32,5 +32,6 @@
       "depth": "normal",
       "light": "0-4"
     }
-  }
+  },
+  "shoulderMountable": false
 }

@@ -18,5 +18,19 @@
         "percentage": 40.0
       }
     ]
+  },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving": {
+      "swim": {
+        "canWalkOnWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
   }
 }

@@ -13,5 +13,6 @@
         "percentage": 10.0
       }
     ]
-  }
+  },
+  "shoulderMountable": false
 }

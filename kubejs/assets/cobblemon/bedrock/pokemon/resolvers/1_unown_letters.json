@@ -1,210 +1,454 @@
 {
-    "species": "cobblemon:unown",
-    "order": 1,
-    "variations": [
-        {
-            "aspects": [
-                "letter-a"
-            ],
-            "model": "cobblemon:unown_a.geo"
-        },
-        {
-            "aspects": [
-                "letter-b"
-            ],
-            "model": "cobblemon:unown_b.geo"
-        },
-        {
-            "aspects": [
-                "letter-c"
-            ],
-            "model": "cobblemon:unown_c.geo"
-        },
-        {
-            "aspects": [
-                "letter-d"
-            ],
-            "model": "cobblemon:unown_d.geo"
-        },
-        {
-            "aspects": [
-                "letter-e"
-            ],
-            "model": "cobblemon:unown_e.geo"
-        },
-        {
-            "aspects": [
-                "letter-f"
-            ],
-            "model": "cobblemon:unown_f.geo"
-        },
-        {
-            "aspects": [
-                "letter-g"
-            ],
-            "model": "cobblemon:unown_g.geo"
-        },
-        {
-            "aspects": [
-                "letter-h"
-            ],
-            "model": "cobblemon:unown_h.geo"
-        },
-        {
-            "aspects": [
-                "letter-i"
-            ],
-            "model": "cobblemon:unown_i.geo"
-        },
-        {
-            "aspects": [
-                "letter-j"
-            ],
-            "model": "cobblemon:unown_j.geo"
-        },
-        {
-            "aspects": [
-                "letter-k"
-            ],
-            "model": "cobblemon:unown_k.geo"
-        },
-        {
-            "aspects": [
-                "letter-l"
-            ],
-            "model": "cobblemon:unown_l.geo"
-        },
-        {
-            "aspects": [
-                "letter-m"
-            ],
-            "model": "cobblemon:unown_m.geo"
-        },
-        {
-            "aspects": [
-                "letter-n"
-            ],
-            "model": "cobblemon:unown_n.geo"
-        },
-        {
-            "aspects": [
-                "letter-o"
-            ],
-            "model": "cobblemon:unown_o.geo"
-        },
-        {
-            "aspects": [
-                "letter-p"
-            ],
-            "model": "cobblemon:unown_p.geo"
-        },
-        {
-            "aspects": [
-                "letter-q"
-            ],
-            "model": "cobblemon:unown_q.geo"
-        },
-        {
-            "aspects": [
-                "letter-r"
-            ],
-            "model": "cobblemon:unown_r.geo"
-        },
-        {
-            "aspects": [
-                "letter-s"
-            ],
-            "model": "cobblemon:unown_s.geo"
-        },
-        {
-            "aspects": [
-                "letter-t"
-            ],
-            "model": "cobblemon:unown_t.geo"
-        },
-        {
-            "aspects": [
-                "letter-u"
-            ],
-            "model": "cobblemon:unown_u.geo"
-        },
-        {
-            "aspects": [
-                "letter-v"
-            ],
-            "model": "cobblemon:unown_v.geo"
-        },
-        {
-            "aspects": [
-                "letter-w"
-            ],
-            "model": "cobblemon:unown_w.geo"
-        },
-        {
-            "aspects": [
-                "letter-x"
-            ],
-            "model": "cobblemon:unown_x.geo"
-        },
-        {
-            "aspects": [
-                "letter-y"
-            ],
-            "model": "cobblemon:unown_y.geo"
-        },
-        {
-            "aspects": [
-                "letter-z"
-            ],
-            "model": "cobblemon:unown_z.geo"
-        },
-        {
-            "aspects": [
-                "letter-exclamation"
-            ],
-            "model": "cobblemon:unown_exclamation.geo",
-			            "texture": "cobblemon:textures/pokemon/0201_unown/unown_punctuation.png",
-            "layers": [        {
-          "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/0201_unown/unown_punctuation_emissive.png",
-          "emissive": true
-        }]
-        },
-		        {
-            "aspects": [
-                "letter-exclamation","shiny"
-            ],
-            "model": "cobblemon:unown_exclamation.geo",
-			            "texture": "cobblemon:textures/pokemon/0201_unown/unown_punctuation_shiny.png",
-            "layers": [        {
-          "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/0201_unown/unown_punctuation_shiny_emissive.png",
-          "emissive": true
-        }]
-        },
-        {
-            "aspects": [
-                "letter-question"
-            ],
-            "model": "cobblemon:unown_question.geo",
-			            "texture": "cobblemon:textures/pokemon/0201_unown/unown_punctuation.png",
-            "layers": [        {
-          "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/0201_unown/unown_punctuation_emissive.png",
-          "emissive": true
-        }]
-        },
-		        {
-            "aspects": [
-                "letter-question","shiny"
-            ],
-            "model": "cobblemon:unown_question.geo",
-			            "texture": "cobblemon:textures/pokemon/0201_unown/unown_punctuation_shiny.png",
-            "layers": [        {
-          "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/0201_unown/unown_punctuation_shiny_emissive.png",
-          "emissive": true
-        }]
-        }
-    ]
+  "species": "cobblemon:unown",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "letter-a"
+      ],
+      "poser": "cobblemon:unown_a",
+      "model": "cobblemon:unown_a.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_a.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-a",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_a_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-b"
+      ],
+      "poser": "cobblemon:unown_b",
+      "model": "cobblemon:unown_b.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_b.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-b",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_b_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-c"
+      ],
+      "poser": "cobblemon:unown_c",
+      "model": "cobblemon:unown_c.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_c.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-c",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_c_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-d"
+      ],
+      "poser": "cobblemon:unown_d",
+      "model": "cobblemon:unown_d.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_d.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-d",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_d_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-e"
+      ],
+      "poser": "cobblemon:unown_e",
+      "model": "cobblemon:unown_e.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_e.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-e",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_e_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-f"
+      ],
+      "poser": "cobblemon:unown_f",
+      "model": "cobblemon:unown_f.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_f.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-f",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_f_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-g"
+      ],
+      "poser": "cobblemon:unown_g",
+      "model": "cobblemon:unown_g.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_g.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-g",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_g_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-h"
+      ],
+      "poser": "cobblemon:unown_h",
+      "model": "cobblemon:unown_h.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_h.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-h",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_h_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-i"
+      ],
+      "poser": "cobblemon:unown_i",
+      "model": "cobblemon:unown_i.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_i.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-i",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_i_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-j"
+      ],
+      "poser": "cobblemon:unown_j",
+      "model": "cobblemon:unown_j.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_j.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-j",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_j_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-k"
+      ],
+      "poser": "cobblemon:unown_k",
+      "model": "cobblemon:unown_k.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_k.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-k",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_k_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-l"
+      ],
+      "poser": "cobblemon:unown_l",
+      "model": "cobblemon:unown_l.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_l.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-l",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_l_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-m"
+      ],
+      "poser": "cobblemon:unown_m",
+      "model": "cobblemon:unown_m.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_m.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-m",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_m_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-n"
+      ],
+      "poser": "cobblemon:unown_n",
+      "model": "cobblemon:unown_n.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_n.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-n",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_n_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-o"
+      ],
+      "poser": "cobblemon:unown_o",
+      "model": "cobblemon:unown_o.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_o.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-o",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_o_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-p"
+      ],
+      "poser": "cobblemon:unown_p",
+      "model": "cobblemon:unown_p.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_p.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-p",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_p_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-q"
+      ],
+      "poser": "cobblemon:unown_q",
+      "model": "cobblemon:unown_q.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_q.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-q",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_q_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-r"
+      ],
+      "poser": "cobblemon:unown_r",
+      "model": "cobblemon:unown_r.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_r.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-r",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_r_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-s"
+      ],
+      "poser": "cobblemon:unown_s",
+      "model": "cobblemon:unown_s.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_s.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-s",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_s_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-t"
+      ],
+      "poser": "cobblemon:unown_t",
+      "model": "cobblemon:unown_t.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_t.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-t",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_t_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-u"
+      ],
+      "poser": "cobblemon:unown_u",
+      "model": "cobblemon:unown_u.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_u.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-u",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_u_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-v"
+      ],
+      "poser": "cobblemon:unown_v",
+      "model": "cobblemon:unown_v.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_v.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-v",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_v_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-w"
+      ],
+      "poser": "cobblemon:unown_w",
+      "model": "cobblemon:unown_w.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_w.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-w",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_w_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-x"
+      ],
+      "poser": "cobblemon:unown_x",
+      "model": "cobblemon:unown_x.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_x.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-x",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_x_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-y"
+      ],
+      "poser": "cobblemon:unown_y",
+      "model": "cobblemon:unown_y.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_y.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-y",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_y_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-z"
+      ],
+      "poser": "cobblemon:unown_z",
+      "model": "cobblemon:unown_z.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_z.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-z",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_z_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-question"
+      ],
+      "poser": "cobblemon:unown_question",
+      "model": "cobblemon:unown_question.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_question.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-question",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_question_shiny.png"
+    },
+    {
+      "aspects": [
+        "letter-exclamation"
+      ],
+      "poser": "cobblemon:unown_exclamation",
+      "model": "cobblemon:unown_exclamation.geo",
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_exclamation.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "letter-exclamation",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0201_unown/unown_exclamation_shiny.png"
+    }
+  ]
 }

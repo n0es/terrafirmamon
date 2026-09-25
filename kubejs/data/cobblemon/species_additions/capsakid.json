@@ -16,5 +16,14 @@
         "percentage": 2.5
       }
     ]
+  },
+  "shoulderMountable": true,
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": true,
+      "depth": "normal",
+      "light": "0-4"
+    }
   }
 }

@@ -1,0 +1,60 @@
+{
+  "species": "cobblemon:shellos",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:shellos_east",
+      "model": "cobblemon:shellos_east.geo",
+      "texture": "cobblemon:textures/pokemon/0422_shellos/shellos_east.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0422_shellos/shellos_east_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0422_shellos/shellos_east_alpha.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "west"
+      ],
+      "poser": "cobblemon:shellos_west",
+      "model": "cobblemon:shellos_west.geo",
+      "texture": "cobblemon:textures/pokemon/0422_shellos/shellos_west.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "west",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0422_shellos/shellos_west_shiny.png"
+    },
+    {
+      "aspects": [
+        "west",
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0422_shellos/shellos_west_alpha.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

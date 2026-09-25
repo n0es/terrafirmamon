@@ -18,5 +18,10 @@
         "percentage": 35.0
       }
     ]
-  }
+  },
+  "shoulderMountable": false,
+  "features": [
+    "black",
+    "white"
+  ]
 }

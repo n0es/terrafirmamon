@@ -1,0 +1,7 @@
+{
+  "target": "cobblemon:sinistea",
+  "shoulderMountable": false,
+  "features": [
+    "is_antique"
+  ]
+}

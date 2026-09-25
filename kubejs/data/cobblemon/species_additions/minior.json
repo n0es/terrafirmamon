@@ -8,5 +8,6 @@
         "quantityRange": "1-2"
       }
     ]
-  }
+  },
+  "shoulderMountable": false
 }

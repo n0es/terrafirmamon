@@ -18,5 +18,27 @@
         "percentage": 40.0
       }
     ]
-  }
+  },
+  "shoulderMountable": false,
+  "behaviour": {
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "walkSpeed": 0.2,
+        "canWalk": true,
+        "avoidsLand": false
+      },
+      "fly": {
+        "canFly": false
+      },
+      "swim": {
+        "swimSpeed": 0.5,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  },
+  "features": [
+    "primal"
+  ]
 }

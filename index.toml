@@ -942,7 +942,7 @@ hash = "e9c51bc48cd9a30f480bb9de30d02f70a7d15b193d5e1d5ca4b18dfb64a3470c"
 
 [[files]]
 file = "config/fancymenu/assets/version.txt"
-hash = "206620a657f1ccc8af72b866fdcef20e641c48f39ce27f338ce8313949c63e53"
+hash = "1ec4fab0d8dd5eafef82e67f61a35c03ee994988a5293e17cf3d3e97c3511847"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -2646,7 +2646,7 @@ hash = "eeb5ba24a9577330b15eb6bcc7492dba57ce01aad59c6b69f1d6426bc76fa028"
 
 [[files]]
 file = "defaultconfigs/tfg-server.toml"
-hash = "1ff800b156a9e1c2fd6484a6816a5617e3c442066a87ea89f009b310ca7a4e87"
+hash = "045e5f07346e6889648a9cad67d404855a04486b77cd8305fbc1617efde90232"
 
 [[files]]
 file = "defaultconfigs/toolbelt-server.toml"

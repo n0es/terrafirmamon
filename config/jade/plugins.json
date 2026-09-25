@@ -246,9 +246,6 @@
   "afc": {
     "tap": true
   },
-  "cobblemon": {
-    "sapling_growth": true
-  },
   "tfc_support_indicator": {
     "support_indicator": true
   }

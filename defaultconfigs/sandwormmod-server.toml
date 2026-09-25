@@ -27,7 +27,7 @@
 	#    "minecraft:jungle"
 	#  ]
 	#}
-	default_spawning = true
+	default_spawning = false
 
 [trigger]
 	#Wormsign increment per tick when player sprinting. Default 4.
@@ -43,11 +43,11 @@
 	#- BLACKLIST: all vehicles except those in the blacklist trigger (whitelist ignored).
 	#- BOTH: vehicle must be in whitelist AND not in blacklist to trigger.
 	#Allowed Values: ALL, NONE, WHITELIST, BLACKLIST, BOTH
-	vehicle_trigger_mode = "ALL"
+	vehicle_trigger_mode = "BOTH"
 	#List of vehicles that will NOT trigger sandworms. Format: ["modid:*", "modid:entity_name", "*horse", "*car*"]. Default: empty.
-	vehicle_blacklist = []
+	vehicle_blacklist = ["wan_ancient_beasts:soarer", "wan_ancient_beasts:surfer", "tfg:surfer"]
 	#List of vehicles that WILL trigger sandworms. Format: ["modid:*", "modid:entity_name", "*horse", "*car*"]. Default: empty.
-	vehicle_whitelist = []
+	vehicle_whitelist = ["ad_astra:tier_1_rover"]
 	#Enable warning messages when sandworm is approaching (messages to nearby players)
 	enable_warning_messages = false
 

@@ -941,6 +941,10 @@ file = "config/fancymenu/assets/tooltip_400x21_empty.png"
 hash = "e9c51bc48cd9a30f480bb9de30d02f70a7d15b193d5e1d5ca4b18dfb64a3470c"
 
 [[files]]
+file = "config/fancymenu/assets/version.txt"
+hash = "206620a657f1ccc8af72b866fdcef20e641c48f39ce27f338ce8313949c63e53"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "2c1983038a2df6cef0451b73c85c9d61d0829b04b17e5081fc7190f7bb93a455"
 
@@ -962,11 +966,11 @@ hash = "8ff6c9581f95c4356f0029c501113071a2f2fe38be61e60da096ae3ca9cd32c5"
 
 [[files]]
 file = "config/fancymenu/customization/gui_main_menu.txt"
-hash = "0b110def8b32c05f0b25f10d8420900b13a3542e73311b140c9abb92ba7cad7f"
+hash = "42a924813c88de0b37562b29ac473c2ae8c9424259477d1ceceb9244c153ccc5"
 
 [[files]]
 file = "config/fancymenu/customization/gui_main_menu_beneath.txt"
-hash = "5566656eab9e696091fe48c393e979dc1d7397d643ef0b09423fa469b2e5bd65"
+hash = "2df60cad5861f0ea67274aff583878a478db0d7377064a6010f92b4e844cc4c6"
 
 [[files]]
 file = "config/fancymenu/customization/gui_pause_menu.txt"

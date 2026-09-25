@@ -72,6 +72,23 @@ The two jars published on this repo's releases are the only ones that are ours t
 | `Cobblemon-forge-1.8.0+1.20.1.jar` | Cobblemon 1.8.0 backported from 1.21.1 to 1.20.1, so the current Cobblemon can run on the version TerraFirmaGreg targets | MPL-2.0, as Cobblemon |
 | `snsfix-1.0.2.jar` | A small mixin fixing Sacks 'N Such containers losing their contents in creative | MIT |
 
+## Releasing an update
+
+The pack carries a version number, shown under the logo on the main menu. It lives in exactly two
+files and they must not drift, so bump them together:
+
+```
+python scripts/bump_version.py            # 1.2.1 -> 1.2.2
+python scripts/bump_version.py minor      # 1.2.1 -> 1.3.0
+python scripts/bump_version.py 2.0.0      # explicit
+```
+
+That rewrites `pack.toml`, writes `config/fancymenu/assets/version.txt`, and refreshes the index
+hashes. Commit those three files with the change they describe and merge to `main`.
+
+Nothing else is needed: `version.txt` is a normal pack file, so the same packwiz sync that
+installs the update also updates what the menu reads, on clients and on the server.
+
 ## Credits
 
 This pack is other people's work with some glue on top. In particular:

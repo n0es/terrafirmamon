@@ -24,5 +24,31 @@
         "canBreatheUnderwater": false
       }
     }
+  },
+  "shoulderMountable": false,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "cobblemon:rare_candy",
+        "quantityRange": "5-10"
+      },
+      {
+        "item": "minecraft:echo_shard",
+        "quantityRange": "2-11"
+      },
+      {
+        "item": "cobblemon:cell_battery",
+        "percentage": 50.0
+      },
+      {
+        "item": "cobblemon:ability_capsule",
+        "percentage": 25.0
+      },
+      {
+        "item": "cobblemon:ability_patch",
+        "percentage": 5.0
+      }
+    ]
   }
 }

@@ -1,10 +1,30 @@
 {
- "target": "cobblemon:greavard",
- "baseScale": 0.7,
+  "target": "cobblemon:greavard",
+  "baseScale": 0.7,
   "hitbox": {
     "width": 1,
     "height": 1,
     "fixed": false
+  },
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "minecraft:rotten_flesh",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:candle",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:kasib_berry",
+        "percentage": 2.5
+      }
+    ]
   }
-
-  }
+}

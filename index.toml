@@ -386,7 +386,7 @@ hash = "977adfaba57c976ac3b8d0e0364cdd1f658b1e29394cfb855857be581e5a497c"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "45eccad6e3b3d9bf6fc30c673702623997fe61997e26e06399cece30343ca208"
+hash = "f778843e1a4d192bcd0ee449e5e312c2656812b3e5d079814e9ee0520a14cf4b"
 
 [[files]]
 file = "config/cobbreeding/main.json"
@@ -60946,7 +60946,7 @@ hash = "b66502924f15d194d5184b3368d95093cee71537bfa4de5b5a185fae3dd4d28c"
 
 [[files]]
 file = "kubejs/data/cobblemon/species_additions/rayquaza.json"
-hash = "10468065df9357875ecc8f209ffb9910aadce2d017b6f2b931a1b7d6a8178974"
+hash = "a447c91068dab560b2cc5956151c871dea9876d0e00df7d70b44a8c87976acbd"
 
 [[files]]
 file = "kubejs/data/cobblemon/species_additions/regice.json"

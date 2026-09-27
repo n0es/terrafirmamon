@@ -8,6 +8,9 @@ const registerCreateItemTags = (event) => {
 	event.add("curios:face", "create:goggles")
 	
 	event.add('c:hidden_from_recipe_viewers', 'create:creative_blaze_cake')
+	// Hidden here rather than in reliable_remover: that item places create:blaze_burner,
+	// so removing it there strips every tag from the real burner block (no tool, no drop).
+	event.add('c:hidden_from_recipe_viewers', 'create:empty_blaze_burner')
 	event.add('c:hidden_from_recipe_viewers', 'create:tree_fertilizer')
 	event.add('c:hidden_from_recipe_viewers', 'create:creative_crate')
 	event.add('c:hidden_from_recipe_viewers', 'create:creative_fluid_tank')

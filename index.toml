@@ -942,7 +942,7 @@ hash = "e9c51bc48cd9a30f480bb9de30d02f70a7d15b193d5e1d5ca4b18dfb64a3470c"
 
 [[files]]
 file = "config/fancymenu/assets/version.txt"
-hash = "0a5d71a53024d9d6a410062789da3fe155ba44cca15210791fb8ae09c749426c"
+hash = "3cfdd765eeb58e66e8c3f96381c1bec1bc330798bd661a8b2ef25ea0412057ad"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -1926,7 +1926,7 @@ hash = "dcc21e764003ad01b3126bdb9f3bf7b77dea0318bfd5e779e3270938e0dcad17"
 
 [[files]]
 file = "config/reliable_remover/create.json"
-hash = "74ccdeb932c580fb719dea2ad31c4dd75dabefa3921ab1cf4469000d93b17ffc"
+hash = "5051dadcbcd51c61b80cba34adf418705134378bba79159f8a3042ca5965a930"
 
 [[files]]
 file = "config/reliable_remover/create_additions.json"
@@ -74390,7 +74390,7 @@ hash = "5107306343386913832209383247419cb41f737347ab6c9c225957681090d465"
 
 [[files]]
 file = "kubejs/server_scripts/create/tags.js"
-hash = "f4be425072c914ab0b3dc88df9b389d50fe4d3d605580398788eafc38e48ac32"
+hash = "cf79a0e9bfdbd712219426f62d1cd7d9e0c3150a86b486bac8a69a403b3f6f23"
 
 [[files]]
 file = "kubejs/server_scripts/create_additions/data.js"

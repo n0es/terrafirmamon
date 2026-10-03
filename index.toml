@@ -265,6 +265,10 @@ file = "config/betterthirdperson-common.toml"
 hash = "1cae9855e777afbbdca5cd858bc66d10069c902fbd1b8d073cbedace3fa71779"
 
 [[files]]
+file = "config/bits_n_bobs-common.toml"
+hash = "beb3b148ff5cb5a8d0ff6e62ec90324c22a9696f95b208e970edd564590d8c0c"
+
+[[files]]
 file = "config/blockrunner-client.toml"
 hash = "4860be3782bf3cdcfbc9ab1729f420b97d5d39c4bd3c609f424c9c67b40a434b"
 
@@ -942,7 +946,7 @@ hash = "e9c51bc48cd9a30f480bb9de30d02f70a7d15b193d5e1d5ca4b18dfb64a3470c"
 
 [[files]]
 file = "config/fancymenu/assets/version.txt"
-hash = "3cfdd765eeb58e66e8c3f96381c1bec1bc330798bd661a8b2ef25ea0412057ad"
+hash = "e7115f22d93c8e617827a5d70f6189a6f8ffeccf1d95db2633452aa5ed5a8a1b"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -74409,6 +74413,10 @@ file = "kubejs/server_scripts/create_additions/tags.js"
 hash = "887cfe0388911c69c902d723c77d20dd9787992fa1d3d1a65932c1c256960cd1"
 
 [[files]]
+file = "kubejs/server_scripts/create_bits_n_bobs/tags.js"
+hash = "0d46546304791f7eba1a3f0b5c3dc6b35a2ea5dededb222cf74de9b187cdf408"
+
+[[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"
 hash = "c5873662e3f095c2139034113d5600e88ae9ef5aed892680c9d4a29019207754"
 
@@ -74682,7 +74690,7 @@ hash = "5a9198d5b629f488492de709cc231c831ae77126c9ea8a054e3fdcf4af619584"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "c097f367dfcb70f85cb4cf1cf1feeee4ba7819e11d98dd95fa08780e00207648"
+hash = "73822f8eb182e74cefdef2e30dcdc91814245b1ac958864611a77adeb43bbc6d"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
@@ -76610,6 +76618,11 @@ metafile = true
 [[files]]
 file = "mods/betterp2p-1.5.0-forge.pw.toml"
 hash = "57d0bc9c3c9e35364014e420d8ea1e9e577d47b7c8f3826ef174b6ebc2bb453c"
+metafile = true
+
+[[files]]
+file = "mods/bits-n-bobs-tfm.pw.toml"
+hash = "55d10dbced3f8249763c2761294d6ec83a85e4628bd1b7dd99b122a67f7bb9f6"
 metafile = true
 
 [[files]]

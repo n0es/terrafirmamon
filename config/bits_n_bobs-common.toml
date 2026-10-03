@@ -1,0 +1,44 @@
+
+#.
+#Feature flags to enable or disable certain features of the mod.
+[featureFlags]
+	#.
+	#Ability for the player to create chain drives using create's cogwheels.
+	cogwheelChainDrives = true
+	#.
+	#Ability for the player to create chain drives using the flanged gear cogwheels.
+	flangedChainDrives = false
+	#.
+	#Availability of the Chain Pulley block.
+	chainPulley = false
+	#.
+	#Availability of the Flywheel Bearing block. (In development)
+	experimentalFlywheelBearing = false
+	#.
+	#Availability of the weathered girder block.
+	weatheredGirder = false
+	#.
+	#Availability of the girder strut blocks.
+	girderStrut = false
+	#.
+	#Availability of Nixie Board block.
+	nixieBoard = false
+	#.
+	#Availability of Large Nixie Tube block.
+	largeNixieTube = false
+	#.
+	#Availability of the Lightbulb block.
+	lightbulb = false
+	#.
+	#Availability of the Brass Lamp block.
+	brassLamp = false
+	#.
+	#Availability of the Headlamp block.
+	headlamp = false
+	#.
+	#Availability of the Chair blocks.
+	chairs = false
+	#.
+	#Availability of the tile decoration blocks.
+	tiles = false
+

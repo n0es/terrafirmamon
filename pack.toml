@@ -1,12 +1,12 @@
 name = "TerraFirmaMon"
 author = "n0es"
-version = "1.2.7"
+version = "1.2.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f93de8a6c1a6bc4f7a48bf4deff3f1cd6311d36bcc45873dfaeeb7d783236604"
+hash = "6ed7ef6fcf75ea40acb6d6562213ea0e33c7fe419f139ffb46d639d3295849ab"
 
 [versions]
 minecraft = "1.20.1"

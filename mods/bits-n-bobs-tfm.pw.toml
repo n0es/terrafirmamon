@@ -1,8 +1,8 @@
 name = "bits-n-bobs-tfm"
-filename = "bits_n_bobs-0.0.41-tfm.1.jar"
+filename = "bits_n_bobs-0.0.41-tfm.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/n0es/Create-Bits-n-Bobs/releases/download/0.0.41-tfm.1/bits_n_bobs-0.0.41-tfm.1.jar"
+url = "https://github.com/n0es/Create-Bits-n-Bobs/releases/download/0.0.41-tfm.2/bits_n_bobs-0.0.41-tfm.2.jar"
 hash-format = "sha1"
-hash = "7a198d71d1d64915b7e5312ba3309c01fd0ba1e2"
+hash = "ae14a593b95ce301a02af7f1bd5ece6e3c3bae87"

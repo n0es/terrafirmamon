@@ -1,7 +1,7 @@
 // priority: 0
 "use strict";
 
-// Bits 'n' Bobs ships as a TerraFirmaMon fork (0.0.41-tfm.1) for one feature only: chain drives
+// Bits 'n' Bobs ships as a TerraFirmaMon fork (0.0.41-tfm.2) for one feature only: chain drives
 // wrapped around cogwheels. Every other feature is switched off in config/bits_n_bobs-common.toml.
 
 // Greate's cogwheel tiers that exist in this pack; the higher tiers are removed by reliable_remover.

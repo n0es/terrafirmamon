@@ -946,7 +946,7 @@ hash = "e9c51bc48cd9a30f480bb9de30d02f70a7d15b193d5e1d5ca4b18dfb64a3470c"
 
 [[files]]
 file = "config/fancymenu/assets/version.txt"
-hash = "e7115f22d93c8e617827a5d70f6189a6f8ffeccf1d95db2633452aa5ed5a8a1b"
+hash = "e89bacbcfb1726c15e26c5e057d40b0a722f3e2589d3daf067283a7acb801674"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -74414,7 +74414,7 @@ hash = "887cfe0388911c69c902d723c77d20dd9787992fa1d3d1a65932c1c256960cd1"
 
 [[files]]
 file = "kubejs/server_scripts/create_bits_n_bobs/tags.js"
-hash = "0d46546304791f7eba1a3f0b5c3dc6b35a2ea5dededb222cf74de9b187cdf408"
+hash = "8aa63e2621178f329ab775b2502e5d2ff90f57e9e268a5033d5b7073e5b90876"
 
 [[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"
@@ -76622,7 +76622,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-n-bobs-tfm.pw.toml"
-hash = "55d10dbced3f8249763c2761294d6ec83a85e4628bd1b7dd99b122a67f7bb9f6"
+hash = "d5c83ac9d08f7b65a1391fb94f38d717667c5448d6a40830f55ff4b0441098ed"
 metafile = true
 
 [[files]]
